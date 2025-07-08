@@ -57,7 +57,7 @@ class BackupSettingsViewController: HostingController<BackupSettingsView> {
     private static func loadBackupPlan(
         backupSubscriptionManager: BackupSubscriptionManager,
         db: DB,
-        networkManager: NetworkManager,
+        networkManager: NetworkManager
     ) async throws -> BackupPlanViewModel.BackupPlan {
         let backupSubscriberID: Data? = db.read { tx in
             backupSubscriptionManager.getIAPSubscriberData(tx: tx)?.subscriberId
