@@ -156,6 +156,7 @@ class AppSettingsViewController: OWSTableViewController2 {
                 self?.navigationController?.pushViewController(vc, animated: true)
             }
         ))
+        if CustomAppConfig.enablePin {
         if DependenciesBridge.shared.tsAccountManager.registrationStateWithMaybeSneakyTransaction.isPrimaryDevice == true {
             section1.add(.disclosureItem(
                 icon: .settingsLinkedDevices,
@@ -168,6 +169,9 @@ class AppSettingsViewController: OWSTableViewController2 {
                 }
             ))
         }
+        }
+        //《 disable feature donate 》
+        if CustomAppConfig.enableDonate {
         section1.add(.init(customCellBlock: { [weak self] in
             guard let self = self else { return UITableViewCell() }
             let accessoryContentView: UIView?
@@ -188,7 +192,8 @@ class AppSettingsViewController: OWSTableViewController2 {
             )
         }, actionBlock: { [weak self] in
             self?.didTapDonate()
-        }))
+        }))}
+        //《 disable feature donate 》
         contents.add(section1)
 
         let section2 = OWSTableSection()

@@ -332,20 +332,38 @@ class RegistrationPinViewController: OWSViewController {
 
     private var isViewAppeared = false
 
+    // 《skip pin》
     public override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
+        if CustomAppConfig.enablePin {
+            if !UIDevice.current.isIPhone5OrShorter {
+                // Small devices may obscure parts of the UI behind the keyboard, especially with larger
+                // font sizes.
+                pinTextField.becomeFirstResponder()
+            }
 
-        if !UIDevice.current.isIPhone5OrShorter {
-            // Small devices may obscure parts of the UI behind the keyboard, especially with larger
-            // font sizes.
-            pinTextField.becomeFirstResponder()
+            isViewAppeared = true
+
+            render()
         }
+        else {
+                presenter?.submitWithSkippedPin()
+            }
+        }
+    // 《skip pin》
+    // public override func viewDidAppear(_ animated: Bool) {
+    //     super.viewDidAppear(animated)
 
-        isViewAppeared = true
+    //     if !UIDevice.current.isIPhone5OrShorter {
+    //         // Small devices may obscure parts of the UI behind the keyboard, especially with larger
+    //         // font sizes.
+    //         pinTextField.becomeFirstResponder()
+    //     }
 
-        render()
-    }
+    //     isViewAppeared = true
 
+    //     render()
+    // }
     public override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
 

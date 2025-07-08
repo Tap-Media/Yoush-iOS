@@ -237,6 +237,7 @@ public class RegistrationNavigationController: OWSNavigationController {
                 update: nil
             )
         case .pinEntry(let state):
+            if CustomAppConfig.enablePin {
             return Controller(
                 type: RegistrationPinViewController.self,
                 make: { presenter in
@@ -255,7 +256,10 @@ public class RegistrationNavigationController: OWSNavigationController {
                         return RegistrationPinViewController(state: state, presenter: self)
                     }
                 }
-            )
+            )} else {
+                self.submitWithSkippedPin()
+                return nil
+            }
         case .pinAttemptsExhaustedWithoutReglock(let state):
             return Controller(
                 type: RegistrationPinAttemptsExhaustedAndMustCreateNewPinViewController.self,

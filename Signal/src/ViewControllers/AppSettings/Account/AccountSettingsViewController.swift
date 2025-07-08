@@ -38,6 +38,7 @@ class AccountSettingsViewController: OWSTableViewController2 {
 
         // Show the change pin and reglock sections
         if DependenciesBridge.shared.tsAccountManager.registrationStateWithMaybeSneakyTransaction.isRegisteredPrimaryDevice {
+            if CustomAppConfig.enablePin {
             let pinSection = OWSTableSection()
             pinSection.headerTitle = OWSLocalizedString(
                 "SETTINGS_PINS_TITLE",
@@ -115,6 +116,7 @@ class AccountSettingsViewController: OWSTableViewController2 {
                 }
             ))
             contents.add(advancedSection)
+            }
         }
 
         let accountSection = OWSTableSection()
