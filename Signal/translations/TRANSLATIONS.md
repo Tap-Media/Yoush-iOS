@@ -17,23 +17,23 @@ files into our English localization file:
 At this point you should see your new strings, untranslated in only the English
 (en) localization.
 
-Edit Signal/translations/en.lproj/Localizable.strings to translate your strings.
+Edit Yoush/translations/en.lproj/Localizable.strings to translate your strings.
 
 Commit these English translations with your work. Do not touch the non-English
-localizations. Those are updated as part of our release process by Signal
+localizations. Those are updated as part of our release process by Yoush
 Staff.
 
 ### Writing Good Translatable Strings
 
 Be sure to include comments in your translations, and enforce that other
-contributors do as well.  Why comment? For example, in English these are
+contributors do as well. Why comment? For example, in English these are
 the same, but in Finnish the noun/verb are distinct.
 
 #### English
 
     /* Tab button label which takes you to view all your archived conversations */
     ARCHIVE_HEADER="Archive"
-    
+
     /* Button label to archive the current conversation */
     ARCHIVE_ACTION="Archive"
 
@@ -47,10 +47,10 @@ the same, but in Finnish the noun/verb are distinct.
 
 Context should also provide a hint as to how much text should be
 provided. For example, is it an alert title, which can be a few words, a
-button, which must be *very* short, or an alert message, which can be a
+button, which must be _very_ short, or an alert message, which can be a
 little longer?
 
-## For Maintainers (Signal Staff)
+## For Maintainers (Yoush Staff)
 
 Translations are solicited on Transifex[https://www.transifex.com/signalapp/signal-ios/]. We
 upload our source language (US English) to Transifex, where our
@@ -60,7 +60,7 @@ we pull their latest work into the codebase.
 ## Fetch Translations
 
 Generally, you want to fetch the latest translations whenever releasing. The
-exception is if you have recently changed lots of existing source strings 
+exception is if you have recently changed lots of existing source strings
 that haven't had a chance to be translated.
 
 To fetch the latest translations:
@@ -79,12 +79,11 @@ the Xcode project to include the new localization.
 ### Upload Strings to be Translated
 
 Make new source strings available to our translators by uploading them
-to Transifex. Immediately after uploading we also need to pull down the 
-updated translations. Granted, at this point, the new strings will be in 
-English until translated, but English is preferable to the string name 
+to Transifex. Immediately after uploading we also need to pull down the
+updated translations. Granted, at this point, the new strings will be in
+English until translated, but English is preferable to the string name
 like ARCHIVE_HEADER which we'd otherwise see.
 
 To push the new source strings and then fetch the resultant translations:
 
     bin/sync-translations
-

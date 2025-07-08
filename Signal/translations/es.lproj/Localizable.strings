@@ -2,7 +2,7 @@
 "AB_PERMISSION_MISSING_ACTION_NOT_NOW" = "Ahora no";
 
 /* Title for the 'about' help section */
-"ABOUT_SECTION_TITLE" = "Acerca de Signal";
+"ABOUT_SECTION_TITLE" = "Acerca de Yoush";
 
 /* Action sheet item */
 "ACCEPT_NEW_IDENTITY_ACTION" = "Aceptar nuevo número de seguridad";
@@ -35,7 +35,7 @@
 "ACCOUNT_DATA_REPORT_CONFIRM_EXPORT_CONFIRM_BUTTON" = "Exportar informe";
 
 /* Users can request a report of their account data. Before they get their account export, they are warned to only share account data with trustworthy sources. This is the message on that warning. */
-"ACCOUNT_DATA_REPORT_CONFIRM_EXPORT_MESSAGE" = "Comparte los datos de tu cuenta de Signal solo con personas o aplicaciones en las que confíes.";
+"ACCOUNT_DATA_REPORT_CONFIRM_EXPORT_MESSAGE" = "Comparte los datos de tu cuenta de Yoush solo con personas o aplicaciones en las que confíes.";
 
 /* Users can request a report of their account data. If this request fails (probably because of a network connection problem), they will see an error sheet. This is the message on that error. */
 "ACCOUNT_DATA_REPORT_ERROR_MESSAGE" = "Comprueba tu conexión e inténtalo de nuevo.";
@@ -59,16 +59,16 @@
 "ACCOUNT_DATA_REPORT_EXPORT_REPORT_BUTTON" = "Exportar informe";
 
 /* Users can request a report of their account data. This text appears at the bottom of this screen, offering more information. */
-"ACCOUNT_DATA_REPORT_FOOTER" = "Tu informe solo se genera en el momento en que se exporta y Signal no lo almacena en tu dispositivo.";
+"ACCOUNT_DATA_REPORT_FOOTER" = "Tu informe solo se genera en el momento en que se exporta y Yoush no lo almacena en tu dispositivo.";
 
 /* Users can request a report of their account data. This is the subtitle on the screen where they do this, giving them more information. */
-"ACCOUNT_DATA_REPORT_SUBTITLE" = "Descarga y exporta un informe de los datos de tu cuenta de Signal. Este informe no incluye ningún mensaje ni archivo multimedia.";
+"ACCOUNT_DATA_REPORT_SUBTITLE" = "Descarga y exporta un informe de los datos de tu cuenta de Yoush. Este informe no incluye ningún mensaje ni archivo multimedia.";
 
 /* Users can request a report of their account data. This is the title on the screen where they do this. */
 "ACCOUNT_DATA_REPORT_TITLE" = "Datos de tu cuenta";
 
 /* Label for 'invite' button in contact view. */
-"ACTION_INVITE" = "Invitar a Signal";
+"ACTION_INVITE" = "Invitar a Yoush";
 
 /* Label for button that lets you send a message to a contact. */
 "ACTION_SEND_MESSAGE" = "Enviar mensaje";
@@ -80,7 +80,7 @@
 "ACTION_VIDEO_CALL" = "Videollamada";
 
 /* Label for 'voice call' button in contact view. */
-"ACTION_VOICE_CALL" = "Llamada de Signal";
+"ACTION_VOICE_CALL" = "Llamada de Yoush";
 
 /* The title for the 'add group members' view. */
 "ADD_GROUP_MEMBERS_VIEW_TITLE" = "Añadir participantes";
@@ -203,40 +203,40 @@
 "APN_Message" = "Es posible que tengas mensajes nuevos";
 
 /* Default message for the 'app launch failed' alert. */
-"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "Signal no puede iniciarse. Envía un registro de depuración a support@signal.org para que podamos solucionar el problema.";
+"APP_LAUNCH_FAILURE_ALERT_MESSAGE" = "Yoush no puede iniciarse. Envía un registro de depuración a support@signal.org para que podamos solucionar el problema.";
 
 /* Button to try launching the app even though the last launch failed */
-"APP_LAUNCH_FAILURE_CONTINUE" = "Reintentar abrir Signal";
+"APP_LAUNCH_FAILURE_CONTINUE" = "Reintentar abrir Yoush";
 
 /* Message for an error indicating that the app couldn't launch because some unexpected error happened with the user's registration status. */
 "APP_LAUNCH_FAILURE_CORRUPT_REGISTRATION_MESSAGE" = "Envía un registro de depuración a support@signal.org para que podamos solucionar el problema.";
 
 /* Title for an error indicating that the app couldn't launch because some unexpected error happened with the user's registration status. */
-"APP_LAUNCH_FAILURE_CORRUPT_REGISTRATION_TITLE" = "No se ha podido abrir Signal";
+"APP_LAUNCH_FAILURE_CORRUPT_REGISTRATION_TITLE" = "No se ha podido abrir Yoush";
 
 /* Error indicating that the app could not launch because the database could not be loaded. */
 "APP_LAUNCH_FAILURE_COULD_NOT_LOAD_DATABASE" = "No se ha podido cargar la base de datos";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
-"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "Actualiza a la versión más reciente de Signal.";
+"APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_MESSAGE" = "Actualiza a la versión más reciente de Yoush.";
 
 /* Error indicating that the app could not launch without reverting unknown database migrations. */
 "APP_LAUNCH_FAILURE_INVALID_DATABASE_VERSION_TITLE" = "Versión de base de datos desconocida.";
 
 /* Error indicating that the app crashed during the previous launch. */
-"APP_LAUNCH_FAILURE_LAST_LAUNCH_CRASHED_MESSAGE" = "No se ha podido abrir Signal. Envía un registro de depuración a support@signal.org para ayudarnos a solucionar el problema.";
+"APP_LAUNCH_FAILURE_LAST_LAUNCH_CRASHED_MESSAGE" = "No se ha podido abrir Yoush. Envía un registro de depuración a support@signal.org para ayudarnos a solucionar el problema.";
 
 /* Error indicating that the app crashed during the previous launch. */
-"APP_LAUNCH_FAILURE_LAST_LAUNCH_CRASHED_TITLE" = "No se ha podido abrir Signal";
+"APP_LAUNCH_FAILURE_LAST_LAUNCH_CRASHED_TITLE" = "No se ha podido abrir Yoush";
 
 /* Error description indicating that the app crashed because there was low storage space available on the device. */
-"APP_LAUNCH_FAILURE_LOW_STORAGE_SPACE_AVAILABLE_MESSAGE" = "No se ha podido abrir Signal porque tu dispositivo tiene poco espacio de almacenamiento. Para poder usar Signal, ve a Ajustes y libera espacio.";
+"APP_LAUNCH_FAILURE_LOW_STORAGE_SPACE_AVAILABLE_MESSAGE" = "No se ha podido abrir Yoush porque tu dispositivo tiene poco espacio de almacenamiento. Para poder usar Yoush, ve a Ajustes y libera espacio.";
 
 /* Error title indicating that the app crashed because there was low storage space available on the device. */
 "APP_LAUNCH_FAILURE_LOW_STORAGE_SPACE_AVAILABLE_TITLE" = "Hay poco espacio de almacenamiento";
 
 /* Error indicating that the app could not restore transferred data. */
-"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "No se han podido restaurar los datos transferidos desde tu dispositivo anterior. Envía un registro de depuración a support@signal.org para que podamos solucionar este problema. Si reinstalas Signal, tu historial de mensajes podría perderse.";
+"APP_LAUNCH_FAILURE_RESTORE_FAILED_MESSAGE" = "No se han podido restaurar los datos transferidos desde tu dispositivo anterior. Envía un registro de depuración a support@signal.org para que podamos solucionar este problema. Si reinstalas Yoush, tu historial de mensajes podría perderse.";
 
 /* Error indicating that the app could not restore transferred data. */
 "APP_LAUNCH_FAILURE_RESTORE_FAILED_TITLE" = "No se ha podido completar la transferencia";
@@ -251,7 +251,7 @@
 "APP_UPDATE_NAG_ALERT_MESSAGE_FORMAT" = "La versión %1$@ ya está disponible en la App Store.";
 
 /* Title for the 'new app version available' alert. */
-"APP_UPDATE_NAG_ALERT_TITLE" = "Hay una nueva versión de Signal disponible";
+"APP_UPDATE_NAG_ALERT_TITLE" = "Hay una nueva versión de Yoush disponible";
 
 /* Label for the 'update' button in the 'new app version available' alert. */
 "APP_UPDATE_NAG_ALERT_UPDATE_BUTTON" = "Actualizar";
@@ -304,7 +304,7 @@
 /* Apple Pay donation error for decline failures where the payment cannot be authorized. */
 "APPLE_PAY_DONATION_ERROR_PAYMENT_CANNOT_BE_AUTHORIZED" = "Comprueba que tu método de pago está actualizado en Apple Pay. Si no es así, actualízalo e inténtalo de nuevo.";
 
-/* On the iOS home screen, if you tap and hold the Signal icon, this shortcut will appear. Tapping it will let users send a new message. You may want to refer to similar behavior in other iOS apps, such as Messages, for equivalent strings. */
+/* On the iOS home screen, if you tap and hold the Yoush icon, this shortcut will appear. Tapping it will let users send a new message. You may want to refer to similar behavior in other iOS apps, such as Messages, for equivalent strings. */
 "APPLICATION_SHORTCUT_NEW_MESSAGE" = "Nuevo mensaje";
 
 /* Label for the archive button for conversations list view */
@@ -325,7 +325,7 @@
 /* Error that outgoing attachments could not be exported. */
 "ATTACHMENT_APPROVAL_FAILED_TO_EXPORT" = "No se ha podido exportar el archivo adjunto.";
 
-/* alert text when Signal was unable to save a copy of the attachment to the system photo library */
+/* alert text when Yoush was unable to save a copy of the attachment to the system photo library */
 "ATTACHMENT_APPROVAL_FAILED_TO_SAVE" = "No se ha podido guardar";
 
 /* Format string for file extension label in call interstitial view */
@@ -382,16 +382,16 @@
 /* Accessibility hint describing what you can do with the attachment button */
 "ATTACHMENT_HINT" = "Selecciona un archivo multimedia para enviar";
 
-/* Button in chat attachment panel that allows to select photos/videos Signal has access to. */
+/* Button in chat attachment panel that allows to select photos/videos Yoush has access to. */
 "ATTACHMENT_KEYBOARD_BUTTON_MANAGE" = "Gestionar";
 
 /* A button to select a contact from the Attachment Keyboard */
 "ATTACHMENT_KEYBOARD_CONTACT" = "Contacto";
 
-/* Button in a context menu from the 'manage' button in attachment panel that allows to select more photos/videos to give Signal access to */
+/* Button in a context menu from the 'manage' button in attachment panel that allows to select more photos/videos to give Yoush access to */
 "ATTACHMENT_KEYBOARD_CONTEXT_MENU_BUTTON_SELECT_MORE" = "Seleccionar más fotos";
 
-/* Button in a context menu from the 'manage' button in attachment panel that opens the iOS system settings for Signal to update access permissions */
+/* Button in a context menu from the 'manage' button in attachment panel that opens the iOS system settings for Yoush to update access permissions */
 "ATTACHMENT_KEYBOARD_CONTEXT_MENU_BUTTON_SYSTEM_SETTINGS" = "Ir a Ajustes";
 
 /* A button to select a file from the Attachment Keyboard */
@@ -400,8 +400,8 @@
 /* A button to select a GIF from the Attachment Keyboard */
 "ATTACHMENT_KEYBOARD_GIF" = "GIF";
 
-/* Text in chat attachment panel when Signal only has access to some photos/videos. This string is in a compact horizontal space, so it should be short if possible. */
-"ATTACHMENT_KEYBOARD_LIMITED_ACCESS" = "Signal tiene acceso limitado a las fotos";
+/* Text in chat attachment panel when Yoush only has access to some photos/videos. This string is in a compact horizontal space, so it should be short if possible. */
+"ATTACHMENT_KEYBOARD_LIMITED_ACCESS" = "Yoush tiene acceso limitado a las fotos";
 
 /* A button to select a location from the Attachment Keyboard */
 "ATTACHMENT_KEYBOARD_LOCATION" = "Ubicación";
@@ -412,10 +412,10 @@
 /* First block of text in chat attachment panel when there's no recent photos to show. */
 "ATTACHMENT_KEYBOARD_NO_MEDIA_TITLE" = "No hay fotos ni vídeos";
 
-/* Text in chat attachment panel explaining that user needs to give Signal permission to access photos. */
-"ATTACHMENT_KEYBOARD_NO_PHOTO_ACCESS" = "Signal no tiene acceso a tus fotos ni vídeos. Para habilitar el acceso, selecciona Abrir Ajustes y toca Fotos.";
+/* Text in chat attachment panel explaining that user needs to give Yoush permission to access photos. */
+"ATTACHMENT_KEYBOARD_NO_PHOTO_ACCESS" = "Yoush no tiene acceso a tus fotos ni vídeos. Para habilitar el acceso, selecciona Abrir Ajustes y toca Fotos.";
 
-/* Button in chat attachment panel to let user open Settings app and give Signal persmission to access photos. */
+/* Button in chat attachment panel to let user open Settings app and give Yoush persmission to access photos. */
 "ATTACHMENT_KEYBOARD_OPEN_SETTINGS" = "Abrir Ajustes";
 
 /* A button to select a payment from the Attachment Keyboard */
@@ -557,7 +557,7 @@
 "BACKUP_SETTINGS_BACKUP_PLAN_PAID_RENEWAL_FORMAT" = "Se renueva el %1$@";
 
 /* Footer for a menu section related to settings for when Backups are disabled. */
-"BACKUP_SETTINGS_BACKUPS_DISABLED_SECTION_FOOTER" = "Se han desactivado las copias de seguridad y se han eliminado tus datos del servicio de almacenamiento seguro de Signal.";
+"BACKUP_SETTINGS_BACKUPS_DISABLED_SECTION_FOOTER" = "Se han desactivado las copias de seguridad y se han eliminado tus datos del servicio de almacenamiento seguro de Yoush.";
 
 /* Header for a menu section related to settings for when Backups are enabled. */
 "BACKUP_SETTINGS_BACKUPS_ENABLED_SECTION_HEADER" = "Detalles de la copia de seguridad";
@@ -611,7 +611,7 @@
 "BACKUP_SETTINGS_REENABLE_BACKUPS_BUTTON_TITLE" = "Volver a habilitar copias";
 
 /* Title for the 'Backup' settings menu. */
-"BACKUPS_SETTINGS_TITLE" = "Copias de seguridad de Signal";
+"BACKUPS_SETTINGS_TITLE" = "Copias de seguridad de Yoush";
 
 /* Section header for badge view section in the badge configuration page */
 "BADGE_CONFIGURATION_BADGE_SECTION_TITLE" = "Mis insignias";
@@ -619,17 +619,17 @@
 /* The title for the badge configuration page */
 "BADGE_CONFIGURATION_TITLE" = "Insignias";
 
-/* When viewing someone else's badge, you'll see a sheet. If they got the badge by donating, a \"Donate to Signal\" button will be shown. This is the text in that button. */
+/* When viewing someone else's badge, you'll see a sheet. If they got the badge by donating, a \"Donate to Yoush\" button will be shown. This is the text in that button. */
 "BADGE_DETAILS_DONATE_TO_SIGNAL" = "Donar ahora";
 
 /* When viewing someone else's donor badge, you'll see a sheet. This is the title on that sheet. Embeds {badge owner's short name} */
-"BADGE_DETAILS_TITLE_FOR_SUPPORTER" = "%1$@ apoya a Signal";
+"BADGE_DETAILS_TITLE_FOR_SUPPORTER" = "%1$@ apoya a Yoush";
 
 /* String explaining to the user that their boost badge has expired on the badge expiry sheet. */
-"BADGE_EXPIRED_BOOST_BODY" = "Tu insignia Apoyo Signal ha caducado y ya no se muestra en tu perfil.\n\nPuedes seguir usando Signal, pero si quieres apoyar una tecnología creada para ti, considera optar por una suscripción mensual.";
+"BADGE_EXPIRED_BOOST_BODY" = "Tu insignia Apoyo Yoush ha caducado y ya no se muestra en tu perfil.\n\nPuedes seguir usando Yoush, pero si quieres apoyar una tecnología creada para ti, considera optar por una suscripción mensual.";
 
 /* String explaining to the user that their boost badge has expired while they are a current subscription sustainer on the badge expiry sheet. */
-"BADGE_EXPIRED_BOOST_CURRENT_SUSTAINER_BODY" = "Tu insignia Apoyo Signal ha caducado y ya no se muestra en tu perfil.\n\nPuedes hacer una donación puntual para reactivar tu insignia Apoyo Signal por 30 días más.";
+"BADGE_EXPIRED_BOOST_CURRENT_SUSTAINER_BODY" = "Tu insignia Apoyo Yoush ha caducado y ya no se muestra en tu perfil.\n\nPuedes hacer una donación puntual para reactivar tu insignia Apoyo Yoush por 30 días más.";
 
 /* Title for boost on the badge expiration sheet. */
 "BADGE_EXPIRED_BOOST_TITLE" = "Insignia caducada";
@@ -647,13 +647,13 @@
 "BADGE_SUBSCRIPTION_EXPIRED_BECAUSE_OF_CHARGE_FAILURE_BODY_FORMAT" = "Tu donación mensual se ha cancelado. %1$@\n\nTu insignia ya no se mostrará en tu perfil.";
 
 /* Body for a sheet explaining that a bank transfer donation is complete, and that you have received a badge. */
-"BADGE_THANKS_BANK_DONATION_COMPLETE_BODY" = "Hemos recibido tu transferencia bancaria. Puedes mostrar tu insignia de apoyo a Signal en tu perfil.";
+"BADGE_THANKS_BANK_DONATION_COMPLETE_BODY" = "Hemos recibido tu transferencia bancaria. Puedes mostrar tu insignia de apoyo a Yoush en tu perfil.";
 
 /* Title for a sheet explaining that a bank transfer donation is complete, and that you have received a badge. */
 "BADGE_THANKS_BANK_DONATION_COMPLETE_TITLE" = "Donación completada";
 
-/* When you make a donation to Signal, you will receive a badge. A thank-you sheet appears when this happens. This is the body text on that sheet. */
-"BADGE_THANKS_BODY" = "Puedes mostrar tu insignia de apoyo a Signal en tu perfil.";
+/* When you make a donation to Yoush, you will receive a badge. A thank-you sheet appears when this happens. This is the body text on that sheet. */
+"BADGE_THANKS_BODY" = "Puedes mostrar tu insignia de apoyo a Yoush en tu perfil.";
 
 /* Label prompting the user to display the new badge on their profile on the badge thank you sheet. */
 "BADGE_THANKS_DISPLAY_ON_PROFILE_LABEL" = "Mostrar en mi perfil";
@@ -661,7 +661,7 @@
 /* Label prompting the user to feature the new badge on their profile on the badge thank you sheet. */
 "BADGE_THANKS_MAKE_FEATURED" = "Mostrar insignia en mi perfil";
 
-/* When you make a donation to Signal, you will receive a badge. A thank-you sheet appears when this happens. This is the title of that sheet. */
+/* When you make a donation to Yoush, you will receive a badge. A thank-you sheet appears when this happens. This is the title of that sheet. */
 "BADGE_THANKS_TITLE" = "¡Gracias por tu apoyo!";
 
 /* Footer explaining that only one badge can be featured at a time on the thank you sheet. */
@@ -670,19 +670,19 @@
 /* On the bank donation screen, show a link below the input form to show help about finding account info. */
 "BANK_DONATION_FOOTER_FIND_ACCOUNT_INFO" = "¿Dónde encuentro mis datos bancarios?";
 
-/* On the bank transfer donation screen, a small amount of information text is shown. This is that text. It should (1) instruct users to enter their bank information (2) tell them that Signal does not collect or store their personal information. */
-"BANK_DONATION_SUBHEADER_TEXT" = "Introduce tus datos bancarios. Signal no recoge ni almacena tu información personal.";
+/* On the bank transfer donation screen, a small amount of information text is shown. This is that text. It should (1) instruct users to enter their bank information (2) tell them that Yoush does not collect or store their personal information. */
+"BANK_DONATION_SUBHEADER_TEXT" = "Introduce tus datos bancarios. Yoush no recoge ni almacena tu información personal.";
 
-/* Users can donate to Signal with a bank account. We are required to show them a mandate with information about bank transfers. This is a label for a button to agree to the mandate. */
+/* Users can donate to Yoush with a bank account. We are required to show them a mandate with information about bank transfers. This is a label for a button to agree to the mandate. */
 "BANK_MANDATE_AGREE" = "Aceptar";
 
-/* Users can donate to Signal with a bank account. We are required to show them a mandate with information about bank transfers. This is a label for a button that shows more of the mandate if it is not all visible. */
+/* Users can donate to Yoush with a bank account. We are required to show them a mandate with information about bank transfers. This is a label for a button that shows more of the mandate if it is not all visible. */
 "BANK_MANDATE_READ_MORE" = "Más información";
 
-/* Users can donate to Signal with a bank account. We are required to show them a mandate with information about bank transfers. This is a subtitle about the payment processor Stripe above that mandate. */
-"BANK_MANDATE_SUBTITLE" = "Stripe procesa las donaciones que se hacen a Signal. Signal no recoge ni almacena tu información personal.";
+/* Users can donate to Yoush with a bank account. We are required to show them a mandate with information about bank transfers. This is a subtitle about the payment processor Stripe above that mandate. */
+"BANK_MANDATE_SUBTITLE" = "Stripe procesa las donaciones que se hacen a Yoush. Yoush no recoge ni almacena tu información personal.";
 
-/* Users can donate to Signal with a bank account. We are required to show them a mandate with information about bank transfers. This is the title above that mandate. */
+/* Users can donate to Yoush with a bank account. We are required to show them a mandate with information about bank transfers. This is the title above that mandate. */
 "BANK_MANDATE_TITLE" = "Transferencia bancaria";
 
 /* Accessibility label for banner close button */
@@ -836,7 +836,7 @@
 "CALL_AUDIO_MISSED_WEEK_NOTIFICATION_BODY_FORMAT" = "📞 Llamada perdida el %1$@";
 
 /* Alert message when calling and permissions for microphone are missing */
-"CALL_AUDIO_PERMISSION_MESSAGE" = "Necesitas habilitar el acceso al micrófono en la aplicación Ajustes de iOS para hacer llamadas y grabar mensajes de voz en Signal.";
+"CALL_AUDIO_PERMISSION_MESSAGE" = "Necesitas habilitar el acceso al micrófono en la aplicación Ajustes de iOS para hacer llamadas y grabar mensajes de voz en Yoush.";
 
 /* Alert title when calling and permissions for microphone are missing */
 "CALL_AUDIO_PERMISSION_TITLE" = "Se necesita acceso al micrófono";
@@ -901,8 +901,8 @@
 /* Tappable label that appears below a user's name on a toast when they request to join a call link. */
 "CALL_LINK_JOIN_REQUEST_PROMPT" = "Me gustaría unirme…";
 
-/* Shown in a message bubble when you send a call link in a Signal chat */
-"CALL_LINK_LINK_PREVIEW_DESCRIPTION" = "Usa este enlace para unirte a una llamada de Signal";
+/* Shown in a message bubble when you send a call link in a Yoush chat */
+"CALL_LINK_LINK_PREVIEW_DESCRIPTION" = "Usa este enlace para unirte a una llamada de Yoush";
 
 /* Text that appears on a toast in a call lobby before joining a call link informing the user what information will be shared with other call members when they have phone number sharing turned off. */
 "CALL_LINK_LOBBY_SHARING_INFO_PHONE_NUMBER_SHARING_OFF" = "Cualquier persona que se una a esta llamada usando el enlace podrá ver tu nombre y foto de perfil.";
@@ -925,8 +925,8 @@
 /* Name of a toggle switch to enable/disable admin approval for joining a Call Link. */
 "CALL_LINK_REQUIRE_APPROVAL" = "Solicitar aprobación de admin";
 
-/* Button to open UI to share a Call Link with someone on Signal. */
-"CALL_LINK_SHARE_VIA_SIGNAL" = "Compartir enlace vía Signal";
+/* Button to open UI to share a Call Link with someone on Yoush. */
+"CALL_LINK_SHARE_VIA_SIGNAL" = "Compartir enlace vía Yoush";
 
 /* Button to open the system share sheet to share a Call Link. */
 "CALL_LINK_SHARE_VIA_SYSTEM" = "Compartir enlace";
@@ -1031,10 +1031,10 @@
 "CALLING_MEMBER_VIEW_YOUR_CAMERA_IS_OFF" = "Tu cámara está desactivada";
 
 /* The generic name used for calls if CallKit privacy is enabled */
-"CALLKIT_ANONYMOUS_CONTACT_NAME" = "Llamada de Signal";
+"CALLKIT_ANONYMOUS_CONTACT_NAME" = "Llamada de Yoush";
 
 /* The generic name used for group calls if CallKit privacy is enabled */
-"CALLKIT_ANONYMOUS_GROUP_NAME" = "Grupo de Signal";
+"CALLKIT_ANONYMOUS_GROUP_NAME" = "Grupo de Yoush";
 
 /* Title for the calls list view. */
 "CALLS_LIST_TITLE" = "Llamadas";
@@ -1183,32 +1183,32 @@
 /* Alert shown when the user needs to exchange messages to see the safety number. */
 "CANT_VERIFY_IDENTITY_EXCHANGE_MESSAGES" = "Se creará un número de seguridad con esta persona una vez que se intercambien mensajes.";
 
-/* Users can donate to Signal with a credit or debit card. If their card number is invalid, this generic error message will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a credit or debit card. If their card number is invalid, this generic error message will be shown. Try to use a short string to make space in the UI. */
 "CARD_DONATION_CARD_NUMBER_GENERIC_ERROR" = "Número de tarjeta no válido";
 
-/* Users can donate to Signal with a credit or debit card. This is the label for the card number field on that screen. */
+/* Users can donate to Yoush with a credit or debit card. This is the label for the card number field on that screen. */
 "CARD_DONATION_CARD_NUMBER_LABEL" = "Número de tarjeta";
 
-/* Users can donate to Signal with a credit or debit card. If their card verification code (CVV) is invalid for reasons we cannot determine, this generic error message will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a credit or debit card. If their card verification code (CVV) is invalid for reasons we cannot determine, this generic error message will be shown. Try to use a short string to make space in the UI. */
 "CARD_DONATION_CVV_GENERIC_ERROR" = "CVV no válido";
 
-/* Users can donate to Signal with a credit or debit card. This is the label for the card verification code (CVV) field on that screen. */
+/* Users can donate to Yoush with a credit or debit card. This is the label for the card verification code (CVV) field on that screen. */
 "CARD_DONATION_CVV_LABEL" = "CVV";
 
-/* Users can donate to Signal with a credit or debit card. If their card verification code (CVV) is too long, this error will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a credit or debit card. If their card verification code (CVV) is too long, this error will be shown. Try to use a short string to make space in the UI. */
 "CARD_DONATION_CVV_TOO_LONG_ERROR" = "El código es demasiado largo";
 
-/* Users can donate to Signal with a credit or debit card. If their expiration date is invalid, this generic error message will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a credit or debit card. If their expiration date is invalid, this generic error message will be shown. Try to use a short string to make space in the UI. */
 "CARD_DONATION_EXPIRATION_DATE_GENERIC_ERROR" = "Fecha de caducidad no válida";
 
-/* Users can donate to Signal with a credit or debit card. This is the label for the expiration date field on that screen. Try to use a short string to make space in the UI. (For example, the English text uses \"Exp. Date\" instead of \"Expiration Date\"). */
+/* Users can donate to Yoush with a credit or debit card. This is the label for the expiration date field on that screen. Try to use a short string to make space in the UI. (For example, the English text uses \"Exp. Date\" instead of \"Expiration Date\"). */
 "CARD_DONATION_EXPIRATION_DATE_LABEL" = "Fecha de caducidad";
 
-/* Users can donate to Signal with a credit or debit card. This is the label for the card expiration date field on that screen. */
+/* Users can donate to Yoush with a credit or debit card. This is the label for the card expiration date field on that screen. */
 "CARD_DONATION_EXPIRATION_DATE_PLACEHOLDER" = "MM/AA";
 
 /* Users can choose to learn more about their credit/debit card donations, which will open a sheet with additional information. This is the body text of that sheet. */
-"CARD_DONATION_READ_MORE_SHEET_BODY" = "Signal no recoge ni almacena tu información personal cuando haces una donación.\n\nUsamos Stripe como nuestro procesador de pagos para recibir tus donaciones. No accedemos, ni almacenamos, ni guardamos ninguno de los datos que les proporcionas.\n\nSignal no vincula ni puede vincular tu donación con tu cuenta de Signal.\n\n¡Gracias por tu apoyo!";
+"CARD_DONATION_READ_MORE_SHEET_BODY" = "Yoush no recoge ni almacena tu información personal cuando haces una donación.\n\nUsamos Stripe como nuestro procesador de pagos para recibir tus donaciones. No accedemos, ni almacenamos, ni guardamos ninguno de los datos que les proporcionas.\n\nYoush no vincula ni puede vincular tu donación con tu cuenta de Yoush.\n\n¡Gracias por tu apoyo!";
 
 /* Users can choose to learn more about their credit/debit card donations, which will open a sheet with additional information. This is the title of that sheet. */
 "CARD_DONATION_READ_MORE_SHEET_TITLE" = "Tu información es privada";
@@ -1216,8 +1216,8 @@
 /* On the credit/debit card donation screen, a small amount of information text is shown. Users can click this link to learn more information. */
 "CARD_DONATION_SUBHEADER_LEARN_MORE" = "Más información.";
 
-/* On the credit/debit card donation screen, a small amount of information text is shown. This is that text. It should (1) instruct users to enter their credit/debit card information (2) tell them that Signal does not collect or store their personal information. */
-"CARD_DONATION_SUBHEADER_TEXT" = "Introduce los datos de tu tarjeta. Signal no recoge ni almacena tu información personal.";
+/* On the credit/debit card donation screen, a small amount of information text is shown. This is that text. It should (1) instruct users to enter their credit/debit card information (2) tell them that Yoush does not collect or store their personal information. */
+"CARD_DONATION_SUBHEADER_TEXT" = "Introduce los datos de tu tarjeta. Yoush no recoge ni almacena tu información personal.";
 
 /* Title for the 'censorship circumvention country' view. */
 "CENSORSHIP_CIRCUMVENTION_COUNTRY_VIEW_TITLE" = "Seleccionar país";
@@ -1229,7 +1229,7 @@
 "CHANGE_PHONE_NUMBER_IDENTICAL_PHONE_NUMBERS_ALERT_MESSAGE" = "Tu número nuevo no puede ser el mismo que tu número anterior. Introduce un nuevo número de teléfono para cambiarlo.";
 
 /* Error indicating that the user's old phone number was not entered correctly. */
-"CHANGE_PHONE_NUMBER_INCORRECT_OLD_PHONE_NUMBER_ALERT_MESSAGE" = "El número de teléfono que has introducido no coincide con el de tu cuenta de Signal.";
+"CHANGE_PHONE_NUMBER_INCORRECT_OLD_PHONE_NUMBER_ALERT_MESSAGE" = "El número de teléfono que has introducido no coincide con el de tu cuenta de Yoush.";
 
 /* Error indicating that the user's new phone number is not valid. */
 "CHANGE_PHONE_NUMBER_INVALID_PHONE_NUMBER_ALERT_MESSAGE_NEW" = "El nuevo número de teléfono no es válido. Introduce un número válido para cambiarlo.";
@@ -1295,7 +1295,7 @@
 "COMPARE_SAFETY_NUMBER_ACTION" = "Comparar con el portapapeles";
 
 /* Accessibility hint describing what you can do with the compose button */
-"COMPOSE_BUTTON_HINT" = "Selecciona o busca a una persona en Signal para comenzar a chatear.";
+"COMPOSE_BUTTON_HINT" = "Selecciona o busca a una persona en Yoush para comenzar a chatear.";
 
 /* Accessibility label from compose button. */
 "COMPOSE_BUTTON_LABEL" = "Escribir";
@@ -1322,25 +1322,25 @@
 "COMPOSE_SCREEN_LIMITED_CONTACTS_CTA" = "Gestionar";
 
 /* Multi-line label explaining why compose-screen contact picker is empty. */
-"COMPOSE_SCREEN_LIMITED_CONTACTS_PERMISSION" = "Signal tiene acceso limitado a tus contactos";
+"COMPOSE_SCREEN_LIMITED_CONTACTS_PERMISSION" = "Yoush tiene acceso limitado a tus contactos";
 
 /* Button to open settings from an empty compose-screen contact picker. */
 "COMPOSE_SCREEN_MISSING_CONTACTS_CTA" = "Abrir Ajustes";
 
 /* Multi-line label explaining why compose-screen contact picker is empty. */
-"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "Puedes habilitar el acceso a tus contactos en la aplicación Ajustes de iOS para ver quiénes usan Signal.";
+"COMPOSE_SCREEN_MISSING_CONTACTS_PERMISSION" = "Puedes habilitar el acceso a tus contactos en la aplicación Ajustes de iOS para ver quiénes usan Yoush.";
 
 /* Configure reactions title text */
 "CONFIGURE_REACTIONS" = "Configurar reacciones";
 
 /* No comment provided by engineer. */
-"CONFIRM_DELETE_DATA_TEXT" = "Esta acción hará que se restablezca la aplicación y se eliminen todos tus mensajes. Signal se cerrará después de que finalice este proceso.";
+"CONFIRM_DELETE_DATA_TEXT" = "Esta acción hará que se restablezca la aplicación y se eliminen todos tus mensajes. Yoush se cerrará después de que finalice este proceso.";
 
 /* No comment provided by engineer. */
 "CONFIRM_DELETE_DATA_TITLE" = "¿Seguro que quieres eliminar todos los datos?";
 
 /* No comment provided by engineer. */
-"CONFIRM_DELETE_LINKED_DATA_TEXT" = "Esta acción hará que se restablezca la aplicación y se eliminen todos los mensajes de este dispositivo. Siempre puedes volver a vincular tu teléfono, pero no podrás restaurar los mensajes eliminados. Signal se cerrará después de que finalice este proceso.";
+"CONFIRM_DELETE_LINKED_DATA_TEXT" = "Esta acción hará que se restablezca la aplicación y se eliminen todos los mensajes de este dispositivo. Siempre puedes volver a vincular tu teléfono, pero no podrás restaurar los mensajes eliminados. Yoush se cerrará después de que finalice este proceso.";
 
 /* No comment provided by engineer. */
 "CONFIRM_DELETE_LINKED_DATA_TITLE" = "¿Seguro que quieres eliminar todos los datos?";
@@ -1370,10 +1370,10 @@
 "CONTACT_ABOUT_SHEET_PROFILE_NAMES_EDUCATION" = "Los nombres de perfil no se verifican";
 
 /* Message for a tooltip that appears above a parenthesized name for another user, indicating that that name is the name the other user set for themself. Embeds {{name}} */
-"CONTACT_ABOUT_SHEET_SECONDARY_NAME_TOOLTIP_MESSAGE" = "\"%1$@\" es el nombre de perfil que esta persona ha elegido en Signal.";
+"CONTACT_ABOUT_SHEET_SECONDARY_NAME_TOOLTIP_MESSAGE" = "\"%1$@\" es el nombre de perfil que esta persona ha elegido en Yoush.";
 
 /* A label indicating a user is a signal connection. */
-"CONTACT_ABOUT_SHEET_SIGNAL_CONNECTION_LABEL" = "Contacto de Signal";
+"CONTACT_ABOUT_SHEET_SIGNAL_CONNECTION_LABEL" = "Contacto de Yoush";
 
 /* The title for a contact 'about' sheet. */
 "CONTACT_ABOUT_SHEET_TITLE" = "Sobre mí";
@@ -1415,7 +1415,7 @@
 "CONTACT_NOTE_TITLE" = "Nota";
 
 /* Body for contact permission action sheet */
-"CONTACT_PERMISSION_ACTION_SHEET_2_BODY" = "Para encontrar a personas que conoces en Signal:";
+"CONTACT_PERMISSION_ACTION_SHEET_2_BODY" = "Para encontrar a personas que conoces en Yoush:";
 
 /* First step for contact permission action sheet */
 "CONTACT_PERMISSION_ACTION_SHEET_2_STEP_ONE" = "Toca el botón \"Ir a Ajustes\" de abajo.";
@@ -1448,10 +1448,10 @@
 "CONTACT_PERMISSION_REMINDER_MEGAPHONE_ACTION" = "Permitir acceso";
 
 /* Body for contact permission reminder megaphone */
-"CONTACT_PERMISSION_REMINDER_MEGAPHONE_BODY" = "Permite el acceso a tus contactos para encontrarlos rápidamente en Signal.";
+"CONTACT_PERMISSION_REMINDER_MEGAPHONE_BODY" = "Permite el acceso a tus contactos para encontrarlos rápidamente en Yoush.";
 
 /* Title for contact permission reminder megaphone */
-"CONTACT_PERMISSION_REMINDER_MEGAPHONE_TITLE" = "Buscar contactos en Signal";
+"CONTACT_PERMISSION_REMINDER_MEGAPHONE_TITLE" = "Buscar contactos en Yoush";
 
 /* Label for a contact's phone number. */
 "CONTACT_PHONE" = "Teléfono";
@@ -1475,7 +1475,7 @@
 "CONTACT_SHARE_INVALID_CONTACT" = "Contacto no válido.";
 
 /* Alert body when contacts disabled while trying to share a contact. */
-"CONTACT_SHARING_NO_ACCESS_BODY" = "Signal necesita acceso a tus contactos. Ve a la aplicación Ajustes de iOS y activa el acceso a los contactos. Tus contactos están protegidos mediante cifrado y no son visibles para Signal.";
+"CONTACT_SHARING_NO_ACCESS_BODY" = "Yoush necesita acceso a tus contactos. Ve a la aplicación Ajustes de iOS y activa el acceso a los contactos. Tus contactos están protegidos mediante cifrado y no son visibles para Yoush.";
 
 /* Alert title when contacts disabled while trying to share a contact. */
 "CONTACT_SHARING_NO_ACCESS_TITLE" = "Permitir acceso a contactos";
@@ -1529,7 +1529,7 @@
 "CONTACT_SUPPORT_FILTER_SOMETHING_NOT_WORKING_SHORT" = "Algo no funciona";
 
 /* Alert body */
-"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "Signal no ha podido completar tu solicitud de asistencia.";
+"CONTACT_SUPPORT_PROMPT_ERROR_ALERT_BODY" = "Yoush no ha podido completar tu solicitud de asistencia.";
 
 /* button text */
 "CONTACT_SUPPORT_PROMPT_ERROR_TRY_AGAIN" = "Reintentar";
@@ -1658,7 +1658,7 @@
 "CONVERSATION_SETTINGS_ATTRIBUTES_ACCESS_SECTION_FOOTER" = "Elige quién puede modificar el nombre, descripción e imagen del grupo y la duración de los mensajes temporales.";
 
 /* Footer string for a contact's badges in conversation settings */
-"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Apoya a Signal y consigue insignias para mostrar en tu perfil. Toca sobre una insignia para obtener más información.";
+"CONVERSATION_SETTINGS_BADGES_FOOTER" = "Apoya a Yoush y consigue insignias para mostrar en tu perfil. Toca sobre una insignia para obtener más información.";
 
 /* Header title for a contact's badges in conversation settings */
 "CONVERSATION_SETTINGS_BADGES_HEADER" = "Insignias";
@@ -1861,10 +1861,10 @@
 /* Label for button that enables you to make a new call link. */
 "CREATE_CALL_LINK_LABEL" = "Crear un enlace de llamada";
 
-/* Body text for an interactive in-app prompt to set up a Signal username. */
-"CREATE_USERNAME_MEGAPHONE_BODY" = "Protege la privacidad de tu número de teléfono, elige un alias opcional y descubre los enlaces de Signal.";
+/* Body text for an interactive in-app prompt to set up a Yoush username. */
+"CREATE_USERNAME_MEGAPHONE_BODY" = "Protege la privacidad de tu número de teléfono, elige un alias opcional y descubre los enlaces de Yoush.";
 
-/* Title for an interactive in-app prompt to set up a Signal username. */
+/* Title for an interactive in-app prompt to set up a Yoush username. */
 "CREATE_USERNAME_MEGAPHONE_TITLE" = "Nuevas formas de conectarte";
 
 /* Credit/debit card donation error for decline failures where the card has expired. */
@@ -1916,7 +1916,7 @@
 "DATABASE_INTEGRITY_CHECK_ACTION_RUN" = "Ejecutar";
 
 /* Message for alert before running a database integrity check */
-"DATABASE_INTEGRITY_CHECK_MESSAGE" = "Esto nos ayudará a solucionar tu problema y puede llevar varios minutos en completarse. Puedes cerrar Signal mientras realizamos esta verificación, pero recuerda regresar para enviar tus registros.";
+"DATABASE_INTEGRITY_CHECK_MESSAGE" = "Esto nos ayudará a solucionar tu problema y puede llevar varios minutos en completarse. Puedes cerrar Yoush mientras realizamos esta verificación, pero recuerda regresar para enviar tus registros.";
 
 /* Button to skip database integrity check step */
 "DATABASE_INTEGRITY_CHECK_SKIP" = "Omitir";
@@ -1930,20 +1930,20 @@
 /* In some cases, the user's message history can become corrupted, and a recovery interface is shown. The user has not been hacked and may be confused by this interface, so try to avoid using terms like \"database\" or \"corrupted\"—terms like \"message history\" are better. This is the title on the first screen of this interface, which gives them some information and asks them to continue. */
 "DATABASE_RECOVERY_AWAITING_USER_CONFIRMATION_TITLE" = "Problema al recuperar los datos";
 
-/* On the database recovery screen, if the user's device storage is nearly full, Signal will not be able to recover the database. A warning screen, which can be bypassed if the user wishes, will be shown. This is the text on the button to bypass the warning. */
+/* On the database recovery screen, if the user's device storage is nearly full, Yoush will not be able to recover the database. A warning screen, which can be bypassed if the user wishes, will be shown. This is the text on the button to bypass the warning. */
 "DATABASE_RECOVERY_MORE_STORAGE_SPACE_NEEDED_CONTINUE_ANYWAY" = "Continuar de todos modos";
 
-/* On the database recovery screen, if the user's device storage is nearly full, Signal will not be able to recover the database. A warning screen, which can be bypassed if the user wishes, will be shown. This is the line of text on that screen. Embeds an amount like \"2GB\". */
+/* On the database recovery screen, if the user's device storage is nearly full, Yoush will not be able to recover the database. A warning screen, which can be bypassed if the user wishes, will be shown. This is the line of text on that screen. Embeds an amount like \"2GB\". */
 "DATABASE_RECOVERY_MORE_STORAGE_SPACE_NEEDED_DESCRIPTION" = "Para completar la recuperación de datos, recomendamos que tengas al menos %1$@ de espacio de almacenamiento libre en tu dispositivo.";
 
-/* On the database recovery screen, if the user's device storage is nearly full, Signal will not be able to recover the database. A warning screen, which can be bypassed if the user wishes, will be shown. This is the title of that screen. */
+/* On the database recovery screen, if the user's device storage is nearly full, Yoush will not be able to recover the database. A warning screen, which can be bypassed if the user wishes, will be shown. This is the title of that screen. */
 "DATABASE_RECOVERY_MORE_STORAGE_SPACE_NEEDED_TITLE" = "Se necesita más espacio de almacenamiento";
 
 /* The user has tried to recover their data after it was lost due to corruption. (They have not been hacked.) This is the description on the screen where we show an error message. */
-"DATABASE_RECOVERY_RECOVERY_FAILED_DESCRIPTION" = "No se ha podido recuperar tu historial de mensajes. Puedes seguir usando Signal después de reinstalar la app. Envía un informe de depuración para que podamos identificar el problema.";
+"DATABASE_RECOVERY_RECOVERY_FAILED_DESCRIPTION" = "No se ha podido recuperar tu historial de mensajes. Puedes seguir usando Yoush después de reinstalar la app. Envía un informe de depuración para que podamos identificar el problema.";
 
 /* The user has tried to recover their data after it was lost due to corruption. (They have not been hacked.) This button lets them delete all of their data. */
-"DATABASE_RECOVERY_RECOVERY_FAILED_RESET_APP_BUTTON" = "Restablecer Signal";
+"DATABASE_RECOVERY_RECOVERY_FAILED_RESET_APP_BUTTON" = "Restablecer Yoush";
 
 /* The user has tried to recover their data after it was lost due to corruption. (They have not been hacked.) If they want to delete the app and restart, they will be presented with a confirmation dialog. This is the final button they will press before their data is reset. */
 "DATABASE_RECOVERY_RECOVERY_FAILED_RESET_APP_CONFIRMATION_CONFIRM" = "Restablecer";
@@ -1952,7 +1952,7 @@
 "DATABASE_RECOVERY_RECOVERY_FAILED_RESET_APP_CONFIRMATION_DESCRIPTION" = "Se eliminará la información de tu cuenta, tu perfil y todos tus mensajes. La app se cerrará después de que finalice este proceso.";
 
 /* The user has tried to recover their data after it was lost due to corruption. (They have not been hacked.) If they want to delete the app and restart, they will be presented with a confirmation dialog. This is the title of that dialog. */
-"DATABASE_RECOVERY_RECOVERY_FAILED_RESET_APP_CONFIRMATION_TITLE" = "Restablecer Signal";
+"DATABASE_RECOVERY_RECOVERY_FAILED_RESET_APP_CONFIRMATION_TITLE" = "Restablecer Yoush";
 
 /* The user has tried to recover their data after it was lost due to corruption. (They have not been hacked.) They were asked to submit a debug log. This is the button that submits this log. */
 "DATABASE_RECOVERY_RECOVERY_FAILED_SUBMIT_DEBUG_LOG_BUTTON" = "Enviar registro de depuración";
@@ -2027,7 +2027,7 @@
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_ACTION" = "Eliminar cuenta";
 
 /* Title for the action sheet message of the 'delete account confirmation' view controller. */
-"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "Esta acción hará que se elimine tu cuenta de Signal y se restablezca la aplicación. Signal se cerrará después de que finalice este proceso.";
+"DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_MESSAGE" = "Esta acción hará que se elimine tu cuenta de Yoush y se restablezca la aplicación. Yoush se cerrará después de que finalice este proceso.";
 
 /* Title for the action sheet confirmation title of the 'delete account confirmation' view controller. */
 "DELETE_ACCOUNT_CONFIRMATION_ACTION_SHEEET_TITLE" = "¿Seguro que quieres eliminar tu cuenta?";
@@ -2051,13 +2051,13 @@
 "DELETE_ACCOUNT_CONFIRMATION_PHONE_NUMBER_TITLE" = "Número de teléfono";
 
 /* Section header */
-"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "Confirma tu número de Signal";
+"DELETE_ACCOUNT_CONFIRMATION_SECTION_TITLE" = "Confirma tu número de Yoush";
 
 /* Title for the 'delete account' confirmation view. */
 "DELETE_ACCOUNT_CONFIRMATION_TITLE" = "Eliminar cuenta";
 
 /* Title for the action sheet when you enter the wrong number on the 'delete account confirmation' view controller. */
-"DELETE_ACCOUNT_CONFIRMATION_WRONG_NUMBER" = "El número de teléfono que has introducido no coincide con el de tu cuenta de Signal.";
+"DELETE_ACCOUNT_CONFIRMATION_WRONG_NUMBER" = "El número de teléfono que has introducido no coincide con el de tu cuenta de Yoush.";
 
 /* action sheet body */
 "DELETE_ALL_MESSAGES_IN_CONVERSATION_ALERT_BODY" = "¿Eliminar todos los mensajes del chat?";
@@ -2068,7 +2068,7 @@
 /* 'Delete' button label on the delete contact confirmation action sheet */
 "DELETE_CONTACT_ACTION_SHEET_BUTTON" = "Eliminar";
 
-/* An explanation of what happens in Signal when you remove a system contact. */
+/* An explanation of what happens in Yoush when you remove a system contact. */
 "DELETE_CONTACT_ACTION_SHEET_EXPLANATION" = "Se eliminará a esta persona de los contactos de tu teléfono. No la verás en tus búsquedas. Recibirás una solicitud de mensaje si te escribe en algún momento.";
 
 /* Title of action sheet confirming the user wants to delete a system contact. */
@@ -2102,18 +2102,18 @@
 "DELETED_USER" = "Cuenta eliminada";
 
 /* Notification warning the user that they have been de-registered. */
-"DEREGISTRATION_NOTIFICATION" = "Se ha cerrado tu sesión de Signal en este dispositivo.";
+"DEREGISTRATION_NOTIFICATION" = "Se ha cerrado tu sesión de Yoush en este dispositivo.";
 
 /* Label for button that lets users re-register using the same phone number. */
 "DEREGISTRATION_REREGISTER_WITH_SAME_PHONE_NUMBER" = "Volver a registrar este número";
 
 /* Label warning the user that they have been de-registered. */
-"DEREGISTRATION_WARNING" = "Este dispositivo ya no está registrado. Probablemente se deba a que has registrado tu número de teléfono en Signal con un dispositivo diferente.";
+"DEREGISTRATION_WARNING" = "Este dispositivo ya no está registrado. Probablemente se deba a que has registrado tu número de teléfono en Yoush con un dispositivo diferente.";
 
 /* If the user has been deregistered, they'll see a warning. This is This is the call to action on that warning. */
 "DEREGISTRATION_WARNING_ACTION_TITLE" = "Volver a registrar dispositivo";
 
-/* {{Short Date}} when device last communicated with Signal Server. */
+/* {{Short Date}} when device last communicated with Yoush Server. */
 "DEVICE_LAST_ACTIVE_AT_LABEL" = "Última actividad: %1$@";
 
 /* {{Short Date}} when device was linked. */
@@ -2177,7 +2177,7 @@
 "DEVICE_TRANSFER_CONTRACT_QR_CODE_BUTTON" = "Reducir";
 
 /* An error indicating that the other device closed signal mid-transfer and it could not complete */
-"DEVICE_TRANSFER_ERROR_BACKGROUNDED" = "No se ha podido completar la transferencia. Asegúrate de que la aplicación Signal esté abierta en ambos dispositivos e inténtalo de nuevo.";
+"DEVICE_TRANSFER_ERROR_BACKGROUNDED" = "No se ha podido completar la transferencia. Asegúrate de que la aplicación Yoush esté abierta en ambos dispositivos e inténtalo de nuevo.";
 
 /* An error indicating that we were unable to verify the identity of the new device to complete the transfer */
 "DEVICE_TRANSFER_ERROR_CERTIFICATE_MISMATCH" = "No se ha podido verificar tu nuevo dispositivo. Inténtalo de nuevo.";
@@ -2195,13 +2195,13 @@
 "DEVICE_TRANSFER_ERROR_NOT_ENOUGH_SPACE" = "No hay suficiente espacio de almacenamiento para completar la transferencia";
 
 /* An error indicating the user must update their device before trying to transfer. */
-"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "Actualiza a la última versión de Signal e inténtalo de nuevo";
+"DEVICE_TRANSFER_ERROR_UNSUPPORTED_VERSION" = "Actualiza a la última versión de Yoush e inténtalo de nuevo";
 
 /* Button shown to expand a QR code and view it fullscreen. */
 "DEVICE_TRANSFER_EXPAND_QR_CODE_BUTTON" = "Ampliar";
 
 /* The explanation on the action sheet prompting the user if they want to transfer their device. */
-"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "Transfiere tu cuenta de Signal a un nuevo dispositivo de iOS. Asegúrate de que tu nuevo dispositivo esté cerca y encendido.";
+"DEVICE_TRANSFER_PROMPT_EXPLANATION" = "Transfiere tu cuenta de Yoush a un nuevo dispositivo de iOS. Asegúrate de que tu nuevo dispositivo esté cerca y encendido.";
 
 /* The title on the acttion sheet prompting the user if they want to transfer their device. */
 "DEVICE_TRANSFER_PROMPT_TITLE" = "Transferir cuenta";
@@ -2219,7 +2219,7 @@
 "DEVICE_TRANSFER_QRCODE_TITLE" = "Escanear código QR";
 
 /* The explanation on the view that shows receiving progress */
-"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "Mantén ambos dispositivos cerca uno del otro. No los apagues y mantén la aplicación Signal abierta. Las transferencias están cifradas de extremo a extremo.";
+"DEVICE_TRANSFER_RECEIVING_EXPLANATION" = "Mantén ambos dispositivos cerca uno del otro. No los apagues y mantén la aplicación Yoush abierta. Las transferencias están cifradas de extremo a extremo.";
 
 /* The title on the view that shows receiving progress */
 "DEVICE_TRANSFER_RECEIVING_TITLE" = "Recibiendo datos";
@@ -2234,7 +2234,7 @@
 "DEVICE_TRANSFER_SCANNING_TITLE" = "Mantén tu nuevo dispositivo delante de la cámara";
 
 /* The explanation on the action sheet that shows transfer progress */
-"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "Mantén ambos dispositivos cerca uno del otro. No los apagues y mantén la aplicación Signal abierta.";
+"DEVICE_TRANSFER_TRANSFERRING_EXPLANATION" = "Mantén ambos dispositivos cerca uno del otro. No los apagues y mantén la aplicación Yoush abierta.";
 
 /* The title on the action sheet that shows transfer progress */
 "DEVICE_TRANSFER_TRANSFERRING_TITLE" = "Transfiriendo datos";
@@ -2296,10 +2296,10 @@
 /* Section title for the 'domain fronting country' view. */
 "DOMAIN_FRONTING_COUNTRY_VIEW_SECTION_HEADER" = "País donde evitar censura";
 
-/* Users can donate to Signal with a credit or debit card. This is the heading on that screen, telling them how much they'll donate. Embeds {{formatted amount of money}}, such as \"$20\". */
+/* Users can donate to Yoush with a credit or debit card. This is the heading on that screen, telling them how much they'll donate. Embeds {{formatted amount of money}}, such as \"$20\". */
 "DONATE_BUTTON" = "Donar %1$@";
 
-/* Users can donate to Signal with a credit or debit card. This is the heading on that screen, telling them how much they'll donate every month. Embeds {{formatted amount of money}}, such as \"$20\". */
+/* Users can donate to Yoush with a credit or debit card. This is the heading on that screen, telling them how much they'll donate every month. Embeds {{formatted amount of money}}, such as \"$20\". */
 "DONATE_BUTTON_MONTHLY" = "Donar %1$@/mes";
 
 /* When users make donations, they can choose which payment method they want to use. This is the text on the button that lets them choose to pay with bank transfer. */
@@ -2318,13 +2318,13 @@
 "DONATE_CHOOSE_PAYMENT_METHOD_SHEET_SUBTITLE_FOR_ONE_TIME_DONATION" = "Consigue la insignia %1$@ durante 30 días";
 
 /* When users make donations on a friend's behalf, they see a sheet that lets them pick a payment method. This is the title on that sheet. Embeds {{amount of money}}, such as \"$5\". */
-"DONATE_CHOOSE_PAYMENT_METHOD_SHEET_TITLE_FOR_DONATION_ON_BEHALF_OF_A_FRIEND" = "Donación de %1$@ a Signal";
+"DONATE_CHOOSE_PAYMENT_METHOD_SHEET_TITLE_FOR_DONATION_ON_BEHALF_OF_A_FRIEND" = "Donación de %1$@ a Yoush";
 
 /* When users make monthly donations, they see a sheet that lets them pick a payment method. This is the title on that sheet. Embeds {{amount of money per month}}, such as \"$5/month\". */
-"DONATE_CHOOSE_PAYMENT_METHOD_SHEET_TITLE_FOR_MONTHLY_DONATION" = "Donar %1$@ a Signal";
+"DONATE_CHOOSE_PAYMENT_METHOD_SHEET_TITLE_FOR_MONTHLY_DONATION" = "Donar %1$@ a Yoush";
 
 /* When users make one-time donations, they see a sheet that lets them pick a payment method. This is the title on that sheet. Embeds {{amount of money}}, such as \"$5\". */
-"DONATE_CHOOSE_PAYMENT_METHOD_SHEET_TITLE_FOR_ONE_TIME_DONATION" = "Donar %1$@ a Signal";
+"DONATE_CHOOSE_PAYMENT_METHOD_SHEET_TITLE_FOR_ONE_TIME_DONATION" = "Donar %1$@ a Yoush";
 
 /* Users can donate on a friend's behalf and can optionally add a message. This is tells users about that optional message. */
 "DONATE_ON_BEHALF_OF_A_FRIEND_ADDITIONAL_MESSAGE_INFO" = "La persona que has seleccionado recibirá un mensaje privado con la notificación de la donación. Añade tu propio mensaje más abajo.";
@@ -2356,10 +2356,10 @@
 /* Message in an alert presented when the user tries to update their recurring donation, but already has a recurring donation that is currently processing via non-bank payment. */
 "DONATE_SCREEN_ERROR_MESSAGE_PLEASE_WAIT_BEFORE_UPDATING_YOUR_SUBSCRIPTION" = "Tu donación aún se está procesando. Este proceso puede llevar unos minutos dependiendo de tu conexión. Espera hasta que se complete esta donación antes de actualizar tu suscripción.";
 
-/* If the user tries to donate to Signal but no amount is selected, this error message is shown. */
+/* If the user tries to donate to Yoush but no amount is selected, this error message is shown. */
 "DONATE_SCREEN_ERROR_NO_AMOUNT_SELECTED" = "Selecciona un importe para donar.";
 
-/* If the user tries to donate to Signal but they've entered an amount that's too small, this error message is shown. Embeds {{currency string}}, such as \"$5\". */
+/* If the user tries to donate to Yoush but they've entered an amount that's too small, this error message is shown. Embeds {{currency string}}, such as \"$5\". */
 "DONATE_SCREEN_ERROR_SELECT_A_LARGER_AMOUNT_FORMAT" = "El importe mínimo que puedes donar es de %1$@.";
 
 /* Title for an alert presented when the user tries to make a donation, but already has a donation that is currently awaiting authorization. */
@@ -2435,7 +2435,7 @@
 "DONATION_ON_BEHALF_OF_A_FRIEND_BADGE_REDEEMED" = "Canjeada";
 
 /* Users can donate on behalf of a friend, and the friend will receive a badge. This is a short paragraph on the screen where users choose the badge their friend will receive. */
-"DONATION_ON_BEHALF_OF_A_FRIEND_CHOOSE_BADGE_DESCRIPTION" = "Apoya a Signal haciendo una donación en nombre de un amigo o familiar que use Signal. La persona que elijas podrá mostrar su insignia de apoyo a Signal en su perfil.";
+"DONATION_ON_BEHALF_OF_A_FRIEND_CHOOSE_BADGE_DESCRIPTION" = "Apoya a Yoush haciendo una donación en nombre de un amigo o familiar que use Yoush. La persona que elijas podrá mostrar su insignia de apoyo a Yoush en su perfil.";
 
 /* Users can donate on behalf of a friend, and the friend will receive a badge. This is the title on the screen where users choose the badge their friend will receive. */
 "DONATION_ON_BEHALF_OF_A_FRIEND_CHOOSE_BADGE_TITLE" = "Donar en nombre de alguien más";
@@ -2465,7 +2465,7 @@
 "DONATION_ON_BEHALF_OF_A_FRIEND_PAYMENT_FAILED_ERROR_TITLE" = "No se ha podido completar el pago";
 
 /* Users can donate on a friend's behalf. If the payment was processed but the donation failed to send, this error message will be shown. */
-"DONATION_ON_BEHALF_OF_A_FRIEND_PAYMENT_SUCCEEDED_BUT_MESSAGE_FAILED_ERROR_BODY" = "Tu pago se ha procesado, pero Signal no ha podido enviar tu mensaje de donación. Contacta con el equipo de asistencia.";
+"DONATION_ON_BEHALF_OF_A_FRIEND_PAYMENT_SUCCEEDED_BUT_MESSAGE_FAILED_ERROR_BODY" = "Tu pago se ha procesado, pero Yoush no ha podido enviar tu mensaje de donación. Contacta con el equipo de asistencia.";
 
 /* Users can donate on a friend's behalf. If the payment was processed but the donation failed to send, an error dialog will be shown. This is the title of that dialog. */
 "DONATION_ON_BEHALF_OF_A_FRIEND_PAYMENT_SUCCEEDED_BUT_MESSAGE_FAILED_ERROR_TITLE" = "No se ha podido realizar la donación";
@@ -2477,7 +2477,7 @@
 "DONATION_ON_BEHALF_OF_A_FRIEND_PREVIEW_OUTGOING" = "✨ Has hecho una donación en nombre de %1$@";
 
 /* You received a donation from a friend. This is the title of that message in the chat. Embeds {{short contact name}}. */
-"DONATION_ON_BEHALF_OF_A_FRIEND_RECEIVED_TITLE_FORMAT" = "%1$@ ha hecho una donación a Signal en tu nombre";
+"DONATION_ON_BEHALF_OF_A_FRIEND_RECEIVED_TITLE_FORMAT" = "%1$@ ha hecho una donación a Yoush en tu nombre";
 
 /* Users can donate on a friend's behalf. This is the error message that appears if the try to do this, but the recipient is blocked. */
 "DONATION_ON_BEHALF_OF_A_FRIEND_RECIPIENT_IS_BLOCKED_ERROR_BODY" = "No puedes hacer una donación en nombre de esta persona porque la has bloqueado.";
@@ -2501,7 +2501,7 @@
 "DONATION_ON_BEHALF_OF_A_FRIEND_SENT_TITLE_FORMAT" = "Donación en nombre de %1$@";
 
 /* When you donate on behalf of a friend, a thank-you sheet will appear. This is the text on that sheet. Embeds {{recipient name}}. */
-"DONATION_ON_BEHALF_OF_A_FRIEND_THANKS_BODY_FORMAT" = "Has hecho una donación a Signal en nombre de %1$@. Ahora podrá mostrar su insignia de apoyo a Signal en su perfil.";
+"DONATION_ON_BEHALF_OF_A_FRIEND_THANKS_BODY_FORMAT" = "Has hecho una donación a Yoush en nombre de %1$@. Ahora podrá mostrar su insignia de apoyo a Yoush en su perfil.";
 
 /* When you donate on behalf of a friend, a thank-you sheet will appear. This is the title on that sheet. */
 "DONATION_ON_BEHALF_OF_A_FRIEND_THANKS_TITLE" = "¡Gracias por tu apoyo!";
@@ -2510,19 +2510,19 @@
 "DONATION_ON_BEHALF_OF_A_FRIEND_VIEW" = "Ver";
 
 /* A friend has donated on your behalf and you received a badge. This text says that you received a badge, and from whom. Embeds {{contact's short name, such as a first name}}. */
-"DONATION_ON_BEHALF_OF_A_FRIEND_YOU_RECEIVED_A_BADGE_FORMAT" = "¡%1$@ ha hecho una donación a Signal en tu nombre! Muesrtra tu insignia de apoyo a Signal en tu perfil.";
+"DONATION_ON_BEHALF_OF_A_FRIEND_YOU_RECEIVED_A_BADGE_FORMAT" = "¡%1$@ ha hecho una donación a Yoush en tu nombre! Muesrtra tu insignia de apoyo a Yoush en tu perfil.";
 
-/* There is a screen where users can read more about their donation to Signal. This is the 1st paragraph of that screen. */
+/* There is a screen where users can read more about their donation to Yoush. This is the 1st paragraph of that screen. */
 "DONATION_READ_MORE_SCREEN_PARAGRAPH_1" = "Mensajería privada. Sin anuncios, sin seguimiento, sin vigilancia.";
 
-/* There is a screen where users can read more about their donation to Signal. This is the 2nd paragraph of that screen. */
-"DONATION_READ_MORE_SCREEN_PARAGRAPH_2" = "Signal se financia con donaciones de personas como tú, con lo que tu privacidad es nuestra máxima prioridad. Signal está diseñada para ti, no para obtener datos ni ganancias.";
+/* There is a screen where users can read more about their donation to Yoush. This is the 2nd paragraph of that screen. */
+"DONATION_READ_MORE_SCREEN_PARAGRAPH_2" = "Yoush se financia con donaciones de personas como tú, con lo que tu privacidad es nuestra máxima prioridad. Yoush está diseñada para ti, no para obtener datos ni ganancias.";
 
-/* There is a screen where users can read more about their donation to Signal. This is the 3rd paragraph of that screen. */
-"DONATION_READ_MORE_SCREEN_PARAGRAPH_3" = "Si puedes, haz una donación hoy para que Signal siga siendo un espacio seguro, confiable y accesible para todo el mundo.";
+/* There is a screen where users can read more about their donation to Yoush. This is the 3rd paragraph of that screen. */
+"DONATION_READ_MORE_SCREEN_PARAGRAPH_3" = "Si puedes, haz una donación hoy para que Yoush siga siendo un espacio seguro, confiable y accesible para todo el mundo.";
 
-/* There is a screen where users can read more about their donation to Signal. This is the title of that screen. */
-"DONATION_READ_MORE_SCREEN_TITLE" = "Signal es diferente.";
+/* There is a screen where users can read more about their donation to Yoush. This is the title of that screen. */
+"DONATION_READ_MORE_SCREEN_TITLE" = "Yoush es diferente.";
 
 /* Section title for donation amount on receipts */
 "DONATION_RECEIPT_AMOUNT" = "Importe";
@@ -2537,7 +2537,7 @@
 "DONATION_RECEIPT_EXPORT_RECEIPT_BUTTON" = "Compartir justificante";
 
 /* Footer text at the bottom of donation receipts */
-"DONATION_RECEIPT_FOOTER" = "Gracias por apoyar a Signal. Con tu contribución, impulsas nuestra misión de desarrollar tecnología de código abierto centrada en la privacidad, que protege la libertad de expresión y permite una comunicación segura para millones de personas en todo el mundo. Si resides en Estados Unidos, guarda este recibo para tus declaraciones fiscales. Signal Technology Foundation es una organización sin ánimo de lucro exenta de impuestos en Estados Unidos bajo la sección 501(c)(3) del código tributario de EE. UU. (Internal Revenue Code). Nuestro número de identificación fiscal es 82-4506840.";
+"DONATION_RECEIPT_FOOTER" = "Gracias por apoyar a Yoush. Con tu contribución, impulsas nuestra misión de desarrollar tecnología de código abierto centrada en la privacidad, que protege la libertad de expresión y permite una comunicación segura para millones de personas en todo el mundo. Si resides en Estados Unidos, guarda este recibo para tus declaraciones fiscales. Yoush Technology Foundation es una organización sin ánimo de lucro exenta de impuestos en Estados Unidos bajo la sección 501(c)(3) del código tributario de EE. UU. (Internal Revenue Code). Nuestro número de identificación fiscal es 82-4506840.";
 
 /* Title for receipts for donations given on a friend's behalf */
 "DONATION_RECEIPT_FOR_DONATION_ON_BEHALF_OF_A_FRIEND" = "Donación en nombre de alguien";
@@ -2558,7 +2558,7 @@
 "DONATION_RECEIPTS" = "Justificantes de donación";
 
 /* Text at the bottom of the donation receipts list, telling users that receipts might not be available */
-"DONATION_RECEIPTS_MIGHT_BE_MISSING_IF_YOU_REINSTALLED" = "Si has vuelto a instalar Signal, los justificantes de donaciones anteriores no estarán disponibles.";
+"DONATION_RECEIPTS_MIGHT_BE_MISSING_IF_YOU_REINSTALLED" = "Si has vuelto a instalar Yoush, los justificantes de donaciones anteriores no estarán disponibles.";
 
 /* Error message displayed if something goes wrong with 3DSecure/iDEAL payment authorization.  This will be encountered if the user cancels the webview before authrizing the payment. */
 "DONATION_REDIRECT_ERROR_CANCELLED_MESSAGE" = "Pago cancelado. Inténtalo de nuevo.";
@@ -2573,7 +2573,7 @@
 "DONATION_SCREEN_DONATE_BUTTON" = "Donar";
 
 /* On donation screens, a small amount of information text is shown. This is the subtitle for that text. */
-"DONATION_SCREENS_HEADER_DESCRIPTION" = "Mensajería privada, financiada por ti. Sin anuncios, sin seguimiento, sin comprometer tu privacidad. Haz una donación ahora para apoyar a Signal.";
+"DONATION_SCREENS_HEADER_DESCRIPTION" = "Mensajería privada, financiada por ti. Sin anuncios, sin seguimiento, sin comprometer tu privacidad. Haz una donación ahora para apoyar a Yoush.";
 
 /* On donation screens, a small amount of information text is shown. Users can click this link to learn more information. */
 "DONATION_SCREENS_HEADER_READ_MORE" = "Más información";
@@ -2650,8 +2650,8 @@
 /* Title for the \"donate for a friend\" button on the donation view. */
 "DONATION_VIEW_DONATE_ON_BEHALF_OF_A_FRIEND" = "Donar en nombre de alguien más";
 
-/* Text describing to the user that they're going to pay a donation to Signal */
-"DONATION_VIEW_DONATION_TO_SIGNAL" = "Donación a Signal";
+/* Text describing to the user that they're going to pay a donation to Yoush */
+"DONATION_VIEW_DONATION_TO_SIGNAL" = "Donación a Yoush";
 
 /* Title for the 'Donor FAQ' button on the donation screen */
 "DONATION_VIEW_DONOR_FAQ" = "Preguntas frecuentes sobre donaciones";
@@ -2662,8 +2662,8 @@
 /* Title for the 'Badges' button on the donation screen */
 "DONATION_VIEW_MANAGE_BADGES" = "Insignias";
 
-/* Text describing to the user that they're going to pay a monthly donation to Signal */
-"DONATION_VIEW_MONTHLY_DONATION_TO_SIGNAL" = "Donación mensual a Signal";
+/* Text describing to the user that they're going to pay a monthly donation to Yoush */
+"DONATION_VIEW_MONTHLY_DONATION_TO_SIGNAL" = "Donación mensual a Yoush";
 
 /* Title for the 'more' section on the donation screen */
 "DONATION_VIEW_MORE_SECTION_TITLE" = "Más";
@@ -2674,8 +2674,8 @@
 /* Title for the \"other ways to donate\" section on the donation view. */
 "DONATION_VIEW_OTHER_WAYS_TO_DONATE_TITLE" = "Otras formas de donar";
 
-/* Title on the 'Donate to Signal' screen */
-"DONATION_VIEW_TITLE" = "Haz una donación a Signal";
+/* Title on the 'Donate to Yoush' screen */
+"DONATION_VIEW_TITLE" = "Haz una donación a Yoush";
 
 /* Label for the currency picker button in donation views */
 "DONATIONS_CURRENCY_PICKER_LABEL" = "Moneda";
@@ -2686,17 +2686,17 @@
 /* Title for Double Tap to Edit sheet show on first interaction */
 "DOUBLE_TAP_TO_EDIT_ALERT_TITLE" = "Toca dos veces para editar";
 
-/* Alert body for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
+/* Alert body for when the user has just tried to edit a contacts after declining to give Yoush contacts permissions */
 "EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_BODY" = "Puedes habilitar el acceso en la aplicación Ajustes de iOS.";
 
-/* Alert title for when the user has just tried to edit a contacts after declining to give Signal contacts permissions */
-"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "Signal necesita acceso a los contactos para poder editar la información de tus contactos";
+/* Alert title for when the user has just tried to edit a contacts after declining to give Yoush contacts permissions */
+"EDIT_CONTACT_WITHOUT_CONTACTS_PERMISSION_ALERT_TITLE" = "Yoush necesita acceso a los contactos para poder editar la información de tus contactos";
 
 /* The navbar title for the 'update group' view. */
 "EDIT_GROUP_DEFAULT_TITLE" = "Editar grupo";
 
 /* Error message indicating the a user can't be added to a group. */
-"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "Esta persona debe actualizar Signal para unirse al grupo.";
+"EDIT_GROUP_ERROR_CANNOT_ADD_MEMBER" = "Esta persona debe actualizar Yoush para unirse al grupo.";
 
 /* Error message indicating that an avatar image is invalid and cannot be used. */
 "EDIT_GROUP_ERROR_INVALID_AVATAR" = "Imagen no válida.";
@@ -2722,11 +2722,11 @@
 /* Edit failed for an unexpected reason */
 "EDIT_MESSAGE_SEND_MESSAGE_UNKNOWN_ERROR" = "EDIT_MESSAGE_SEND_MESSAGE_UNKNOWN_ERROR";
 
-/* body of email sent to contacts when inviting to install Signal. Embeds {{link to install Signal}} and {{link to the Signal home page}} */
-"EMAIL_INVITE_BODY" = "¡Hola!\n\nTe invito a probar Signal, la app que uso para que mis chats sean privados. Si la instalas, todo lo que hablemos por mensaje o llamada quedará entre nosotros, sin que nadie más tenga acceso.\n\nEstá disponible para iPhone, Android y ordenador. Puedes descargarla aquí: %1$@\n\nSignal funciona como cualquier otra app de chat: puedes enviar mensajes, fotos y vídeos, hacer llamadas y videollamadas, y crear grupos. Pero lo mejor es la privacidad: nadie, ni siquiera el equipo de Signal, puede ver nuestros chats ni escuchar nuestras llamadas.\n\nSi quieres saber más, aquí tienes más información sobre Signal: %2$@";
+/* body of email sent to contacts when inviting to install Yoush. Embeds {{link to install Yoush}} and {{link to the Yoush home page}} */
+"EMAIL_INVITE_BODY" = "¡Hola!\n\nTe invito a probar Yoush, la app que uso para que mis chats sean privados. Si la instalas, todo lo que hablemos por mensaje o llamada quedará entre nosotros, sin que nadie más tenga acceso.\n\nEstá disponible para iPhone, Android y ordenador. Puedes descargarla aquí: %1$@\n\nYoush funciona como cualquier otra app de chat: puedes enviar mensajes, fotos y vídeos, hacer llamadas y videollamadas, y crear grupos. Pero lo mejor es la privacidad: nadie, ni siquiera el equipo de Yoush, puede ver nuestros chats ni escuchar nuestras llamadas.\n\nSi quieres saber más, aquí tienes más información sobre Yoush: %2$@";
 
-/* subject of email sent to contacts when inviting to install Signal */
-"EMAIL_INVITE_SUBJECT" = "Pasémonos a Signal";
+/* subject of email sent to contacts when inviting to install Yoush */
+"EMAIL_INVITE_SUBJECT" = "Pasémonos a Yoush";
 
 /* Description for the fallback support sheet if user cannot send email */
 "EMAIL_SIGNAL_MESSAGE" = "Tu dispositivo no está configurado para enviar correos. Para enviar una solicitud de asistencia, configura una cuenta de correo electrónico en tu dispositivo o escríbenos a support@signal.org.";
@@ -2765,7 +2765,7 @@
 "EMOJI_CATEGORY_TRAVEL_NAME" = "Viajes y destinos";
 
 /* Full width label displayed when attempting to compose message */
-"EMPTY_CONTACTS_LABEL_LINE1" = "Ninguno de tus contactos usa Signal.";
+"EMPTY_CONTACTS_LABEL_LINE1" = "Ninguno de tus contactos usa Yoush.";
 
 /* Full width label displayed when attempting to compose message */
 "EMPTY_CONTACTS_LABEL_LINE2" = "¿Por qué no invitas a alguien?";
@@ -2828,7 +2828,7 @@
 "ERROR_DESCRIPTION_UNKNOWN_ERROR" = "Se ha producido un error desconocido.";
 
 /* Error message when attempting to send message */
-"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "No se ha podido enviar el mensaje porque esta persona ya no usa Signal.";
+"ERROR_DESCRIPTION_UNREGISTERED_RECIPIENT" = "No se ha podido enviar el mensaje porque esta persona ya no usa Yoush.";
 
 /* Error message indicating that attachment upload(s) failed. */
 "ERROR_MESSAGE_ATTACHMENT_UPLOAD_FAILED" = "No se ha podido subir el archivo.";
@@ -2873,10 +2873,10 @@
 "ERROR_NETWORK_FAILURE" = "Error de red";
 
 /* Format string for an error alert notification message. Embeds {{ error string }} */
-"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Ayúdanos a mejorar Signal enviándonos un reporte de este error junto con el registro de depuración de tu dispositivo a support@signal.org; %1$@";
+"ERROR_NOTIFICATION_MESSAGE_FORMAT" = "Ayúdanos a mejorar Yoush enviándonos un reporte de este error junto con el registro de depuración de tu dispositivo a support@signal.org; %1$@";
 
 /* Format string for an error alert notification title. */
-"ERROR_NOTIFICATION_TITLE" = "Signal Beta: Se ha producido un error";
+"ERROR_NOTIFICATION_TITLE" = "Yoush Beta: Se ha producido un error";
 
 /* Error indicating a send failure due to a delinked application. */
 "ERROR_SENDING_DELINKED" = "Este dispositivo ya no está vinculado. Vuelve a vincularlo para seguir chateando.";
@@ -2885,7 +2885,7 @@
 "ERROR_SENDING_DEREGISTERED" = "Este dispositivo ya no está registrado. Vuelve a registrarlo para seguir chateando.";
 
 /* Error indicating a send failure due to an expired application. */
-"ERROR_SENDING_EXPIRED" = "Esta versión de Signal ha caducado. Actualiza Signal para seguir chateando.";
+"ERROR_SENDING_EXPIRED" = "Esta versión de Yoush ha caducado. Actualiza Yoush para seguir chateando.";
 
 /* Format string for 'unregistered user' error. Embeds {{the unregistered user's name or signal id}}. */
 "ERROR_UNREGISTERED_USER_FORMAT" = "Persona no registrada: %1$@";
@@ -2897,19 +2897,19 @@
 "EXIT_REREGISTRATION" = "Salir del registro";
 
 /* Label notifying the user that the app has expired. */
-"EXPIRATION_ERROR" = "Esta versión de Signal ha caducado. Actualízala para seguir enviando y recibiendo mensajes.";
+"EXPIRATION_ERROR" = "Esta versión de Yoush ha caducado. Actualízala para seguir enviando y recibiendo mensajes.";
 
-/* If the user's app is too old, they'll be shown a warning asking them to upgrade. This is the text on the warning, and tapping it will open the App Store page for Signal. */
+/* If the user's app is too old, they'll be shown a warning asking them to upgrade. This is the text on the warning, and tapping it will open the App Store page for Yoush. */
 "EXPIRATION_WARNING_ACTION_TITLE" = "Actualizar ahora";
 
 /* Label warning the user that the app will expire soon. Embeds {{date}}. */
-"EXPIRATION_WARNING_SOON" = "Esta versión de Signal caduca el %1$@. Actualízala para seguir chateando.";
+"EXPIRATION_WARNING_SOON" = "Esta versión de Yoush caduca el %1$@. Actualízala para seguir chateando.";
 
 /* Label warning the user that the app will expire today. */
-"EXPIRATION_WARNING_TODAY" = "Esta versión de Signal caduca hoy. Actualízala para seguir chateando.";
+"EXPIRATION_WARNING_TODAY" = "Esta versión de Yoush caduca hoy. Actualízala para seguir chateando.";
 
 /* action sheet header when re-sending message which failed because of an invalid key signature */
-"FAILED_SENDING_BECAUSE_INVALID_KEY_SIGNATURE" = "No se ha podido enviar el mensaje porque %1$@ debe actualizar y abrir Signal.";
+"FAILED_SENDING_BECAUSE_INVALID_KEY_SIGNATURE" = "No se ha podido enviar el mensaje porque %1$@ debe actualizar y abrir Yoush.";
 
 /* action sheet header when re-sending message which failed because of too many attempts */
 "FAILED_SENDING_BECAUSE_RATE_LIMIT" = "Se han producido demasiados errores con este contacto. Inténtalo de nuevo más tarde.";
@@ -3239,10 +3239,10 @@
 "GROUP_CALL_WILL_NOTIFY_TWO_PEOPLE_FORMAT" = "Se notificará a %1$@ y %2$@";
 
 /* Text shown before the user starts a group call if the user has enabled ringing and there is one other person in the group. Embeds {member name} */
-"GROUP_CALL_WILL_RING_ONE_PERSON_FORMAT" = "Signal sonará en la app de %1$@";
+"GROUP_CALL_WILL_RING_ONE_PERSON_FORMAT" = "Yoush sonará en la app de %1$@";
 
 /* Text shown before the user starts a group call if the user has enabled ringing and there are two other people in the group. Embeds {{ %1$@ participant1, %2$@ participant2 }} */
-"GROUP_CALL_WILL_RING_TWO_PEOPLE_FORMAT" = "Signal sonará en la app de %1$@ y %2$@";
+"GROUP_CALL_WILL_RING_TWO_PEOPLE_FORMAT" = "Yoush sonará en la app de %1$@ y %2$@";
 
 /* Text explaining that you are in the group call. */
 "GROUP_CALL_YOU_ARE_HERE" = "Estás en la llamada grupal";
@@ -3451,8 +3451,8 @@
 /* Label for the 'share group link via QR code' button in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_LINK_VIA_QR_CODE" = "Código QR";
 
-/* Label for the 'share group link via Signal' button in the 'group link' view. */
-"GROUP_LINK_VIEW_SHARE_LINK_VIA_SIGNAL" = "Compartir por Signal";
+/* Label for the 'share group link via Yoush' button in the 'group link' view. */
+"GROUP_LINK_VIEW_SHARE_LINK_VIA_SIGNAL" = "Compartir por Yoush";
 
 /* Message for the 'share group link' action sheet in the 'group link' view. */
 "GROUP_LINK_VIEW_SHARE_SHEET_MESSAGE" = "Cualquiera que tenga este enlace puede ver el nombre del grupo y sus participantes y solicitar unirse. Compártelo con personas de confianza.";
@@ -3817,7 +3817,7 @@
 /* Help item allowing the user to file a support request */
 "HELP_CONTACT_US" = "Contacta con nosotros";
 
-/* Help item that takes the user to the Signal support website */
+/* Help item that takes the user to the Yoush support website */
 "HELP_SUPPORT_CENTER" = "Centro de asistencia";
 
 /* A format for the 'remove user' action sheet title. Embeds {{the removed user's name or phone number}}. */
@@ -3859,16 +3859,16 @@
 /* A prefix indicating that a message preview is a draft */
 "HOME_VIEW_DRAFT_PREFIX" = "Borrador: ";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 1 Signal contact.  Embeds {{The name of 1 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "Algunos de tus contactos, como %1$@, ya usan Signal.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 1 Yoush contact.  Embeds {{The name of 1 of your Yoush contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_1_CONTACT_FORMAT" = "Algunos de tus contactos, como %1$@, ya usan Yoush.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have 2 Signal contacts.  Embeds {{The names of 2 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "Algunos de tus contactos, como %1$@ y %2$@, ya usan Signal.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have 2 Yoush contacts.  Embeds {{The names of 2 of your Yoush contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_2_CONTACTS_FORMAT" = "Algunos de tus contactos, como %1$@ y %2$@, ya usan Yoush.";
 
-/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 Signal contacts.  Embeds {{The names of 3 of your Signal contacts}}. */
-"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "Algunos de tus contactos, como %1$@, %2$@ y %3$@, ya usan Signal.";
+/* Format string for a label offering to start a new conversation with your contacts, if you have at least 3 Yoush contacts.  Embeds {{The names of 3 of your Yoush contacts}}. */
+"HOME_VIEW_FIRST_CONVERSATION_OFFER_3_CONTACTS_FORMAT" = "Algunos de tus contactos, como %1$@, %2$@ y %3$@, ya usan Yoush.";
 
-/* A label offering to start a new conversation with your contacts, if you have no Signal contacts. */
+/* A label offering to start a new conversation with your contacts, if you have no Yoush contacts. */
 "HOME_VIEW_FIRST_CONVERSATION_OFFER_NO_CONTACTS" = "Comienza a chatear aquí.";
 
 /* Table cell subtitle label for a group the user has been added to. {Embeds inviter name} */
@@ -3989,10 +3989,10 @@
 "INFO_MESSAGE_BLOCKED_OTHER_USER" = "Has bloqueado a esta persona.";
 
 /* Indicates that a previously-removed recipient has been added back to the current user's contacts. */
-"INFO_MESSAGE_CONTACT_REINSTATED" = "Se ha añadido de nuevo a esta persona a tu lista de contactos de Signal.";
+"INFO_MESSAGE_CONTACT_REINSTATED" = "Se ha añadido de nuevo a esta persona a tu lista de contactos de Yoush.";
 
 /* Indicates that the recipient has been removed from the current user's contacts and that messaging them will re-add them. */
-"INFO_MESSAGE_CONTACT_REMOVED" = "Has eliminado a esta persona de tu lista de contactos de Signal. Si le envías un mensaje, se la añadirá nuevamente.";
+"INFO_MESSAGE_CONTACT_REMOVED" = "Has eliminado a esta persona de tu lista de contactos de Yoush. Si le envías un mensaje, se la añadirá nuevamente.";
 
 /* When you start a chat with someone and then later learn their profile name, we insert an in-chat message with this string to record the identifier you originally used to contact them. Embeds {{ the identifier, either a phone number or a username }}. */
 "INFO_MESSAGE_LEARNED_PROFILE_KEY" = "Iniciaste este chat con %1$@.";
@@ -4013,7 +4013,7 @@
 "INFO_MESSAGE_REPORTED_SPAM" = "Denunciado como spam";
 
 /* Body message of the alert shown when a user taps on 'learn more' via the spam info message. */
-"INFO_MESSAGE_REPORTED_SPAM_LEARN_MORE_MESSAGE" = "Se ha notificado a Signal que esta persona podría estar enviando spam. Signal no puede ver el contenido de ningún chat.";
+"INFO_MESSAGE_REPORTED_SPAM_LEARN_MORE_MESSAGE" = "Se ha notificado a Yoush que esta persona podría estar enviando spam. Yoush no puede ver el contenido de ningún chat.";
 
 /* Title of the alert shown when a user taps on 'learn more' via the spam info message. */
 "INFO_MESSAGE_REPORTED_SPAM_LEARN_MORE_TITLE" = "Denunciado como spam";
@@ -4030,8 +4030,8 @@
 /* Indicates that another user has changed their phone number. Embeds: {{ the user's name}} */
 "INFO_MESSAGE_USER_CHANGED_PHONE_NUMBER_FORMAT" = "%1$@ ha cambiado su número de teléfono.";
 
-/* Shown in inbox and conversation when a user joins Signal, embeds the new user's {{contact name}} */
-"INFO_MESSAGE_USER_JOINED_SIGNAL_BODY_FORMAT" = "¡%1$@ usa Signal!";
+/* Shown in inbox and conversation when a user joins Yoush, embeds the new user's {{contact name}} */
+"INFO_MESSAGE_USER_JOINED_SIGNAL_BODY_FORMAT" = "¡%1$@ usa Yoush!";
 
 /* Label at the top of the input text when editing a message */
 "INPUT_TOOLBAR_EDIT_MESSAGE_LABEL" = "Editar mensaje";
@@ -4058,13 +4058,13 @@
 "INVALID_PROXY_HOST_ERROR" = "La dirección del servidor proxy que has introducido no es válida. Comprueba la dirección e inténtalo de nuevo.";
 
 /* Alert body when contacts disabled while trying to invite contacts to signal */
-"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "Puedes habilitar el acceso a tus contactos en la aplicación Ajustes de iOS para invitar a otras personas a usar Signal.";
+"INVITE_FLOW_REQUIRES_CONTACT_ACCESS_BODY" = "Puedes habilitar el acceso a tus contactos en la aplicación Ajustes de iOS para invitar a otras personas a usar Yoush.";
 
 /* Alert title when contacts disabled while trying to invite contacts to signal */
 "INVITE_FLOW_REQUIRES_CONTACT_ACCESS_TITLE" = "Permitir acceso a contactos";
 
 /* Label for the cell that presents the 'invite contacts' workflow. */
-"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "Invitar personas a Signal";
+"INVITE_FRIENDS_CONTACT_TABLE_BUTTON" = "Invitar personas a Yoush";
 
 /* Header label above a section for more options for adding contacts */
 "INVITE_FRIENDS_CONTACT_TABLE_HEADER" = "Más";
@@ -4187,16 +4187,16 @@
 "LINK_DEVICE_SCANNING_INSTRUCTIONS_SHEET_TITLE" = "Escanear código QR";
 
 /* Body text for a sheet when a user tries to link a device informing them that they will need to authenticate their device */
-"LINK_NEW_DEVICE_AUTHENTICATION_INFO_SHEET_BODY" = "Toca Continuar e introduce el patrón de bloqueo de tu teléfono para confirmar. No introduzcas tu PIN de Signal.";
+"LINK_NEW_DEVICE_AUTHENTICATION_INFO_SHEET_BODY" = "Toca Continuar e introduce el patrón de bloqueo de tu teléfono para confirmar. No introduzcas tu PIN de Yoush.";
 
 /* Title for a sheet when a user tries to link a device informing them that they will need to authenticate their device */
 "LINK_NEW_DEVICE_AUTHENTICATION_INFO_SHEET_TITLE" = "Antes de vincular tu dispositivo, confirma que eres tú";
 
-/* Description of how and why Signal iOS uses Touch ID/Face ID/Phone Passcode to unlock device linking. */
+/* Description of how and why Yoush iOS uses Touch ID/Face ID/Phone Passcode to unlock device linking. */
 "LINK_NEW_DEVICE_AUTHENTICATION_REASON" = "Para vincular un dispositivo, debes autenticarte";
 
 /* Body text for a sheet when a user has started linking a device informing them to finish the process on that other device */
-"LINK_NEW_DEVICE_FINISH_ON_OTHER_DEVICE_SHEET_BODY" = "Termina de vincular Signal en tu otro dispositivo.";
+"LINK_NEW_DEVICE_FINISH_ON_OTHER_DEVICE_SHEET_BODY" = "Termina de vincular Yoush en tu otro dispositivo.";
 
 /* Title for a sheet when a user has started linking a device informing them to finish the process on that other device */
 "LINK_NEW_DEVICE_FINISH_ON_OTHER_DEVICE_SHEET_TITLE" = "Completa la vinculación en tu otro dispositivo";
@@ -4217,7 +4217,7 @@
 "LINK_NEW_DEVICE_SYNC_FAILED_TITLE" = "Error en la sincronización de mensajes";
 
 /* On a progress modal */
-"LINK_NEW_DEVICE_SYNC_PROGRESS_DO_NOT_CLOSE_APP" = "No cierres Signal";
+"LINK_NEW_DEVICE_SYNC_PROGRESS_DO_NOT_CLOSE_APP" = "No cierres Yoush";
 
 /* On a progress modal indicating the percent complete the sync process is. Embeds {{ formatted percentage }} */
 "LINK_NEW_DEVICE_SYNC_PROGRESS_PERCENT" = "%1$@ completado";
@@ -4238,10 +4238,10 @@
 "LINK_PREVIEW_UNKNOWN_DOMAIN" = "Vista previa de enlaces";
 
 /* Shown in an alert when trying to edit a contact. */
-"LINKED_DEVICE_CONTACTS_NOT_ALLOWED" = "La gestión de contactos del teléfono ya no está disponible en iPad. Para añadir contactos de Signal a los contactos de tu teléfono, abre Signal en tu teléfono.";
+"LINKED_DEVICE_CONTACTS_NOT_ALLOWED" = "La gestión de contactos del teléfono ya no está disponible en iPad. Para añadir contactos de Yoush a los contactos de tu teléfono, abre Yoush en tu teléfono.";
 
 /* Shown in a banner when you tap the 'New Chat' icon at the top of the list of chats. */
-"LINKED_DEVICE_MANAGE_CONTACTS_BANNER" = "La gestión de contactos del teléfono ya no es compatible con iPad. Este dispositivo continuará sincronizando cualquier cambio que hagas en tu lista de contactos de Signal en tu teléfono.";
+"LINKED_DEVICE_MANAGE_CONTACTS_BANNER" = "La gestión de contactos del teléfono ya no es compatible con iPad. Este dispositivo continuará sincronizando cualquier cambio que hagas en tu lista de contactos de Yoush en tu teléfono.";
 
 /* A button shown in a banner when you tap the 'New Chat' icon at the top of the list of chats. Tapping it opens a website with more details. */
 "LINKED_DEVICE_MANAGE_CONTACTS_LEARN_MORE" = "Más información";
@@ -4256,28 +4256,28 @@
 "LINKED_DEVICE_NOTIFICATION_TITLE" = "Has vinculado un nuevo dispositivo";
 
 /* Message for an action sheet telling users how to link a device, when trying to open an external device-linking URL. */
-"LINKED_DEVICE_URL_OPENED_ACTION_SHEET_EXTERNAL_URL_MESSAGE" = "Para vincular un dispositivo de escritorio o un iPad a esta cuenta de Signal, ve a Dispositivos vinculados, toca \"Vincular un nuevo dispositivo\" y vuelve a escanear el código QR. Asegúrate de escanear solo códigos QR que provengan directamente de Signal.";
+"LINKED_DEVICE_URL_OPENED_ACTION_SHEET_EXTERNAL_URL_MESSAGE" = "Para vincular un dispositivo de escritorio o un iPad a esta cuenta de Yoush, ve a Dispositivos vinculados, toca \"Vincular un nuevo dispositivo\" y vuelve a escanear el código QR. Asegúrate de escanear solo códigos QR que provengan directamente de Yoush.";
 
 /* Message for an action sheet telling users how to link a device, when trying to open a device-linking URL from the in-app camera. */
-"LINKED_DEVICE_URL_OPENED_ACTION_SHEET_IN_APP_CAMERA_MESSAGE" = "Parece que estás intentando vincular un dispositivo a tu cuenta de Signal. Toca \"Continuar\", selecciona \"Vincular un nuevo dispositivo\" y vuelve a escanear el código QR.";
+"LINKED_DEVICE_URL_OPENED_ACTION_SHEET_IN_APP_CAMERA_MESSAGE" = "Parece que estás intentando vincular un dispositivo a tu cuenta de Yoush. Toca \"Continuar\", selecciona \"Vincular un nuevo dispositivo\" y vuelve a escanear el código QR.";
 
 /* Bullet point about downloads on the linked devices education sheet. Embeds {{ %1$@ iPad download link, %2$@ desktop download link }} */
 "LINKED_DEVICES_EDUCATION_POINT_DOWNLOADS" = "En tu otro dispositivo, ve a %1$@ para instalar la aplicación para iPad o a %2$@ para instalar la de escritorio.";
 
 /* Bullet point about message sync on the linked devices education sheet */
-"LINKED_DEVICES_EDUCATION_POINT_MESSAGES" = "Una vez que los dispositivos estén vinculados, tus mensajes de Signal se sincronizarán con los de tu teléfono.";
+"LINKED_DEVICES_EDUCATION_POINT_MESSAGES" = "Una vez que los dispositivos estén vinculados, tus mensajes de Yoush se sincronizarán con los de tu teléfono.";
 
 /* Bullet point about privacy on the linked devices education sheet */
 "LINKED_DEVICES_EDUCATION_POINT_PRIVACY" = "Todos los mensajes que se envían y reciben en los dispositivos vinculados son privados";
 
 /* Title for the linked device education sheet */
-"LINKED_DEVICES_EDUCATION_TITLE" = "Signal para escritorio o iPad";
+"LINKED_DEVICES_EDUCATION_TITLE" = "Yoush para escritorio o iPad";
 
 /* Text that appears where the linked device list would be indicating that there are no linked devices. */
 "LINKED_DEVICES_EMPTY_STATE" = "No hay dispositivos vinculados";
 
 /* Description for header of the linked devices list */
-"LINKED_DEVICES_HEADER_DESCRIPTION" = "Usa Signal para escritorio o iPad. Tus mensajes se sincronizarán en todos tus dispositivos vinculados.";
+"LINKED_DEVICES_HEADER_DESCRIPTION" = "Usa Yoush para escritorio o iPad. Tus mensajes se sincronizarán en todos tus dispositivos vinculados.";
 
 /* Footer text below the list of currently-linked devices */
 "LINKED_DEVICES_LIST_FOOTER" = "Los mensajes y los chats están protegidos con cifrado de extremo a extremo en todos los dispositivos";
@@ -4319,10 +4319,10 @@
 "LINKING_SYNCING_TIMING_INFO" = "Este proceso puede llevar unos minutos";
 
 /* Shown to users while the app is loading, asking them not to close the app. */
-"LOADING_VIEW_CONTROLLER_DONT_CLOSE_APP" = "No cierres Signal.";
+"LOADING_VIEW_CONTROLLER_DONT_CLOSE_APP" = "No cierres Yoush.";
 
 /* Body for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "Para transferir tu cuenta de Signal, necesitas permitir el acceso a la red local en ambos dispositivos.";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_BODY" = "Para transferir tu cuenta de Yoush, necesitas permitir el acceso a la red local en ambos dispositivos.";
 
 /* A button asking the user if they need further help getting their transfer working. */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_NEED_HELP" = "¿Necesitas ayuda?";
@@ -4334,7 +4334,7 @@
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_THREE" = "Activa \"Red local\"";
 
 /* Second step for local network permission action sheet */
-"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "Desliza hasta Signal";
+"LOCAL_NETWORK_PERMISSION_ACTION_SHEET_STEP_TWO" = "Desliza hasta Yoush";
 
 /* Title for local network permission action sheet */
 "LOCAL_NETWORK_PERMISSION_ACTION_SHEET_TITLE" = "Activar el acceso a la red local";
@@ -4349,7 +4349,7 @@
 "LOGGING_SECTION" = "Registros";
 
 /* Footer for the 'logging' help section. */
-"LOGGING_SECTION_FOOTER" = "Los registros de depuración pueden ayudar a Signal a corregir fallos y bloqueos.";
+"LOGGING_SECTION_FOOTER" = "Los registros de depuración pueden ayudar a Yoush a corregir fallos y bloqueos.";
 
 /* Title for the 'long text message' view. */
 "LONG_TEXT_VIEW_TITLE" = "Mensaje";
@@ -4451,7 +4451,7 @@
 "MESSAGE_ACTION_DELETE_FOR_EVERYONE" = "Eliminar para todas las personas";
 
 /* A one-time confirmation that you want to delete for everyone */
-"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "Este mensaje se eliminará para todas las personas en el chat si usan una versión reciente de Signal. Podrán ver que has eliminado un mensaje.";
+"MESSAGE_ACTION_DELETE_FOR_EVERYONE_CONFIRMATION" = "Este mensaje se eliminará para todas las personas en el chat si usan una versión reciente de Yoush. Podrán ver que has eliminado un mensaje.";
 
 /* The title for the action sheet asking who the user wants to delete the message for. */
 "MESSAGE_ACTION_DELETE_FOR_TITLE" = "¿Para quién quieres eliminar este mensaje?";
@@ -4496,7 +4496,7 @@
 "MESSAGE_ACTION_LINK_OPEN_LINK" = "Abrir enlace";
 
 /* Label for button to open a signal proxy. */
-"MESSAGE_ACTION_LINK_OPEN_PROXY" = "Abrir servidor proxy de Signal";
+"MESSAGE_ACTION_LINK_OPEN_PROXY" = "Abrir servidor proxy de Yoush";
 
 /* Label for button to open a sticker pack. */
 "MESSAGE_ACTION_LINK_OPEN_STICKER_PACK" = "Ver paquete de stickers";
@@ -4670,7 +4670,7 @@
 "MESSAGE_REQUEST_NAME_COLLISON_UPDATE_CONTACT_ACTION" = "Actualizar contacto";
 
 /* Action sheet message to confirm reporting a conversation as spam via a message request. */
-"MESSAGE_REQUEST_REPORT_CONVERSATION_MESSAGE" = "Se notificará a Signal que esta persona podría estar enviando spam. Signal no puede ver el contenido de ningún chat.";
+"MESSAGE_REQUEST_REPORT_CONVERSATION_MESSAGE" = "Se notificará a Yoush que esta persona podría estar enviando spam. Yoush no puede ver el contenido de ningún chat.";
 
 /* Action sheet title to confirm reporting a conversation as spam via a message request. */
 "MESSAGE_REQUEST_REPORT_CONVERSATION_TITLE" = "¿Denunciar spam?";
@@ -4765,7 +4765,7 @@
 /* status message for read messages */
 "MESSAGE_STATUS_READ" = "Leído";
 
-/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their Signal account. */
+/* message status if message delivery to a recipient is skipped. We skip delivering group messages to users who have left the group or unregistered their Yoush account. */
 "MESSAGE_STATUS_RECIPIENT_SKIPPED" = "No entregado";
 
 /* Label indicating that a message failed to send. */
@@ -4798,8 +4798,8 @@
 /* info message text in conversation view for when a call was dropped because the contact is blocked in iOS settings */
 "MISSED_CALL_BLOCKED_SYSTEM_CONTACT" = "Llamada perdida de un contacto bloqueado en los ajustes del teléfono";
 
-/* Action to block contact in Signal for sheet shown when the user taps a missed call from a contact blocked in iOS settings. */
-"MISSED_CALL_BLOCKED_SYSTEM_SETTINGS_SHEET_BLOCK_ACTION" = "Bloquear contacto también en Signal";
+/* Action to block contact in Yoush for sheet shown when the user taps a missed call from a contact blocked in iOS settings. */
+"MISSED_CALL_BLOCKED_SYSTEM_SETTINGS_SHEET_BLOCK_ACTION" = "Bloquear contacto también en Yoush";
 
 /* Message for sheet shown when the user taps a missed call from a contact blocked in iOS settings. */
 "MISSED_CALL_BLOCKED_SYSTEM_SETTINGS_SHEET_MESSAGE" = "Has perdido la llamada de este contacto porque está bloqueado en los Ajustes de tu teléfono. En tu dispositivo, ve a Ajustes > Teléfono y toca Contactos bloqueados para gestionar este ajuste.";
@@ -4820,19 +4820,19 @@
 "MISSING_CAMERA_PERMISSION_MESSAGE" = "Puedes habilitar el acceso a la cámara en la aplicación Ajustes de iOS.";
 
 /* Alert title */
-"MISSING_CAMERA_PERMISSION_TITLE" = "Signal necesita acceso a la cámara.";
+"MISSING_CAMERA_PERMISSION_TITLE" = "Yoush necesita acceso a la cámara.";
 
 /* Alert body indicating the user has denied location permissions */
 "MISSING_LOCATION_PERMISSION_MESSAGE" = "Puedes habilitar este permiso en la aplicación Ajustes de iOS.";
 
 /* Alert title indicating the user has denied location permissions */
-"MISSING_LOCATION_PERMISSION_TITLE" = "Signal necesita acceso a tu ubicación para usar esta función.";
+"MISSING_LOCATION_PERMISSION_TITLE" = "Yoush necesita acceso a tu ubicación para usar esta función.";
 
 /* Alert body when user has previously denied media library access */
 "MISSING_MEDIA_LIBRARY_PERMISSION_MESSAGE" = "Puedes habilitar este permiso en la aplicación Ajustes de iOS.";
 
 /* Alert title when user has previously denied media library access */
-"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "Signal necesita acceso a tu fototeca para usar esta función.";
+"MISSING_MEDIA_LIBRARY_PERMISSION_TITLE" = "Yoush necesita acceso a tu fototeca para usar esta función.";
 
 /* An error shown as the title of an alert when try to link a new device & the user is already at the limit. */
 "MULTIDEVICE_PAIRING_MAX_DESC" = "No se puede vincular más dispositivos.";
@@ -4853,7 +4853,7 @@
 "MY_STORIES_SETTINGS_VISIBILITY_ALL_SIGNAL_CONNECTIONS_EXCEPT_TITLE" = "Mis contactos excepto…";
 
 /* Title for the visibility option */
-"MY_STORIES_SETTINGS_VISIBILITY_ALL_SIGNAL_CONNECTIONS_TITLE" = "Mis contactos de Signal";
+"MY_STORIES_SETTINGS_VISIBILITY_ALL_SIGNAL_CONNECTIONS_TITLE" = "Mis contactos de Yoush";
 
 /* Title for the visibility option */
 "MY_STORIES_SETTINGS_VISIBILITY_ONLY_SHARE_WITH_TITLE" = "Compartir solo con…";
@@ -5015,7 +5015,7 @@
 "NICKNAME_EDITOR_DELETE_CONFIRMATION_TITLE" = "¿Eliminar apodo?";
 
 /* The description below the title on the profile nickname editor view. */
-"NICKNAME_EDITOR_DESCRIPTION" = "Los apodos y las notas se guardan en Signal y están cifrados de extremo a extremo. Solo tú los puedes ver.";
+"NICKNAME_EDITOR_DESCRIPTION" = "Los apodos y las notas se guardan en Yoush y están cifrados de extremo a extremo. Solo tú los puedes ver.";
 
 /* Placeholder text it the text field for the family name in the profile nickname editor. */
 "NICKNAME_EDITOR_FAMILY_NAME_PLACEHOLDER" = "Apellido";
@@ -5078,7 +5078,7 @@
 "NOTIFICATION_PERMISSION_REMINDER_MEGAPHONE_TITLE" = "¿Activar notificaciones?";
 
 /* Shown as the body of an alert when notifications can't be shown due to an error. */
-"NOTIFICATIONS_ERROR_MESSAGE" = "Reinicia tu %1$@ si no recibes notificaciones de Signal.";
+"NOTIFICATIONS_ERROR_MESSAGE" = "Reinicia tu %1$@ si no recibes notificaciones de Yoush.";
 
 /* Shown as the title of an alert when notifications can't be shown due to an error. */
 "NOTIFICATIONS_ERROR_TITLE" = "No se han podido mostrar las notificaciones";
@@ -5089,7 +5089,7 @@
 /* No comment provided by engineer. */
 "NOTIFICATIONS_NONE" = "Ni nombre ni contenido";
 
-/* Table cell switch label. When disabled, Signal will not play notification sounds while the app is in the foreground. */
+/* Table cell switch label. When disabled, Yoush will not play notification sounds while the app is in the foreground. */
 "NOTIFICATIONS_SECTION_INAPP" = "Sonar si la app está abierta";
 
 /* Label for settings UI that allows user to add a new notification sound. */
@@ -5135,12 +5135,12 @@
 "ONBOARDING_2FA_SKIP_PIN_ENTRY_TITLE" = "¿Omitir PIN?";
 
 /* The body for the device transfer 'choice' view 'transfer' option */
-"ONBOARDING_CHOOSE_RESTORE_METHOD_BACKUPS_BODY" = "Restaura tus mensajes y archivos multimedia desde tu plan de pago de copias de seguridad de Signal";
+"ONBOARDING_CHOOSE_RESTORE_METHOD_BACKUPS_BODY" = "Restaura tus mensajes y archivos multimedia desde tu plan de pago de copias de seguridad de Yoush";
 
 /* The title for the device transfer 'choice' view 'transfer' option */
-"ONBOARDING_CHOOSE_RESTORE_METHOD_BACKUPS_TITLE" = "Restaurar copia de seguridad de Signal";
+"ONBOARDING_CHOOSE_RESTORE_METHOD_BACKUPS_TITLE" = "Restaurar copia de seguridad de Yoush";
 
-/* If a user is installing Signal on a new phone, they may be asked whether they want to restore their device from a backup. This is a description of that question. */
+/* If a user is installing Yoush on a new phone, they may be asked whether they want to restore their device from a backup. This is a description of that question. */
 "ONBOARDING_CHOOSE_RESTORE_METHOD_DESCRIPTION" = "Elige cómo quieres restaurar tu historial de mensajes y los datos de tu cuenta.";
 
 /* The body for the skip restore 'choice' option */
@@ -5149,7 +5149,7 @@
 /* The title for the skip restore 'choice' option */
 "ONBOARDING_CHOOSE_RESTORE_METHOD_SKIP_RESTORE_TITLE" = "Registrar sin transferir";
 
-/* If a user is installing Signal on a new phone, they may be asked whether they want to restore their device from a backup. */
+/* If a user is installing Yoush on a new phone, they may be asked whether they want to restore their device from a backup. */
 "ONBOARDING_CHOOSE_RESTORE_METHOD_TITLE" = "Restaurar o transferir cuenta";
 
 /* The body for the device transfer 'choice' view 'transfer' option */
@@ -5189,7 +5189,7 @@
 "ONBOARDING_MODE_SWITCH_BUTTON_REGISTERING" = "Vincular iPhone";
 
 /* explanation to the user they're switching from linking to registering flow */
-"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "Seleccionar \"Registrar iPad\" te permitirá crear una cuenta de Signal o transferir tu cuenta a este iPad. Esta acción desactivará Signal en cualquier otro dispositivo que esté registrado con el mismo número de teléfono.";
+"ONBOARDING_MODE_SWITCH_EXPLANATION_PROVISIONING" = "Seleccionar \"Registrar iPad\" te permitirá crear una cuenta de Yoush o transferir tu cuenta a este iPad. Esta acción desactivará Yoush en cualquier otro dispositivo que esté registrado con el mismo número de teléfono.";
 
 /* explanation to the user they're switching from registering to linking flow */
 "ONBOARDING_MODE_SWITCH_EXPLANATION_REGISTERING" = "Seleccionar \"Vincular iPhone\" te permitirá conectar tu dispositivo con tu cuenta. Vincular tu teléfono no es la opción recomendada, ya que limitará funcionalidades como las llamadas.";
@@ -5201,13 +5201,13 @@
 "ONBOARDING_MODE_SWITCH_TITLE_REGISTERING" = "Vincular este iPhone";
 
 /* warning to the user that registering an ipad is not recommended */
-"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "Registrar este iPad desactivará Signal en cualquier otro dispositivo que esté registrado con el mismo número de teléfono.";
+"ONBOARDING_MODE_SWITCH_WARNING_PROVISIONING" = "Registrar este iPad desactivará Yoush en cualquier otro dispositivo que esté registrado con el mismo número de teléfono.";
 
 /* warning to the user that linking a phone is not recommended */
 "ONBOARDING_MODE_SWITCH_WARNING_REGISTERING" = "Vincular tu iPhone no es la opción recomendada, ya que limitará funcionalidades importantes.";
 
 /* Description of the 'Contacts' permission in the 'onboarding permissions' view. */
-"ONBOARDING_PERMISSIONS_CONTACTS_DESCRIPTION" = "Encuentra a personas que ya conoces. Tus contactos están protegidos mediante cifrado y no son visibles para Signal.";
+"ONBOARDING_PERMISSIONS_CONTACTS_DESCRIPTION" = "Encuentra a personas que ya conoces. Tus contactos están protegidos mediante cifrado y no son visibles para Yoush.";
 
 /* Title introducing the 'Contacts' permission in the 'onboarding permissions' view. */
 "ONBOARDING_PERMISSIONS_CONTACTS_TITLE" = "Contactos";
@@ -5219,13 +5219,13 @@
 "ONBOARDING_PERMISSIONS_NOTIFICATIONS_TITLE" = "Notificaciones";
 
 /* Preamble of the 'onboarding permissions' view. */
-"ONBOARDING_PERMISSIONS_PREAMBLE" = "Signal desea obtener los siguientes permisos.";
+"ONBOARDING_PERMISSIONS_PREAMBLE" = "Yoush desea obtener los siguientes permisos.";
 
 /* Title of the 'onboarding permissions' view. */
 "ONBOARDING_PERMISSIONS_TITLE" = "Activar permisos";
 
 /* Explanation of the 'onboarding phone number discoverability' view. Embeds {user phone number} */
-"ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_EXPLANATION_FORMAT" = "Elige quién puede encontrarte en Signal con tu número de teléfono %1$@";
+"ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_EXPLANATION_FORMAT" = "Elige quién puede encontrarte en Yoush con tu número de teléfono %1$@";
 
 /* Title of the 'onboarding phone number discoverability' view. */
 "ONBOARDING_PHONE_NUMBER_DISCOVERABILITY_TITLE" = "¿Quién puede encontrarte con tu número?";
@@ -5240,7 +5240,7 @@
 "ONBOARDING_PHONE_NUMBER_VALIDATION_WARNING" = "Número de teléfono no válido. Introduce un número válido para registrarte.";
 
 /* Explanation of the 'onboarding pin attempts exhausted' view when reglock is disabled. */
-"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "Te has quedado sin intentos para verificar el PIN. Podrás acceder a tu cuenta de Signal si creas un nuevo PIN. Por tu seguridad y para proteger tu privacidad, se restaurará tu cuenta y se eliminará toda la información de perfil y los ajustes ya guardados.";
+"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_EXPLANATION" = "Te has quedado sin intentos para verificar el PIN. Podrás acceder a tu cuenta de Yoush si creas un nuevo PIN. Por tu seguridad y para proteger tu privacidad, se restaurará tu cuenta y se eliminará toda la información de perfil y los ajustes ya guardados.";
 
 /* Label for the 'learn more' link when reglock is disabled in the 'onboarding pin attempts exhausted' view. */
 "ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_LEARN_MORE" = "Más información sobre los PIN";
@@ -5249,10 +5249,10 @@
 "ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_TITLE" = "PIN incorrecto";
 
 /* Explanation of the 'onboarding pin attempts exhausted' view when it is unknown if reglock is enabled. */
-"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_WITH_UNKNOWN_REGLOCK_EXPLANATION" = "Te has quedado sin intentos para verificar el PIN, pero aún puedes acceder a tu cuenta de Signal si verificas tu número de teléfono. Por tu seguridad y para proteger tu privacidad, se restaurará tu cuenta y se eliminará cualquier información guardada en tu perfil o ajustes.";
+"ONBOARDING_PIN_ATTEMPTS_EXHAUSTED_WITH_UNKNOWN_REGLOCK_EXPLANATION" = "Te has quedado sin intentos para verificar el PIN, pero aún puedes acceder a tu cuenta de Yoush si verificas tu número de teléfono. Por tu seguridad y para proteger tu privacidad, se restaurará tu cuenta y se eliminará cualquier información guardada en tu perfil o ajustes.";
 
 /* Explanation of 'do not have old device' flow for the 'Restore or Transfer' prompt */
-"ONBOARDING_SPLASH_DO_NOT_HAVE_OLD_DEVICE_BODY" = "O estás reinstalando Signal en el mismo dispositivo";
+"ONBOARDING_SPLASH_DO_NOT_HAVE_OLD_DEVICE_BODY" = "O estás reinstalando Yoush en el mismo dispositivo";
 
 /* Title for the 'do not have my old device' choice of the 'Restore or Transfer' prompt */
 "ONBOARDING_SPLASH_DO_NOT_HAVE_OLD_DEVICE_TITLE" = "No tengo mi teléfono anterior";
@@ -5314,20 +5314,20 @@
 /* Button text which opens the settings app */
 "OPEN_SETTINGS_BUTTON" = "Ajustes";
 
-/* Signal doesn't support old versions of iOS and shows a warning if you're on unsupported version. Some users can upgrade their device to a newer version of iOS to continue using Signal. If that's the case, they'll be shown this text. */
-"OS_EXPIRED_AND_CAN_UPGRADE_OS" = "Signal ya no funciona en este dispositivo. Para seguir usando Signal, actualiza tu dispositivo a una versión más reciente de iOS.";
+/* Yoush doesn't support old versions of iOS and shows a warning if you're on unsupported version. Some users can upgrade their device to a newer version of iOS to continue using Yoush. If that's the case, they'll be shown this text. */
+"OS_EXPIRED_AND_CAN_UPGRADE_OS" = "Yoush ya no funciona en este dispositivo. Para seguir usando Yoush, actualiza tu dispositivo a una versión más reciente de iOS.";
 
-/* Signal doesn't support old devices. If that's the case, they'll be shown this action, and tapping it will open information about Signal's minimum supported operating systems. */
-"OS_EXPIRED_AND_DEVICE_IS_STUCK" = "Signal ya no funciona en este dispositivo. Para seguir usando Signal, cambia tu dispositivo por otro más nuevo.";
+/* Yoush doesn't support old devices. If that's the case, they'll be shown this action, and tapping it will open information about Yoush's minimum supported operating systems. */
+"OS_EXPIRED_AND_DEVICE_IS_STUCK" = "Yoush ya no funciona en este dispositivo. Para seguir usando Yoush, cambia tu dispositivo por otro más nuevo.";
 
-/* Signal doesn't support old versions of iOS and shows a warning if you're on an old version. Some users can upgrade their device to a newer version of iOS to continue using Signal. If that's the case, they'll be shown this action, and tapping it will open device update instructions. */
+/* Yoush doesn't support old versions of iOS and shows a warning if you're on an old version. Some users can upgrade their device to a newer version of iOS to continue using Yoush. If that's the case, they'll be shown this action, and tapping it will open device update instructions. */
 "OS_SOON_TO_EXPIRE_ACTION_TITLE" = "Actualizar ahora";
 
-/* Signal doesn't support old versions of iOS and shows a warning if you're an old version that will soon lose support. Some users can upgrade their device to a newer version of iOS to continue using Signal. If that's the case, they'll be shown this text. Embeds {{expiration date}}. */
-"OS_SOON_TO_EXPIRE_AND_CAN_UPGRADE_OS_FORMAT" = "Signal pronto dejará de ser compatible con la versión de iOS de tu dispositivo. Para seguir usando Signal, actualiza tu dispositivo a una versión más reciente de iOS antes del %1$@.";
+/* Yoush doesn't support old versions of iOS and shows a warning if you're an old version that will soon lose support. Some users can upgrade their device to a newer version of iOS to continue using Yoush. If that's the case, they'll be shown this text. Embeds {{expiration date}}. */
+"OS_SOON_TO_EXPIRE_AND_CAN_UPGRADE_OS_FORMAT" = "Yoush pronto dejará de ser compatible con la versión de iOS de tu dispositivo. Para seguir usando Yoush, actualiza tu dispositivo a una versión más reciente de iOS antes del %1$@.";
 
-/* Signal doesn't support old versions of iOS and shows a warning if you're on an old version that will soon lose support. This is the text on that warning when users can't upgrade iOS without getting a new device. Embeds {{expiration date}}. */
-"OS_SOON_TO_EXPIRE_AND_DEVICE_WILL_BE_STUCK_FORMAT" = "Signal pronto dejará de ser compatible con la versión de iOS de tu dispositivo. Para seguir usando Signal, cambia tu dispositivo por otro más nuevo antes del %1$@.";
+/* Yoush doesn't support old versions of iOS and shows a warning if you're on an old version that will soon lose support. This is the text on that warning when users can't upgrade iOS without getting a new device. Embeds {{expiration date}}. */
+"OS_SOON_TO_EXPIRE_AND_DEVICE_WILL_BE_STUCK_FORMAT" = "Yoush pronto dejará de ser compatible con la versión de iOS de tu dispositivo. Para seguir usando Yoush, cambia tu dispositivo por otro más nuevo antes del %1$@.";
 
 /* Info Message when another user disabled disappearing messages. Embeds {{name of other user}}. */
 "OTHER_DISABLED_DISAPPEARING_MESSAGES_CONFIGURATION" = "%1$@ ha desactivado los mensajes temporales.";
@@ -5335,14 +5335,14 @@
 /* Info Message when another user enabled disappearing messages. Embeds {{name of other user}} and {{time amount}} before messages disappear. See the *_TIME_AMOUNT strings for context. */
 "OTHER_UPDATED_DISAPPEARING_MESSAGES_CONFIGURATION" = "%1$@ ha establecido la duración de los mensajes temporales en %2$@.";
 
-/* Label warning the user that the Signal service may be down. */
-"OUTAGE_WARNING" = "Signal está teniendo dificultades técnicas. Estamos trabajando para restablecer el servicio lo antes posible.";
+/* Label warning the user that the Yoush service may be down. */
+"OUTAGE_WARNING" = "Yoush está teniendo dificultades técnicas. Estamos trabajando para restablecer el servicio lo antes posible.";
 
 /* Label for action link when the user has an outdated payment client */
 "OUTDATED_PAYMENT_CLIENT_ACTION_TITLE" = "Actualizar ahora";
 
-/* Label warning the user that they should update Signal to continue using payments. */
-"OUTDATED_PAYMENT_CLIENT_REMINDER_TEXT" = "Actualiza Signal para continuar usando pagos. Es posible que tu saldo no esté actualizado.";
+/* Label warning the user that they should update Yoush to continue using payments. */
+"OUTDATED_PAYMENT_CLIENT_REMINDER_TEXT" = "Actualiza Yoush para continuar usando pagos. Es posible que tu saldo no esté actualizado.";
 
 /* Body text describing the outgoing transfer. */
 "OUTGOING_DEVICE_RESTORE_INITIAL_VIEW_BODY" = "Tu cuenta se transferirá a un nuevo dispositivo. En este dispositivo podrás ver tus grupos y contactos, acceder a tus chats y enviar mensajes desde tu perfil.";
@@ -5362,11 +5362,11 @@
 /* info message text in conversation view */
 "OUTGOING_MISSED_VOICE_CALL" = "Llamada no atendida";
 
-/* Button for action sheet shown when device transfer completes; quits the Signal app immediately (does not automatically relaunch, but the user may choose to relaunch). */
-"OUTGOING_TRANSFER_COMPLETE_EXIT_ACTION" = "Salir de Signal";
+/* Button for action sheet shown when device transfer completes; quits the Yoush app immediately (does not automatically relaunch, but the user may choose to relaunch). */
+"OUTGOING_TRANSFER_COMPLETE_EXIT_ACTION" = "Salir de Yoush";
 
 /* Message for action sheet shown when device transfer completes */
-"OUTGOING_TRANSFER_COMPLETE_MESSAGE" = "Signal se cerrará ahora en este dispositivo";
+"OUTGOING_TRANSFER_COMPLETE_MESSAGE" = "Yoush se cerrará ahora en este dispositivo";
 
 /* Title for action sheet shown when device transfer completes */
 "OUTGOING_TRANSFER_COMPLETE_TITLE" = "¡Transferencia completada!";
@@ -5488,7 +5488,7 @@
 /* Title for action sheet shown when unlocking with biometrics like Face ID or TouchID fails because it is disabled at a system level. */
 "PAYMENTS_LOCK_LOCAL_BIOMETRY_AUTH_DISABLED_TITLE" = "Error en la autenticación biométrica";
 
-/* Description of how and why Signal iOS uses Touch ID/Face ID/Phone Passcode to unlock 'payments lock'. */
+/* Description of how and why Yoush iOS uses Touch ID/Face ID/Phone Passcode to unlock 'payments lock'. */
 "PAYMENTS_LOCK_REASON_UNLOCK_PAYMENTS_LOCK" = "Debes autenticarte para confirmar el pago.";
 
 /* Label for the 'add memo' ui in the 'send payment' UI. */
@@ -5519,7 +5519,7 @@
 "PAYMENTS_NEW_PAYMENT_ERROR_INVALID_TRANSACTION" = "Transacción no válida";
 
 /* Indicates that a payment failed due to an outdated client. */
-"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "Actualiza Signal para realizar pagos.";
+"PAYMENTS_NEW_PAYMENT_ERROR_OUTDATED_CLIENT" = "Actualiza Yoush para realizar pagos.";
 
 /* Indicates that an outgoing payment could not be verified in a timely way. */
 "PAYMENTS_NEW_PAYMENT_ERROR_OUTGOING_VERIFICATION_TAKING_TOO_LONG" = "Todavía no se ha verificado el pago";
@@ -5765,13 +5765,13 @@
 "PHONE_NUMBER_DISCOVERABILITY_EVERYBODY" = "Cualquiera";
 
 /* A user friendly description of the 'everybody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "Cualquiera que tenga tu número de teléfono verá que estás en Signal y podrá iniciar chats contigo.";
+"PHONE_NUMBER_DISCOVERABILITY_EVERYBODY_DESCRIPTION" = "Cualquiera que tenga tu número de teléfono verá que estás en Yoush y podrá iniciar chats contigo.";
 
 /* A user friendly name for the 'nobody' phone number discoverability mode. */
 "PHONE_NUMBER_DISCOVERABILITY_NOBODY" = "Nadie";
 
 /* A user friendly description of the 'nobody' phone number discoverability mode. */
-"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "Nadie podrá ver que estás en Signal a menos que le envíes un mensaje o ya tengas un chat con esa persona.";
+"PHONE_NUMBER_DISCOVERABILITY_NOBODY_DESCRIPTION" = "Nadie podrá ver que estás en Yoush a menos que le envíes un mensaje o ya tengas un chat con esa persona.";
 
 /* A format for a label showing an example phone number. Embeds {{the example phone number}}. */
 "PHONE_NUMBER_EXAMPLE_FORMAT" = "Ejemplo: %1$@";
@@ -5873,22 +5873,22 @@
 "PIN_CREATION_DISABLE_CONFIRMATION_ACTION" = "Desactivar PIN";
 
 /* Message of the 'pin disable' action sheet. */
-"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "Si desactivas el PIN, perderás todos los datos de tu cuenta si vuelves a registrarte en Signal. Solo podrás conservar los datos si los transfieres desde otro dispositivo iOS. No puedes activar el bloqueo de registro si el PIN está desactivado.";
+"PIN_CREATION_DISABLE_CONFIRMATION_MESSAGE" = "Si desactivas el PIN, perderás todos los datos de tu cuenta si vuelves a registrarte en Yoush. Solo podrás conservar los datos si los transfieres desde otro dispositivo iOS. No puedes activar el bloqueo de registro si el PIN está desactivado.";
 
 /* Title of the 'pin disable' action sheet. */
 "PIN_CREATION_DISABLE_CONFIRMATION_TITLE" = "Advertencia";
 
 /* The explanation in the 'pin creation' view. */
-"PIN_CREATION_EXPLANATION" = "El PIN mantiene la información guardada en Signal cifrada para que solo tú tengas acceso. Tu perfil, ajustes y contactos se restaurarán al reinstalar Signal. No necesitarás el PIN para abrir la aplicación.";
+"PIN_CREATION_EXPLANATION" = "El PIN mantiene la información guardada en Yoush cifrada para que solo tú tengas acceso. Tu perfil, ajustes y contactos se restaurarán al reinstalar Yoush. No necesitarás el PIN para abrir la aplicación.";
 
 /* Learn more action on the pin creation view */
 "PIN_CREATION_LEARN_MORE" = "Más sobre los PIN";
 
 /* Users can create PINs to restore their account data later. They can learn more about this on a sheet. This is the text on that sheet. */
-"PIN_CREATION_LEARN_MORE_TEXT" = "El PIN mantiene la información guardada en Signal cifrada para que solo tú tengas acceso. Tu perfil, ajustes y contactos se restaurarán al reinstalar Signal.";
+"PIN_CREATION_LEARN_MORE_TEXT" = "El PIN mantiene la información guardada en Yoush cifrada para que solo tú tengas acceso. Tu perfil, ajustes y contactos se restaurarán al reinstalar Yoush.";
 
 /* Users can create PINs to restore their account data later. They can learn more about this on a sheet. This is the title on that sheet. */
-"PIN_CREATION_LEARN_MORE_TITLE" = "Acerca de los PIN de Signal";
+"PIN_CREATION_LEARN_MORE_TITLE" = "Acerca de los PIN de Yoush";
 
 /* Label indicating that the attempted PIN does not match the first PIN */
 "PIN_CREATION_MISMATCH_ERROR" = "Los PIN no coinciden. Inténtalo de nuevo.";
@@ -5936,7 +5936,7 @@
 "PIN_CREATION_WEAK_ERROR" = "Elige un PIN más seguro";
 
 /* If your attempted PIN is too weak, you'll see an error message. This is the text on the error dialog. */
-"PIN_CREATION_WEAK_ERROR_MESSAGE" = "El PIN mantiene la información guardada en Signal cifrada para que solo tú tengas acceso. Elige un PIN más seguro para proteger tu cuenta.";
+"PIN_CREATION_WEAK_ERROR_MESSAGE" = "El PIN mantiene la información guardada en Yoush cifrada para que solo tú tengas acceso. Elige un PIN más seguro para proteger tu cuenta.";
 
 /* Error body indicating that the attempt to disable a PIN failed. */
 "PIN_DISABLE_ERROR_MESSAGE" = "No se ha podido desactivar tu PIN.";
@@ -5972,7 +5972,7 @@
 "PIN_REMINDER_MEGAPHONE_FEW_DAYS_TOAST" = "Te lo recordaremos de nuevo en unos días.";
 
 /* Title for PIN reminder megaphone */
-"PIN_REMINDER_MEGAPHONE_TITLE" = "Verifica tu PIN de Signal";
+"PIN_REMINDER_MEGAPHONE_TITLE" = "Verifica tu PIN de Yoush";
 
 /* Toast indicating that we'll ask you for your PIN again tomorrow, after successfully entering it. */
 "PIN_REMINDER_MEGAPHONE_TOMORROW_SUCCESSFUL_TOAST" = "PIN correcto. Te lo recordaremos de nuevo mañana.";
@@ -5996,7 +5996,7 @@
 "PIN_REMINDER_MISMATCH_ERROR" = "PIN incorrecto. Inténtalo de nuevo.";
 
 /* The title for the 'pin reminder' dialog. */
-"PIN_REMINDER_TITLE" = "Introduce tu PIN de Signal";
+"PIN_REMINDER_TITLE" = "Introduce tu PIN de Yoush";
 
 /* Label indicating that the attempted PIN is too short */
 "PIN_REMINDER_TOO_SHORT_ERROR" = "El PIN debe contener al menos 4 dígitos.";
@@ -6011,7 +6011,7 @@
 "PINS_MEGAPHONE_ACTION" = "Crear PIN";
 
 /* Body for PIN megaphone when user doesn't have a PIN */
-"PINS_MEGAPHONE_BODY" = "Completa el registro de tu PIN de Signal.";
+"PINS_MEGAPHONE_BODY" = "Completa el registro de tu PIN de Yoush.";
 
 /* Title for PIN megaphone when user doesn't have a PIN */
 "PINS_MEGAPHONE_TITLE" = "Crear un PIN";
@@ -6038,19 +6038,19 @@
 "PRIVACY_VERIFICATION_FAILED_MISMATCHED_SAFETY_NUMBERS_IN_CLIPBOARD" = "El número guardado en tu portapapeles no coincide con el número de seguridad del chat con esta persona.";
 
 /* Alert body for user error */
-"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "Signal no ha encontrado el número de seguridad en el portapapeles. ¿Lo has copiado correctamente?";
+"PRIVACY_VERIFICATION_FAILED_NO_SAFETY_NUMBERS_IN_CLIPBOARD" = "Yoush no ha encontrado el número de seguridad en el portapapeles. ¿Lo has copiado correctamente?";
 
 /* Alert body when verifying with {{contact name}} */
-"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "Todos los chats entre dos personas en Signal tienen un número de seguridad único. Vuelve a verificar que el número que muestra %1$@ coincida con el de tu chat con esta persona.";
+"PRIVACY_VERIFICATION_FAILED_THEY_HAVE_WRONG_KEY_FOR_ME" = "Todos los chats entre dos personas en Yoush tienen un número de seguridad único. Vuelve a verificar que el número que muestra %1$@ coincida con el de tu chat con esta persona.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "Estás utilizando una versión anterior de Signal. Debes actualizar la app para poder hacer la verificación.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_LOCAL_VERSION" = "Estás utilizando una versión anterior de Yoush. Debes actualizar la app para poder hacer la verificación.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "Esta persona está utilizando una versión anterior de Signal. Debe actualizar la app para que puedas hacer la verificación.";
+"PRIVACY_VERIFICATION_FAILED_WITH_OLD_REMOTE_VERSION" = "Esta persona está utilizando una versión anterior de Yoush. Debe actualizar la app para que puedas hacer la verificación.";
 
 /* alert body */
-"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "El código escaneado no parece un código de número de seguridad. ¿Ambos dispositivos tienen una versión actualizada de Signal?";
+"PRIVACY_VERIFICATION_FAILURE_INVALID_QRCODE" = "El código escaneado no parece un código de número de seguridad. ¿Ambos dispositivos tienen una versión actualizada de Yoush?";
 
 /* Navbar title */
 "PRIVACY_VERIFICATION_TITLE" = "Verificar número de seguridad";
@@ -6125,7 +6125,7 @@
 "PROFILE_NAME_EDUCATION_SHEET_BULLET_3" = "No compartas información personal con personas que no conozcas";
 
 /* Header for the explainer sheet for profile names */
-"PROFILE_NAME_EDUCATION_SHEET_HEADER_FORMAT" = "Los <bold>nombres de perfil</bold> en Signal los elige quien crea la cuenta.";
+"PROFILE_NAME_EDUCATION_SHEET_HEADER_FORMAT" = "Los <bold>nombres de perfil</bold> en Yoush los elige quien crea la cuenta.";
 
 /* Title for the profile name view. */
 "PROFILE_NAME_VIEW_TITLE" = "Tu nombre";
@@ -6194,7 +6194,7 @@
 "PROXY_ADDRESS" = "Dirección del proxy";
 
 /* The provided proxy connected successfully */
-"PROXY_CONNECTED_SUCCESSFULLY" = "Signal se ha conectado al proxy. Puedes desactivar el proxy en cualquier momento en Ajustes.";
+"PROXY_CONNECTED_SUCCESSFULLY" = "Yoush se ha conectado al proxy. Puedes desactivar el proxy en cualquier momento en Ajustes.";
 
 /* The provided proxy couldn't connect */
 "PROXY_FAILED_TO_CONNECT" = "No se ha podido conectar con el servidor proxy. Comprueba la dirección e inténtalo de nuevo.";
@@ -6323,19 +6323,19 @@
 "RECIPIENT_PICKER_ERROR_USER_CANNOT_BE_SELECTED" = "No se puede seleccionar esta persona.";
 
 /* Alert text. Shown after selecting a phone number that isn't valid. */
-"RECIPIENT_PICKER_INVALID_NUMBER_MESSAGE" = "%1$@ no usa Signal. Inténtalo de nuevo con un número de teléfono válido.";
+"RECIPIENT_PICKER_INVALID_NUMBER_MESSAGE" = "%1$@ no usa Yoush. Inténtalo de nuevo con un número de teléfono válido.";
 
 /* Alert title. Shown after selecting a phone number that isn't valid. */
 "RECIPIENT_PICKER_INVALID_NUMBER_TITLE" = "Número de teléfono no válido";
 
-/* Button. Shown after selecting a phone number that isn't a Signal user. Tapping the button will open a view that allows the user to send an SMS message to specified phone number. */
+/* Button. Shown after selecting a phone number that isn't a Yoush user. Tapping the button will open a view that allows the user to send an SMS message to specified phone number. */
 "RECIPIENT_PICKER_INVITE_ACTION" = "Invitar";
 
-/* Alert text. Shown after selecting a phone number that isn't a Signal user. */
-"RECIPIENT_PICKER_INVITE_MESSAGE" = "%1$@ no usa Signal. ¿Quieres enviar una invitación a este número?";
+/* Alert text. Shown after selecting a phone number that isn't a Yoush user. */
+"RECIPIENT_PICKER_INVITE_MESSAGE" = "%1$@ no usa Yoush. ¿Quieres enviar una invitación a este número?";
 
-/* Alert title. Shown after selecting a phone number that isn't a Signal user. */
-"RECIPIENT_PICKER_INVITE_TITLE" = "Invitar a Signal";
+/* Alert title. Shown after selecting a phone number that isn't a Yoush user. */
+"RECIPIENT_PICKER_INVITE_TITLE" = "Invitar a Yoush";
 
 /* Alert title explaining what happens if you forget your 'two-factor auth pin'. */
 "REGISTER_2FA_FORGOT_PIN_ALERT_TITLE" = "¿Necesitas ayuda?";
@@ -6371,7 +6371,7 @@
 "REGISTRATION_CANNOT_CONTINUE_WITHOUT_UPDATING_APP_ACTION" = "Actualizar";
 
 /* During (re)registration, users may need to update their app to continue. They'll be presented with an alert if this is the case, prompting them to update. This is the description text on that alert. */
-"REGISTRATION_CANNOT_CONTINUE_WITHOUT_UPDATING_APP_DESCRIPTION" = "Para continuar con el proceso de registro, actualiza a la última versión de Signal.";
+"REGISTRATION_CANNOT_CONTINUE_WITHOUT_UPDATING_APP_DESCRIPTION" = "Para continuar con el proceso de registro, actualiza a la última versión de Yoush.";
 
 /* During (re)registration, users may need to update their app to continue. They'll be presented with an alert if this is the case, prompting them to update. This is the title on that alert. */
 "REGISTRATION_CANNOT_CONTINUE_WITHOUT_UPDATING_APP_TITLE" = "Actualización necesaria";
@@ -6382,10 +6382,10 @@
 /* Label for the country code field */
 "REGISTRATION_DEFAULT_COUNTRY_NAME" = "Código de país";
 
-/* If a user is installing Signal on a new phone, they may be asked whether they want to transfer their account from their old device. This is a description on the screen that asks them this question. */
-"REGISTRATION_DEVICE_TRANSFER_CHOICE_EXPLANATION" = "Si continúas, se desactivará Signal en otros dispositivos registrados con el mismo número de teléfono.";
+/* If a user is installing Yoush on a new phone, they may be asked whether they want to transfer their account from their old device. This is a description on the screen that asks them this question. */
+"REGISTRATION_DEVICE_TRANSFER_CHOICE_EXPLANATION" = "Si continúas, se desactivará Yoush en otros dispositivos registrados con el mismo número de teléfono.";
 
-/* If a user is installing Signal on a new phone, they may be asked whether they want to transfer their account from their old device. This is the title on the screen that asks them this question. */
+/* If a user is installing Yoush on a new phone, they may be asked whether they want to transfer their account from their old device. This is the title on the screen that asks them this question. */
 "REGISTRATION_DEVICE_TRANSFER_CHOICE_TITLE" = "Transferir cuenta y mensajes";
 
 /* Description for the screen that allows users to enter their backup key. */
@@ -6419,7 +6419,7 @@
 "REGISTRATION_NO_BACKUP_KEY_BUTTON_TITLE" = "¿No tienes tu clave?";
 
 /* Body text on a sheet with info for what to do if you don't have a backup key */
-"REGISTRATION_NO_BACKUP_KEY_SHEET_BODY" = "Las copias de seguridad no se pueden recuperar sin el código de recuperación de 64 caracteres. Si has perdido tu clave, Signal no puede ayudarte a restaurar tu copia de seguridad.\n\nSi tienes tu dispositivo anterior, puedes ver la clave de tu copia de seguridad en Ajustes > Chats > Copias de seguridad de Signal > Ver clave de copia de seguridad.";
+"REGISTRATION_NO_BACKUP_KEY_SHEET_BODY" = "Las copias de seguridad no se pueden recuperar sin el código de recuperación de 64 caracteres. Si has perdido tu clave, Yoush no puede ayudarte a restaurar tu copia de seguridad.\n\nSi tienes tu dispositivo anterior, puedes ver la clave de tu copia de seguridad en Ajustes > Chats > Copias de seguridad de Yoush > Ver clave de copia de seguridad.";
 
 /* Title for sheet with info for what to do if you don't have a backup key */
 "REGISTRATION_NO_BACKUP_KEY_SHEET_TITLE" = "¿No tienes tu clave?";
@@ -6446,13 +6446,13 @@
 "REGISTRATION_PIN_CONFIRM_TITLE" = "Confirma tu PIN";
 
 /* During registration, users are asked to create a PIN code. This is the subtitle on the screen where this happens. A \"learn more\" link will be added to the end of this string. */
-"REGISTRATION_PIN_CREATE_SUBTITLE" = "El PIN puede ayudarte a restaurar tu cuenta y mantener tu información cifrada en Signal.";
+"REGISTRATION_PIN_CREATE_SUBTITLE" = "El PIN puede ayudarte a restaurar tu cuenta y mantener tu información cifrada en Yoush.";
 
 /* During registration, users are asked to create a PIN code. This is the title on the screen where this happens. */
 "REGISTRATION_PIN_CREATE_TITLE" = "Crea tu PIN";
 
 /* During re-registration, users may be asked to re-enter their PIN code. This is the subtitle on the screen where this happens. A \"learn more\" link will be added to the end of this string. */
-"REGISTRATION_PIN_ENTER_EXISTING_SUBTITLE" = "El PIN puede ayudarte a restaurar tu cuenta y mantener tu información cifrada en Signal.";
+"REGISTRATION_PIN_ENTER_EXISTING_SUBTITLE" = "El PIN puede ayudarte a restaurar tu cuenta y mantener tu información cifrada en Yoush.";
 
 /* During re-registration, users may be asked to re-enter their PIN code. This is the title on the screen where this happens. */
 "REGISTRATION_PIN_ENTER_EXISTING_TITLE" = "Introduce tu PIN";
@@ -6479,10 +6479,10 @@
 "REGISTRATION_PROFILE_SETUP_TITLE" = "Completa tu perfil";
 
 /* Error shown if an SMS/call service provider is permanently unable to send a verification code to the provided number. */
-"REGISTRATION_PROVIDER_FAILURE_MESSAGE_PERMANENT" = "Signal no puede enviarte un código SMS debido a problemas con el proveedor de SMS.";
+"REGISTRATION_PROVIDER_FAILURE_MESSAGE_PERMANENT" = "Yoush no puede enviarte un código SMS debido a problemas con el proveedor de SMS.";
 
 /* Error shown if an SMS/call service provider is temporarily unable to send a verification code to the provided number. */
-"REGISTRATION_PROVIDER_FAILURE_MESSAGE_TRANSIENT" = "Signal no ha podido enviarte un código SMS debido a problemas con el proveedor de SMS. Vuelve a intentarlo dentro de unas horas.";
+"REGISTRATION_PROVIDER_FAILURE_MESSAGE_TRANSIENT" = "Yoush no ha podido enviarte un código SMS debido a problemas con el proveedor de SMS. Vuelve a intentarlo dentro de unas horas.";
 
 /* No comment provided by engineer. */
 "REGISTRATION_RESTRICTED_MESSAGE" = "Debes registrarte para poder enviar un mensaje.";
@@ -6490,8 +6490,8 @@
 /* Title for screen containing QR code that users scan with their old phone when they want to transfer/restore their message history to a new device. */
 "REGISTRATION_SCAN_QR_CODE_TITLE" = "Escanea este código con tu teléfono anterior";
 
-/* Tutorial text describing the first step to scanning the restore/transfer QR code with your old phone: opening Signal */
-"REGISTRATION_SCAN_QR_CODE_TUTORIAL_OPEN_SIGNAL" = "Abre Signal en tu dispositivo anterior";
+/* Tutorial text describing the first step to scanning the restore/transfer QR code with your old phone: opening Yoush */
+"REGISTRATION_SCAN_QR_CODE_TUTORIAL_OPEN_SIGNAL" = "Abre Yoush en tu dispositivo anterior";
 
 /* Tutorial text describing the third step to scanning the restore/transfer QR code with your old phone: scan the code */
 "REGISTRATION_SCAN_QR_CODE_TUTORIAL_SCAN" = "Escanea este código con la cámara";
@@ -6590,7 +6590,7 @@
 "SAFETY_NUMBER_CHANGED_CONFIRM_SEND_ACTION" = "Enviar de todos modos";
 
 /* Message for the 'safety number confirmation' view */
-"SAFETY_NUMBER_CONFIRMATION_MESSAGE" = "Es posible que las siguientes personas hayan reinstalado Signal o cambiado su dispositivo. Verifica tu número de seguridad con ellas para asegurar la privacidad de tus conversaciones.";
+"SAFETY_NUMBER_CONFIRMATION_MESSAGE" = "Es posible que las siguientes personas hayan reinstalado Yoush o cambiado su dispositivo. Verifica tu número de seguridad con ellas para asegurar la privacidad de tus conversaciones.";
 
 /* Text explaining that the given contact previously had their safety number verified. */
 "SAFETY_NUMBER_CONFIRMATION_PREVIOUSLY_VERIFIED" = "Identidad verificada previamente";
@@ -6605,7 +6605,7 @@
 "SAFETY_NUMBER_CONFIRMATION_VIEW_ACTION" = "Ver";
 
 /* Snippet to share {{safety number}} with a friend. sent e.g. via SMS */
-"SAFETY_NUMBER_SHARE_FORMAT" = "El número de seguridad de nuestro chat en Signal es:\n%1$@";
+"SAFETY_NUMBER_SHARE_FORMAT" = "El número de seguridad de nuestro chat en Yoush es:\n%1$@";
 
 /* Action sheet heading */
 "SAFETY_NUMBERS_ACTIONSHEET_TITLE" = "Tu número de seguridad con %1$@ ha cambiado. Te recomendamos verificar su identidad.";
@@ -6626,7 +6626,7 @@
 "SAFETY_TIPS_FAKE_BUSINESS_TITLE" = "Empresas e instituciones falsas";
 
 /* Message contents for the fake names safety tip. */
-"SAFETY_TIPS_FAKE_NAMES_BODY" = "Signal nunca se pondrá en contacto contigo para pedirte tu código de registro o PIN. Ten cuidado con las solicitudes de personas que se hacen pasar por otras. Los nombres de perfil los elige quien crea la cuenta y no se verifican.";
+"SAFETY_TIPS_FAKE_NAMES_BODY" = "Yoush nunca se pondrá en contacto contigo para pedirte tu código de registro o PIN. Ten cuidado con las solicitudes de personas que se hacen pasar por otras. Los nombres de perfil los elige quien crea la cuenta y no se verifican.";
 
 /* Message title describing the fake names safety tip. */
 "SAFETY_TIPS_FAKE_NAMES_TITLE" = "Cuentas y nombres falsos";
@@ -6685,14 +6685,14 @@
 /* Indicates that Touch ID/Face ID/Phone Passcode passcode is not set. */
 "SCREEN_LOCK_ERROR_LOCAL_AUTHENTICATION_PASSCODE_NOT_SET" = "Debes configurar un código en Ajustes de iOS para poder usar el bloqueo de pantalla.";
 
-/* Description of how and why Signal iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
-"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Autentica tu identidad para acceder a Signal.";
+/* Description of how and why Yoush iOS uses Touch ID/Face ID/Phone Passcode to unlock 'screen lock'. */
+"SCREEN_LOCK_REASON_UNLOCK_SCREEN_LOCK" = "Autentica tu identidad para acceder a Yoush.";
 
 /* Title for alert indicating that screen lock could not be unlocked. */
 "SCREEN_LOCK_UNLOCK_FAILED" = "Error de autenticación";
 
-/* Label for button on lock screen that lets users unlock Signal. */
-"SCREEN_LOCK_UNLOCK_SIGNAL" = "Desbloquear Signal";
+/* Label for button on lock screen that lets users unlock Yoush. */
+"SCREEN_LOCK_UNLOCK_SIGNAL" = "Desbloquear Yoush";
 
 /* Placeholder text indicating the user can search for contacts by name, username, or phone number. */
 "SEARCH_BY_NAME_OR_USERNAME_OR_NUMBER_PLACEHOLDER_TEXT" = "Nombre de perfil, alias o número";
@@ -6716,7 +6716,7 @@
 "SEARCH_SECTION_MESSAGES" = "Mensajes";
 
 /* Message for error alert indicating that re-linking failed because the account did not match. */
-"SECONDARY_LINKING_ERROR_DIFFERENT_ACCOUNT_MESSAGE" = "Para vincular este dispositivo con otra cuenta, primero debes restablecer Signal en este dispositivo. ¿Quieres eliminar todo tu historial (mensajes, archivos, llamadas, etc.)? Esta acción es irreversible.";
+"SECONDARY_LINKING_ERROR_DIFFERENT_ACCOUNT_MESSAGE" = "Para vincular este dispositivo con otra cuenta, primero debes restablecer Yoush en este dispositivo. ¿Quieres eliminar todo tu historial (mensajes, archivos, llamadas, etc.)? Esta acción es irreversible.";
 
 /* Label for the 'reset device' action in the 're-linking failed because the account did not match' alert. */
 "SECONDARY_LINKING_ERROR_DIFFERENT_ACCOUNT_RESET_DEVICE" = "Eliminar todo";
@@ -6725,13 +6725,13 @@
 "SECONDARY_LINKING_ERROR_DIFFERENT_ACCOUNT_TITLE" = "La cuenta no coincide";
 
 /* Message for error alert indicating that a linked device must be upgraded before it can be linked. */
-"SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_MESSAGE" = "Actualiza Signal en este dispositivo para vincularlo con tu teléfono.";
+"SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_MESSAGE" = "Actualiza Yoush en este dispositivo para vincularlo con tu teléfono.";
 
 /* Title for error alert indicating that a linked device must be upgraded before it can be linked. */
 "SECONDARY_LINKING_ERROR_OBSOLETE_LINKED_DEVICE_TITLE" = "Versión no compatible";
 
 /* alert message for outdated linking device */
-"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "Tu otro dispositivo ejecuta una versión antigua de Signal que no admite la función de escanear códigos QR desde iPad. Instala la última versión de Signal e inténtalo de nuevo.";
+"SECONDARY_LINKING_ERROR_OLD_VERSION_MESSAGE" = "Tu otro dispositivo ejecuta una versión antigua de Yoush que no admite la función de escanear códigos QR desde iPad. Instala la última versión de Yoush e inténtalo de nuevo.";
 
 /* alert title for outdated linking device */
 "SECONDARY_LINKING_ERROR_OLD_VERSION_TITLE" = "Actualiza para escanear";
@@ -6748,11 +6748,11 @@
 /* Message for action sheet when secondary device fails to sync messages due to an unspecified error. */
 "SECONDARY_LINKING_SYNCING_OTHER_ERROR_MESSAGE" = "Ha habido un error y no se han podido transferir tus mensajes. Vuelve a vincular este dispositivo para intentarlo de nuevo.";
 
-/* Button on an action sheet to open Signal on the App Store. */
+/* Button on an action sheet to open Yoush on the App Store. */
 "SECONDARY_LINKING_SYNCING_UPDATE_REQUIRED_CHECK_FOR_UPDATE_BUTTON" = "Buscar actualizaciones";
 
 /* Message for action sheet when the secondary device fails to sync messages due to an app update being required. */
-"SECONDARY_LINKING_SYNCING_UPDATE_REQUIRED_ERROR_MESSAGE" = "Para completar la sincronización de tus mensajes, actualiza Signal ahora.";
+"SECONDARY_LINKING_SYNCING_UPDATE_REQUIRED_ERROR_MESSAGE" = "Para completar la sincronización de tus mensajes, actualiza Yoush ahora.";
 
 /* Title for action sheet when the secondary device fails to sync messages due to an app update being required. */
 "SECONDARY_LINKING_SYNCING_UPDATE_REQUIRED_ERROR_TITLE" = "Actualización necesaria";
@@ -6761,19 +6761,19 @@
 "SECONDARY_ONBOARDING_CHOOSE_DEVICE_NAME_PLACEHOLDER" = "Elige un nombre";
 
 /* header text before the user can link this device */
-"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "Abre Signal en tu teléfono para vincular este iPad con tu cuenta";
+"SECONDARY_ONBOARDING_GET_STARTED_BY_OPENING_PRIMARY" = "Abre Yoush en tu teléfono para vincular este iPad con tu cuenta";
 
 /* Link explaining what to do when trying to link a device before having a primary device. */
-"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "No tengo Signal en mi teléfono…";
+"SECONDARY_ONBOARDING_GET_STARTED_DO_NOT_HAVE_PRIMARY" = "No tengo Yoush en mi teléfono…";
 
 /* alert body */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "Ve a la App Store en tu teléfono, instala Signal y completa el proceso de registro para poder vincular este iPad con tu cuenta.";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_BODY" = "Ve a la App Store en tu teléfono, instala Yoush y completa el proceso de registro para poder vincular este iPad con tu cuenta.";
 
 /* alert title */
-"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "Instala Signal en tu teléfono";
+"SECONDARY_ONBOARDING_INSTALL_PRIMARY_FIRST_TITLE" = "Instala Yoush en tu teléfono";
 
 /* body text while displaying a QR code which, when scanned, will link this device. */
-"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "Toca en tu foto de perfil para abrir los Ajustes de Signal. Luego, toca \"Dispositivos vinculados\" y \"Vincular nuevo dispositivo\" para escanear este código con tu teléfono:";
+"SECONDARY_ONBOARDING_SCAN_CODE_BODY" = "Toca en tu foto de perfil para abrir los Ajustes de Yoush. Luego, toca \"Dispositivos vinculados\" y \"Vincular nuevo dispositivo\" para escanear este código con tu teléfono:";
 
 /* Link text for page with troubleshooting info shown on the QR scanning screen */
 "SECONDARY_ONBOARDING_SCAN_CODE_HELP_TEXT" = "Obtener ayuda para vincular iPad";
@@ -6785,7 +6785,7 @@
 "SECONDARY_ONBOARDING_SCAN_CODE_TITLE" = "Escanea el código QR con tu teléfono";
 
 /* header text before the user can transfer to this device */
-"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "Abre Signal en tu iPad anterior para transferir tu cuenta";
+"SECONDARY_TRANSFER_GET_STARTED_BY_OPENING_IPAD" = "Abre Yoush en tu iPad anterior para transferir tu cuenta";
 
 /* No comment provided by engineer. */
 "SECURE_SESSION_RESET" = "Sesión segura restablecida";
@@ -6829,10 +6829,10 @@
 /* String describing standard quality sent media */
 "SENT_MEDIA_QUALITY_STANDARD" = "Estándar";
 
-/* Users can donate to Signal with a bank account. This is the label for email field on that screen. */
+/* Users can donate to Yoush with a bank account. This is the label for email field on that screen. */
 "SEPA_DONATION_EMAIL_LABEL" = "Correo";
 
-/* Users can donate to Signal with a bank account. This is placeholder text for the email field before the user starts typing. */
+/* Users can donate to Yoush with a bank account. This is placeholder text for the email field before the user starts typing. */
 "SEPA_DONATION_EMAIL_PLACEHOLDER" = "Dirección de correo electrónico";
 
 /* SEPA bank account donation error for insufficient funds. */
@@ -6850,32 +6850,32 @@
 /* SEPA bank account donation error for the payment not being authorizing by the account holder. */
 "SEPA_DONATION_ERROR_PAYMENT_NOT_AUTHORIZED" = "No se ha podido procesar este pago porque el titular de la cuenta lo ha revocado. No se te ha cobrado.";
 
-/* Users can donate to Signal with a bank account. If their internation bank account number (IBAN) contains characters other than letters and numbers, this error will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a bank account. If their internation bank account number (IBAN) contains characters other than letters and numbers, this error will be shown. Try to use a short string to make space in the UI. */
 "SEPA_DONATION_IBAN_INVALID_CHARACTERS_ERROR" = "El IBAN solo puede contener caracteres a-z y 0-9";
 
-/* Users can donate to Signal with a bank account. If their internation bank account number (IBAN) does not pass validation, this error will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a bank account. If their internation bank account number (IBAN) does not pass validation, this error will be shown. Try to use a short string to make space in the UI. */
 "SEPA_DONATION_IBAN_INVALID_CHECK_ERROR" = "Número IBAN no válido";
 
-/* Users can donate to Signal with a bank account. If their internation bank account number (IBAN) has an unsupported country code, this error will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a bank account. If their internation bank account number (IBAN) has an unsupported country code, this error will be shown. Try to use a short string to make space in the UI. */
 "SEPA_DONATION_IBAN_INVALID_COUNTRY_ERROR" = "No se admite el código de país del IBAN";
 
-/* Users can donate to Signal with a bank account. This is the label for IBAN (internation bank account number) field on that screen. */
+/* Users can donate to Yoush with a bank account. This is the label for IBAN (internation bank account number) field on that screen. */
 "SEPA_DONATION_IBAN_LABEL" = "IBAN";
 
-/* Users can donate to Signal with a bank account. If their internation bank account number (IBAN) is too long, this error will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a bank account. If their internation bank account number (IBAN) is too long, this error will be shown. Try to use a short string to make space in the UI. */
 "SEPA_DONATION_IBAN_TOO_LONG_ERROR" = "El IBAN es demasiado largo";
 
-/* Users can donate to Signal with a bank account. If their internation bank account number (IBAN) is too long, this error will be shown. Try to use a short string to make space in the UI. */
+/* Users can donate to Yoush with a bank account. If their internation bank account number (IBAN) is too long, this error will be shown. Try to use a short string to make space in the UI. */
 "SEPA_DONATION_IBAN_TOO_SHORT_ERROR" = "El IBAN es demasiado corto";
 
-/* Users can donate to Signal with a bank account. This is the label for name field on that screen. */
+/* Users can donate to Yoush with a bank account. This is the label for name field on that screen. */
 "SEPA_DONATION_NAME_LABEL" = "Nombre";
 
-/* Users can donate to Signal with a bank account. This is placeholder text for the name field before the user starts typing. */
+/* Users can donate to Yoush with a bank account. This is placeholder text for the name field before the user starts typing. */
 "SEPA_DONATION_NAME_PLACEHOLDER" = "Como aparece en la cuenta bancaria";
 
 /* Description for the session refresh alert */
-"SESSION_REFRESH_ALERT_MESSAGE" = "Signal usa cifrado de extremo a extremo y es posible que en determinados casos deba reiniciarse la sesión de un chat. Este reinicio no afecta a la seguridad, pero puede ocurrir que no hayas recibido el último mensaje que este contacto te envió antes del reinicio. Si es así, pídele que vuelva a enviarte el mensaje.";
+"SESSION_REFRESH_ALERT_MESSAGE" = "Yoush usa cifrado de extremo a extremo y es posible que en determinados casos deba reiniciarse la sesión de un chat. Este reinicio no afecta a la seguridad, pero puede ocurrir que no hayas recibido el último mensaje que este contacto te envió antes del reinicio. Si es así, pídele que vuelva a enviarte el mensaje.";
 
 /* Title for the session refresh alert */
 "SESSION_REFRESH_ALERT_TITLE" = "Sesión de chat reiniciada";
@@ -6908,10 +6908,10 @@
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_COUNTRY" = "Ubicación";
 
 /* Table footer for the 'censorship circumvention' section when censorship circumvention can be manually enabled. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "Si activas Evitar censura, Signal intentará enviar mensajes evitando la censura. Activa esta función solo si te encuentras en un país que bloquee Signal.";
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER" = "Si activas Evitar censura, Yoush intentará enviar mensajes evitando la censura. Activa esta función solo si te encuentras en un país que bloquee Yoush.";
 
 /* Table footer for the 'censorship circumvention' section shown when censorship circumvention has been auto-enabled based on local phone number. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_AUTO_ENABLED" = "Evitar censura se ha activado automáticamente en función del número de teléfono de tu cuenta de Signal.";
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_AUTO_ENABLED" = "Evitar censura se ha activado automáticamente en función del número de teléfono de tu cuenta de Yoush.";
 
 /* Table footer for the 'censorship circumvention' section shown when censorship circumvention has been manually disabled. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_MANUALLY_DISABLED" = "Has desactivado manualmente la opción Evitar censura.";
@@ -6919,8 +6919,8 @@
 /* Table footer for the 'censorship circumvention' section shown when the app is not connected to the internet. */
 "SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_NO_CONNECTION" = "La opción Evitar censura solo se puede activar si tienes conexión a Internet.";
 
-/* Table footer for the 'censorship circumvention' section shown when the app is connected to the Signal service. */
-"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "No es necesario activar la opción Evitar censura: ya tienes acceso al servicio de Signal.";
+/* Table footer for the 'censorship circumvention' section shown when the app is connected to the Yoush service. */
+"SETTINGS_ADVANCED_CENSORSHIP_CIRCUMVENTION_FOOTER_WEBSOCKET_CONNECTED" = "No es necesario activar la opción Evitar censura: ya tienes acceso al servicio de Yoush.";
 
 /* Label for the 'advanced pin settings' button. */
 "SETTINGS_ADVANCED_PIN_SETTINGS" = "Ajustes avanzados del PIN";
@@ -6941,13 +6941,13 @@
 "SETTINGS_ADVANCED_VIEW_ERROR_LOG" = "Registro de fallos";
 
 /* Information on sheet about changing the app icon - first line */
-"SETTINGS_APP_ICON_EDUCATION_APP_NAME" = "El nombre Signal se mostrará en la pantalla de inicio, en notificaciones y en la biblioteca de apps.";
+"SETTINGS_APP_ICON_EDUCATION_APP_NAME" = "El nombre Yoush se mostrará en la pantalla de inicio, en notificaciones y en la biblioteca de apps.";
 
 /* Information on sheet about changing the app icon - second line */
-"SETTINGS_APP_ICON_EDUCATION_HOME_SCREEN_DOCK" = "Puedes ocultar el nombre Signal de la pantalla de inicio moviendo la app al menú de la parte inferior de la pantalla de inicio.";
+"SETTINGS_APP_ICON_EDUCATION_HOME_SCREEN_DOCK" = "Puedes ocultar el nombre Yoush de la pantalla de inicio moviendo la app al menú de la parte inferior de la pantalla de inicio.";
 
 /* The footer for the app icon selection settings page. */
-"SETTINGS_APP_ICON_FOOTER" = "El nombre Signal se mostrará en la pantalla de inicio, en notificaciones y en la biblioteca de apps.";
+"SETTINGS_APP_ICON_FOOTER" = "El nombre Yoush se mostrará en la pantalla de inicio, en notificaciones y en la biblioteca de apps.";
 
 /* The title for the app icon selection settings page. */
 "SETTINGS_APP_ICON_TITLE" = "Icono de la aplicación";
@@ -6976,8 +6976,8 @@
 /* A label for the 'add phone number' button in the block list table. */
 "SETTINGS_BLOCK_LIST_ADD_BUTTON" = "Añadir persona bloqueada";
 
-/* A label that indicates the user has no Signal contacts that they haven't blocked. */
-"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "No tienes contactos en Signal.";
+/* A label that indicates the user has no Yoush contacts that they haven't blocked. */
+"SETTINGS_BLOCK_LIST_NO_CONTACTS" = "No tienes contactos en Yoush.";
 
 /* A label that indicates the user's search has no matching results. */
 "SETTINGS_BLOCK_LIST_NO_SEARCH_RESULTS" = "No hay ningún resultado de búsqueda";
@@ -6989,7 +6989,7 @@
 "SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE" = "Redirigir llamadas siempre";
 
 /* User settings section footer, a detailed explanation */
-"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = "Redirige todas las llamadas a través del servidor de Signal para evitar revelar tu dirección IP. Si activas esta opción, se reducirá la calidad de las llamadas.";
+"SETTINGS_CALLING_HIDES_IP_ADDRESS_PREFERENCE_TITLE_DETAIL" = "Redirige todas las llamadas a través del servidor de Yoush para evitar revelar tu dirección IP. Si activas esta opción, se reducirá la calidad de las llamadas.";
 
 /* Label for the 'edit phone number' button in the 'change phone number' views. */
 "SETTINGS_CHANGE_PHONE_NUMBER_BACK_TO_EDIT_BUTTON" = "Editar número";
@@ -7001,7 +7001,7 @@
 "SETTINGS_CHANGE_PHONE_NUMBER_CONFIRM_BUTTON" = "Cambiar número";
 
 /* Format for the description text in the 'change phone number splash' view. Embeds: {{ %1$@ the old phone number, %2$@ the new phone number }}. */
-"SETTINGS_CHANGE_PHONE_NUMBER_CONFIRM_DESCRIPTION_FORMAT" = "Vas a cambiar tu número de teléfono en Signal de %1$@ a %2$@.\n\nAntes de continuar, comprueba que el número a continuación es correcto.";
+"SETTINGS_CHANGE_PHONE_NUMBER_CONFIRM_DESCRIPTION_FORMAT" = "Vas a cambiar tu número de teléfono en Yoush de %1$@ a %2$@.\n\nAntes de continuar, comprueba que el número a continuación es correcto.";
 
 /* Label for the 'country code' row in the 'change phone number' settings. */
 "SETTINGS_CHANGE_PHONE_NUMBER_COUNTRY_CODE_FIELD" = "Código de país";
@@ -7034,7 +7034,7 @@
 "SETTINGS_CLEAR_HISTORY" = "Eliminar historial de chat";
 
 /* Footer for the 'about' help section */
-"SETTINGS_COPYRIGHT" = "Copyright Signal Messenger\nLicencia AGPLv3";
+"SETTINGS_COPYRIGHT" = "Copyright Yoush Messenger\nLicencia AGPLv3";
 
 /* Label for the 'data' section of the app settings. */
 "SETTINGS_DATA" = "Uso de datos";
@@ -7100,7 +7100,7 @@
 "SETTINGS_DISAPPEARING_MESSAGES_FOOTER" = "Elige una duración predeterminada de los mensajes temporales para todos los chats nuevos que inicies.";
 
 /* Title for the 'donate to signal' link in settings. */
-"SETTINGS_DONATE" = "Haz una donación a Signal";
+"SETTINGS_DONATE" = "Haz una donación a Yoush";
 
 /* Title for help button and help pages in app settings. */
 "SETTINGS_HELP" = "Ayuda";
@@ -7169,7 +7169,7 @@
 "SETTINGS_NOTIFICATION_CONTENT_TITLE" = "Contenido de las notificaciones";
 
 /* When the local device discovers a contact has recently installed signal, the app can generates a message encouraging the local user to say hello. Turning this switch off disables that feature. */
-"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_SIGNAL" = "Alguien comienza a usar Signal";
+"SETTINGS_NOTIFICATION_EVENTS_CONTACT_JOINED_SIGNAL" = "Alguien comienza a usar Yoush";
 
 /* table section header */
 "SETTINGS_NOTIFICATION_NOTIFY_WHEN_TITLE" = "Notificarme cuando…";
@@ -7181,7 +7181,7 @@
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_AGREE" = "Activar";
 
 /* Description for the 'activate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "Puedes usar Signal para enviar y recibir MobileCoin. Todos los pagos están sujetos a las condiciones de uso de MobileCoin y su cartera. Advertencia: En caso de producirse algún problema, podrías perder pagos o saldos de forma irreversible.";
+"SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "Puedes usar Yoush para enviar y recibir MobileCoin. Todos los pagos están sujetos a las condiciones de uso de MobileCoin y su cartera. Advertencia: En caso de producirse algún problema, podrías perder pagos o saldos de forma irreversible.";
 
 /* Title for the 'activate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_ACTIVATE_PAYMENTS_CONFIRM_TITLE" = "Activar";
@@ -7205,7 +7205,7 @@
 "SETTINGS_PAYMENTS_BALANCE_CONVERSION_FORMAT" = "%1$@ %2$@ - %3$@";
 
 /* Error message indicating that payments could not be activated because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "Los pagos en Signal ya no están disponibles. Podrás seguir transfiriendo tus fondos a una plataforma de intercambio de monedas, pero ya no podrás recibir ni enviar pagos, ni añadir fondos.";
+"SETTINGS_PAYMENTS_CANNOT_ACTIVATE_PAYMENTS_KILL_SWITCH" = "Los pagos en Yoush ya no están disponibles. Podrás seguir transfiriendo tus fondos a una plataforma de intercambio de monedas, pero ya no podrás recibir ni enviar pagos, ni añadir fondos.";
 
 /* Error message indicating that payments could not be deactivated because the current balance is unavailable. */
 "SETTINGS_PAYMENTS_CANNOT_DEACTIVATE_PAYMENTS_NO_BALANCE" = "No se pueden desactivar los pagos porque tu saldo no está disponible. Comprueba tu conexión e inténtalo de nuevo.";
@@ -7214,10 +7214,10 @@
 "SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENT_NO_BALANCE" = "No se ha podido completar el pago porque tu saldo no está disponible. Comprueba tu conexión e inténtalo de nuevo.";
 
 /* Error message indicating that payments cannot be sent because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "Los pagos en Signal ya no están disponibles. Podrás seguir transfiriendo tus fondos a una plataforma de intercambio de monedas, pero ya no podrás recibir ni enviar pagos, ni añadir fondos.";
+"SETTINGS_PAYMENTS_CANNOT_SEND_PAYMENTS_KILL_SWITCH" = "Los pagos en Yoush ya no están disponibles. Podrás seguir transfiriendo tus fondos a una plataforma de intercambio de monedas, pero ya no podrás recibir ni enviar pagos, ni añadir fondos.";
 
 /* Error message indicating that you cannot transfer into your payments wallet because the feature is not currently available. */
-"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "Los pagos en Signal ya no están disponibles. Podrás seguir transfiriendo tus fondos a una plataforma de intercambio de monedas, pero ya no podrás recibir ni enviar pagos, ni añadir fondos.";
+"SETTINGS_PAYMENTS_CANNOT_TRANSFER_IN_KILL_SWITCH" = "Los pagos en Yoush ya no están disponibles. Podrás seguir transfiriendo tus fondos a una plataforma de intercambio de monedas, pero ya no podrás recibir ni enviar pagos, ni añadir fondos.";
 
 /* Message for the 'currency conversions info' alert. */
 "SETTINGS_PAYMENTS_CURRENCY_CONVERSIONS_INFO_ALERT_MESSAGE" = "La conversión es solo una estimación y puede no ser exacta.";
@@ -7235,7 +7235,7 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS" = "Desactivar pagos";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "No podrás enviar ni recibir MobileCoin en Signal si desactivas los pagos.";
+"SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_DESCRIPTION" = "No podrás enviar ni recibir MobileCoin en Yoush si desactivas los pagos.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_PAYMENTS_CONFIRM_TITLE" = "¿Desactivar pagos?";
@@ -7244,10 +7244,10 @@
 "SETTINGS_PAYMENTS_DEACTIVATE_TITLE" = "Desactivar pagos";
 
 /* Explanation of the 'deactivate payments with balance' process in the 'deactivate payments' settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "Te recomendamos transferir tus fondos a otra cartera antes de desactivar los pagos. Si decides no transferir los fondos ahora, estarán disponibles en la cartera vinculada a tu cuenta de Signal si vuelves a activar los pagos.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITH_BALANCE_EXPLANATION" = "Te recomendamos transferir tus fondos a otra cartera antes de desactivar los pagos. Si decides no transferir los fondos ahora, estarán disponibles en la cartera vinculada a tu cuenta de Yoush si vuelves a activar los pagos.";
 
 /* Description for the 'deactivate payments confirmation' UI in the payment settings. */
-"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "Tu saldo seguirá disponible en la cartera vinculada a tu cuenta de Signal si decides reactivar los pagos.";
+"SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_DESCRIPTION" = "Tu saldo seguirá disponible en la cartera vinculada a tu cuenta de Yoush si decides reactivar los pagos.";
 
 /* Title for the 'deactivate payments confirmation' UI in the payment settings. */
 "SETTINGS_PAYMENTS_DEACTIVATE_WITHOUT_TRANSFER_CONFIRM_TITLE" = "¿Desactivar sin transferir?";
@@ -7274,7 +7274,7 @@
 "SETTINGS_PAYMENTS_HELP_CARD_ABOUT_MOBILECOIN_TITLE" = "Acerca de MobileCoin";
 
 /* Description for the 'Adding to your wallet' help card in the payments settings. */
-"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "Puedes añadir fondos para usar en Signal enviando MobileCoin a la dirección de tu cartera.";
+"SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_DESCRIPTION" = "Puedes añadir fondos para usar en Yoush enviando MobileCoin a la dirección de tu cartera.";
 
 /* Title for the 'Adding to your wallet' help card in the payments settings. */
 "SETTINGS_PAYMENTS_HELP_CARD_ADDING_TO_YOUR_WALLET_TITLE" = "Añadir fondos";
@@ -7298,7 +7298,7 @@
 "SETTINGS_PAYMENTS_HELP_CARD_UPDATE_PIN_BUTTON" = "Actualizar PIN";
 
 /* Description for the 'Update PIN' help card in the payments settings. */
-"SETTINGS_PAYMENTS_HELP_CARD_UPDATE_PIN_DESCRIPTION" = "Si tienes un saldo elevado, te recomendamos cambiar tu PIN de Signal por uno alfanumérico para añadir protección extra a tu cuenta.";
+"SETTINGS_PAYMENTS_HELP_CARD_UPDATE_PIN_DESCRIPTION" = "Si tienes un saldo elevado, te recomendamos cambiar tu PIN de Yoush por uno alfanumérico para añadir protección extra a tu cuenta.";
 
 /* Title for the 'Update PIN' help card in the payments settings. */
 "SETTINGS_PAYMENTS_HELP_CARD_UPDATE_PIN_TITLE" = "Actualiza tu PIN";
@@ -7331,13 +7331,13 @@
 "SETTINGS_PAYMENTS_OPT_IN_ACTIVATED_TOAST" = "Pagos activados.";
 
 /* Message for the 'payments opt-in' view in the app settings. */
-"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "Usa Signal para enviar y recibir MobileCoin, una nueva moneda digital enfocada en la privacidad. Activa esta opción para comenzar.";
+"SETTINGS_PAYMENTS_OPT_IN_MESSAGE" = "Usa Yoush para enviar y recibir MobileCoin, una nueva moneda digital enfocada en la privacidad. Activa esta opción para comenzar.";
 
 /* Label for 'activate' button in the 'payments opt-in' view in the app settings. */
 "SETTINGS_PAYMENTS_OPT_IN_REACTIVATE_BUTTON" = "Reactivar pagos";
 
 /* Title for the 'payments opt-in' view in the app settings. */
-"SETTINGS_PAYMENTS_OPT_IN_TITLE" = "¡Los pagos han llegado a Signal!";
+"SETTINGS_PAYMENTS_OPT_IN_TITLE" = "¡Los pagos han llegado a Yoush!";
 
 /* Button when discarding recovery phrase. */
 "SETTINGS_PAYMENTS_PASSPHRASE_DISCARD_CONFIRMATION_BUTTON" = "Omitir frase de recuperación";
@@ -7349,7 +7349,7 @@
 "SETTINGS_PAYMENTS_PASSPHRASE_DISCARD_CONFIRMATION_TITLE" = "¿Continuar sin guardar?";
 
 /* Explanation of the 'payments passphrase' in the 'view payments passphrase' settings. */
-"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "Tu saldo se restaurará automáticamente cuando reinstales Signal si confirmas el PIN de tu cuenta de Signal. También puedes restaurar tu saldo con la frase de recuperación: una clave de 24 palabras única para ti. Anótala y guárdala en un sitio seguro.";
+"SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION" = "Tu saldo se restaurará automáticamente cuando reinstales Yoush si confirmas el PIN de tu cuenta de Yoush. También puedes restaurar tu saldo con la frase de recuperación: una clave de 24 palabras única para ti. Anótala y guárdala en un sitio seguro.";
 
 /* Explanation of the 'payments passphrase' when there is a balance. */
 "SETTINGS_PAYMENTS_PASSPHRASE_EXPLANATION_FROM_BALANCE" = "¡Tienes saldo en tu cuenta! Es el momento de guardar tu frase de recuperación: una clave de 24 palabras que puedes usar para restaurar tu saldo.";
@@ -7454,7 +7454,7 @@
 "SETTINGS_PAYMENTS_PAYMENTS_LOCK_PROMPT_EXPLANATION_TOUCHID" = "Activa Touch ID para ayudar a evitar que una persona que tenga tu teléfono pueda acceder a tus fondos. Puedes desactivar esta opción en Ajustes.";
 
 /* Button for payments outdated sheet. */
-"SETTINGS_PAYMENTS_PAYMENTS_OUTDATED_BUTTON" = "Actualizar Signal";
+"SETTINGS_PAYMENTS_PAYMENTS_OUTDATED_BUTTON" = "Actualizar Yoush";
 
 /* Message for payments outdated sheet. */
 "SETTINGS_PAYMENTS_PAYMENTS_OUTDATED_MESSAGE" = "Se requiere una actualización para seguir enviando y recibiendo pagos, y para ver tu saldo actualizado.";
@@ -7586,7 +7586,7 @@
 "SETTINGS_PAYMENTS_TITLE" = "Pagos";
 
 /* Error indicating that it is not valid to send yourself a payment. */
-"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "No puedes transferir saldo a tu propia cartera de Signal. Introduce la dirección de la cartera de tu cuenta en una plataforma de intercambio que admita MobileCoin.";
+"SETTINGS_PAYMENTS_TRANSFER_OUT_CANNOT_SEND_TO_SELF" = "No puedes transferir saldo a tu propia cartera de Yoush. Introduce la dirección de la cartera de tu cuenta en una plataforma de intercambio que admita MobileCoin.";
 
 /* Footer of the 'transfer currency out' view in the payment settings. */
 "SETTINGS_PAYMENTS_TRANSFER_OUT_FOOTER" = "Puedes transferir MobileCoin haciendo una transferencia a la dirección de la cartera que se indica en la plataforma de intercambio. La dirección de la cartera es la serie de números y letras que suele aparecer debajo del código QR.";
@@ -7670,7 +7670,7 @@
 "SETTINGS_PHONE_NUMBER_DISCOVERABILITY_DISABLED_TOAST" = "Para cambiar este ajuste, selecciona la opción \"Nadie\" en \"Quién puede ver mi número\".";
 
 /* The description for a sheet asking for confirmation that the user wants to set their phone number discoverability to 'nobody'. */
-"SETTINGS_PHONE_NUMBER_DISCOVERABILITY_NOBODY_CONFIRMATION_DESCRIPTION" = "Si cambias el ajuste \"¿Quién puede encontrarme con mi número?\" a \"Nadie\", será más difícil que las personas te encuentren en Signal.";
+"SETTINGS_PHONE_NUMBER_DISCOVERABILITY_NOBODY_CONFIRMATION_DESCRIPTION" = "Si cambias el ajuste \"¿Quién puede encontrarme con mi número?\" a \"Nadie\", será más difícil que las personas te encuentren en Yoush.";
 
 /* The title for a sheet asking for confirmation that the user wants to set their phone number discoverability to 'nobody'. */
 "SETTINGS_PHONE_NUMBER_DISCOVERABILITY_NOBODY_CONFIRMATION_TITLE" = "¿Seguro que quieres hacer esto?";
@@ -7679,7 +7679,7 @@
 "SETTINGS_PHONE_NUMBER_DISCOVERABILITY_TITLE" = "Quién puede encontrarme con mi número";
 
 /* Description label for Phone Number Privacy */
-"SETTINGS_PHONE_NUMBER_PRIVACY_DESCRIPTION_LABEL" = "Elige quién puede ver tu número de teléfono y quién puede usarlo para buscarte en Signal.";
+"SETTINGS_PHONE_NUMBER_PRIVACY_DESCRIPTION_LABEL" = "Elige quién puede ver tu número de teléfono y quién puede usarlo para buscarte en Yoush.";
 
 /* The title for phone number privacy settings. */
 "SETTINGS_PHONE_NUMBER_PRIVACY_TITLE" = "Número de teléfono";
@@ -7691,16 +7691,16 @@
 "SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_ACTION" = "Desactivar recordatorios";
 
 /* The explanation for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "Asegúrate de memorizar o guardar tu PIN de forma segura, ya que no se puede recuperar. Si olvidas tu PIN, es posible que pierdas información cuando vuelvas a registrar tu cuenta de Signal.";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_EXPLANATION" = "Asegúrate de memorizar o guardar tu PIN de forma segura, ya que no se puede recuperar. Si olvidas tu PIN, es posible que pierdas información cuando vuelvas a registrar tu cuenta de Yoush.";
 
 /* The title for the dialog asking user to confirm their PIN to disable reminders */
-"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "Confirma tu PIN de Signal";
+"SETTINGS_PIN_REMINDER_DISABLE_CONFIRMATION_TITLE" = "Confirma tu PIN de Yoush";
 
 /* Label for the 'pin reminder' switch of the privacy settings. */
 "SETTINGS_PIN_REMINDER_SWITCH_LABEL" = "Recordatorios de PIN";
 
 /* Footer for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_FOOTER" = "El PIN mantiene la información guardada en Signal cifrada para que solo tú tengas acceso. Si olvidas tu PIN, no podrás recuperarlo. Tu perfil, ajustes y contactos se restaurarán si reinstalas Signal.";
+"SETTINGS_PINS_FOOTER" = "El PIN mantiene la información guardada en Yoush cifrada para que solo tú tengas acceso. Si olvidas tu PIN, no podrás recuperarlo. Tu perfil, ajustes y contactos se restaurarán si reinstalas Yoush.";
 
 /* Label for the 'pins' item of the privacy settings when the user does have a pin. */
 "SETTINGS_PINS_ITEM" = "Cambiar PIN";
@@ -7709,7 +7709,7 @@
 "SETTINGS_PINS_ITEM_CREATE" = "Crear un PIN";
 
 /* Title for the 'PINs' section of the privacy settings. */
-"SETTINGS_PINS_TITLE" = "PIN de Signal";
+"SETTINGS_PINS_TITLE" = "PIN de Yoush";
 
 /* Footer for table section */
 "SETTINGS_PRIVACY_ADVANCED_FOOTER" = "Define ajustes para las funciones evitar censura, servidor proxy, redirigir llamadas y remitente confidencial.";
@@ -7736,7 +7736,7 @@
 "SETTINGS_REGISTRATION_LOCK_TURN_ON" = "Activar";
 
 /* Body for the alert confirming that the user wants to turn on registration lock. */
-"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "Si olvidas tu PIN de Signal al volver a registrarte en Signal, no podrás acceder a tu cuenta durante 7 días.";
+"SETTINGS_REGISTRATION_LOCK_TURN_ON_MESSAGE" = "Si olvidas tu PIN de Yoush al volver a registrarte en Yoush, no podrás acceder a tu cuenta durante 7 días.";
 
 /* Title for the alert confirming that the user wants to turn on registration lock. */
 "SETTINGS_REGISTRATION_LOCK_TURN_ON_TITLE" = "¿Activar el bloqueo de registro?";
@@ -7757,7 +7757,7 @@
 "SETTINGS_SCREEN_SECURITY" = "Ocultar en el selector de apps";
 
 /* Footer for table section */
-"SETTINGS_SECTION_FOOTER_CALLING" = "Muestra las llamadas de Signal en la lista de \"Recientes\" de la aplicación Teléfono de iOS.";
+"SETTINGS_SECTION_FOOTER_CALLING" = "Muestra las llamadas de Yoush en la lista de \"Recientes\" de la aplicación Teléfono de iOS.";
 
 /* Header Label for the sounds section of settings views. */
 "SETTINGS_SECTION_SOUNDS" = "Sonidos";
@@ -7766,19 +7766,19 @@
 "SETTINGS_SECTION_TITLE_CALLING" = "Llamadas";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL" = "Usa Touch ID, Face ID o la clave de acceso del dispositivo iOS para desbloquear Signal.";
+"SETTINGS_SECURITY_DETAIL" = "Usa Touch ID, Face ID o la clave de acceso del dispositivo iOS para desbloquear Yoush.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_FACEID" = "Usar Face ID para desbloquear Signal.";
+"SETTINGS_SECURITY_DETAIL_FACEID" = "Usar Face ID para desbloquear Yoush.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_OPTICID" = "Usa Optic ID para desbloquear Signal.";
+"SETTINGS_SECURITY_DETAIL_OPTICID" = "Usa Optic ID para desbloquear Yoush.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_PASSCODE" = "Usar la clave de acceso del dispositivo para desbloquear Signal.";
+"SETTINGS_SECURITY_DETAIL_PASSCODE" = "Usar la clave de acceso del dispositivo para desbloquear Yoush.";
 
 /* Section footer */
-"SETTINGS_SECURITY_DETAIL_TOUCHID" = "Usa Touch ID para desbloquear Signal.";
+"SETTINGS_SECURITY_DETAIL_TOUCHID" = "Usa Touch ID para desbloquear Yoush.";
 
 /* Section header */
 "SETTINGS_SECURITY_TITLE" = "Seguridad de la app";
@@ -7793,13 +7793,13 @@
 "SETTINGS_SHARING_SUGGESTIONS" = "Compartir contactos con iOS";
 
 /* Footer for setting for enabling & disabling contact and notification sharing with iOS. */
-"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Permite a iOS acceder a tus contactos y chats de Signal para usar funciones como las sugerencias para compartir y las notificaciones.";
+"SETTINGS_SHARING_SUGGESTIONS_NOTIFICATIONS_FOOTER" = "Permite a iOS acceder a tus contactos y chats de Yoush para usar funciones como las sugerencias para compartir y las notificaciones.";
 
 /* Label for the 'enable registration lock' switch of the privacy settings. */
 "SETTINGS_TWO_FACTOR_AUTH_SWITCH_LABEL" = "Bloqueo de registro";
 
-/* Footer for the 'two factor auth' section of the privacy settings when Signal PINs are available. */
-"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Usa tu PIN de Signal para volver a registrar tu número de teléfono en Signal.";
+/* Footer for the 'two factor auth' section of the privacy settings when Yoush PINs are available. */
+"SETTINGS_TWO_FACTOR_PINS_AUTH_FOOTER" = "Usa tu PIN de Yoush para volver a registrar tu número de teléfono en Yoush.";
 
 /* Label for the 'typing indicators' setting. */
 "SETTINGS_TYPING_INDICATORS" = "Indicadores de escritura";
@@ -7832,7 +7832,7 @@
 "SHARE_EXTENSION_LOADING" = "Cargando…";
 
 /* Message indicating that the share extension cannot be used until the user has registered in the main app. */
-"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "Inicia la aplicación Signal para registrarte.";
+"SHARE_EXTENSION_NOT_REGISTERED_MESSAGE" = "Inicia la aplicación Yoush para registrarte.";
 
 /* Title indicating that the share extension cannot be used until the user has registered in the main app. */
 "SHARE_EXTENSION_NOT_REGISTERED_TITLE" = "Aún no te has registrado";
@@ -7846,11 +7846,11 @@
 /* Alert title */
 "SHARE_EXTENSION_SENDING_IN_PROGRESS_TITLE" = "Cargando…";
 
-/* Shown when trying to share content to a Signal user for the share extension. Followed by failure details. */
+/* Shown when trying to share content to a Yoush user for the share extension. Followed by failure details. */
 "SHARE_EXTENSION_UNABLE_TO_BUILD_ATTACHMENT_ALERT_TITLE" = "No se ha podido preparar el archivo adjunto";
 
 /* Title for the 'share extension' view. */
-"SHARE_EXTENSION_VIEW_TITLE" = "Compartir en Signal";
+"SHARE_EXTENSION_VIEW_TITLE" = "Compartir en Yoush";
 
 /* Title of alert indicating sharing suggestions failed to deactivate */
 "SHARING_SUGGESTIONS_DISABLE_ERROR" = "No se han podido desactivar las sugerencias para compartir.";
@@ -7862,10 +7862,10 @@
 "SHOW_THREAD_BUTTON_TITLE" = "Ver chat";
 
 /* Shown in the header when the user hasn't provided a custom name for a call. */
-"SIGNAL_CALL" = "Llamada de Signal";
+"SIGNAL_CALL" = "Llamada de Yoush";
 
-/* body sent to contacts when inviting to Install Signal */
-"SMS_INVITE_BODY" = "¡Te invito a usar Signal! Toca aquí:";
+/* body sent to contacts when inviting to Install Yoush */
+"SMS_INVITE_BODY" = "¡Te invito a usar Yoush! Toca aquí:";
 
 /* An error message generically indicating that something went wrong. */
 "SOMETHING_WENT_WRONG_ERROR" = "Se ha producido un error.";
@@ -7889,7 +7889,7 @@
 "SPAM_CAPTCHA_DISMISS_CONFIRMATION_TITLE" = "¿Continuar sin verificar?";
 
 /* Body for action sheet explaining captcha requirement. */
-"SPAM_CAPTCHA_SHEET_BODY" = "Para ayudarnos a prevenir spam en Signal, completa la verificación.\n\nDespués de completar la verificación, podrás seguir chateando y se enviarán todos los mensajes pausados.";
+"SPAM_CAPTCHA_SHEET_BODY" = "Para ayudarnos a prevenir spam en Yoush, completa la verificación.\n\nDespués de completar la verificación, podrás seguir chateando y se enviarán todos los mensajes pausados.";
 
 /* Title for action sheet explaining captcha requirement. */
 "SPAM_CAPTCHA_SHEET_TITLE" = "Verificar para seguir chateando";
@@ -7928,7 +7928,7 @@
 "STICKERS_INSTALL_BUTTON" = "Instalar";
 
 /* Title for the 'available built-in stickers' section of the 'manage stickers' view. */
-"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "Stickers de artistas de Signal";
+"STICKERS_MANAGE_VIEW_AVAILABLE_BUILT_IN_PACKS_SECTION_TITLE" = "Stickers de artistas de Yoush";
 
 /* Title for the 'available known stickers' section of the 'manage stickers' view. */
 "STICKERS_MANAGE_VIEW_AVAILABLE_KNOWN_PACKS_SECTION_TITLE" = "Stickers recibidos";
@@ -8210,19 +8210,19 @@
 "STORY_SETTINGS_LEARN_MORE_SHEET_FOOTER" = "Tus contactos pueden ver tu nombre y foto de perfil, así como las historias que subas, a menos que decidas ocultarlas para personas específicas.";
 
 /* Header for the explainer sheet for signal connections */
-"STORY_SETTINGS_LEARN_MORE_SHEET_HEADER_FORMAT" = "Tus <bold>contactos de Signal</bold> son personas en las que has decidido confiar por alguno de los siguientes motivos:";
+"STORY_SETTINGS_LEARN_MORE_SHEET_HEADER_FORMAT" = "Tus <bold>contactos de Yoush</bold> son personas en las que has decidido confiar por alguno de los siguientes motivos:";
 
 /* Label for the stories section of the settings view */
 "STORY_SETTINGS_TITLE" = "Historias";
 
 /* Section footer for the 'viewers' section on the 'story settings' view */
-"STORY_SETTINGS_WHO_CAN_VIEW_THIS_FOOTER" = "Elige quiénes de tus contactos de Signal pueden ver tus historias. Los cambios no afectarán a las historias que ya hayas compartido.";
+"STORY_SETTINGS_WHO_CAN_VIEW_THIS_FOOTER" = "Elige quiénes de tus contactos de Yoush pueden ver tus historias. Los cambios no afectarán a las historias que ya hayas compartido.";
 
 /* Section header for the 'viewers' section on the 'story settings' view */
 "STORY_SETTINGS_WHO_CAN_VIEW_THIS_HEADER" = "Quién puede ver esta historia";
 
 /* Header for the 'viewers' section on the 'story settings' bottom sheet */
-"STORY_SETTINGS_WHO_CAN_VIEW_THIS_SHEET_HEADER" = "Elige quiénes de tus contactos de Signal pueden ver tus historias. Siempre podrás cambiarlo en los Ajustes de privacidad.";
+"STORY_SETTINGS_WHO_CAN_VIEW_THIS_SHEET_HEADER" = "Elige quiénes de tus contactos de Yoush pueden ver tus historias. Siempre podrás cambiarlo en los Ajustes de privacidad.";
 
 /* Tooltip text shown when the user selects a story as a destination for a long duration video that will be split into shorter segments. Embeds {{ segment duration in seconds }} */
 "STORY_VIDEO_SEGMENTATION_TOOLTIP_FORMAT" = "Los vídeos que subas a tus historias se recortarán en clips de %1$d segundos y se subirán como varias historias.";
@@ -8285,12 +8285,12 @@
 "SUPPORT_EMAIL_LOG_URL_LABEL_FORMAT" = "URL del registro: %1$@";
 
 /* Localized subject for support request emails */
-"SUPPORT_EMAIL_SUBJECT" = "Solicitud de asistencia de Signal iOS";
+"SUPPORT_EMAIL_SUBJECT" = "Solicitud de asistencia de Yoush iOS";
 
 /* Header for emoji mood selection */
 "SUPPORT_EMOJI_PROMPT" = "¿Cómo te sientes? (opcional)";
 
-/* Label in support request informing user about Signal FAQ */
+/* Label in support request informing user about Yoush FAQ */
 "SUPPORT_FAQ_PROMPT" = "¿Ya has leído nuestras preguntas frecuentes?";
 
 /* Label describing support switch to attach debug logs */
@@ -8357,7 +8357,7 @@
 "SWITCH_ON" = "Activo";
 
 /* Name to display for the 'system' sender, e.g. for release notes and the onboarding story */
-"SYSTEM_ADDRESS_NAME" = "Signal";
+"SYSTEM_ADDRESS_NAME" = "Yoush";
 
 /* Label for button to verify a user's safety number. */
 "SYSTEM_MESSAGE_ACTION_VERIFY_SAFETY_NUMBER" = "Verificar";
@@ -8515,17 +8515,17 @@
 /* Label text below navbar button, embeds {{number of weeks}}. Must be very short, like 1 or 2 characters, The space is intentionally omitted between the text and the embedded duration so that we get, e.g. '5w' not '5 w'. See other *_TIME_AMOUNT strings */
 "TIME_AMOUNT_WEEKS_SHORT_FORMAT" = "%1$@ sem";
 
-/* Button for bottom sheet shown when device transfer completes on the receiving device. Tapping will terminate the Signal app and trigger a notification to relaunch. */
-"TRANSFER_COMPLETE_SHEET_BUTTON" = "Cerrar Signal";
+/* Button for bottom sheet shown when device transfer completes on the receiving device. Tapping will terminate the Yoush app and trigger a notification to relaunch. */
+"TRANSFER_COMPLETE_SHEET_BUTTON" = "Cerrar Yoush";
 
 /* Subtitle for bottom sheet shown when device transfer completes on the receiving device. */
-"TRANSFER_COMPLETE_SHEET_SUBTITLE" = "Para empezar a usar tu cuenta en este dispositivo, cierra Signal y vuelva a abrirla.";
+"TRANSFER_COMPLETE_SHEET_SUBTITLE" = "Para empezar a usar tu cuenta en este dispositivo, cierra Yoush y vuelva a abrirla.";
 
 /* Title for bottom sheet shown when device transfer completes on the receiving device. */
 "TRANSFER_COMPLETE_SHEET_TITLE" = "Transferencia completada";
 
-/* Notification prompting the user to relaunch Signal after a device transfer completed. */
-"TRANSFER_RELAUNCH_NOTIFICATION" = "Abre Signal para empezar a chatear";
+/* Notification prompting the user to relaunch Yoush after a device transfer completed. */
+"TRANSFER_RELAUNCH_NOTIFICATION" = "Abre Yoush para empezar a chatear";
 
 /* Label for the cancel button in an alert or action sheet. */
 "TXT_CANCEL_TITLE" = "Cancelar";
@@ -8543,25 +8543,25 @@
 "UNKNOWN_CONTACT_BLOCK_OFFER" = "Esta persona no está en tus contactos. ¿Quieres bloquearla?";
 
 /* Info message recorded in conversation history when local user receives an unknown message from a linked device and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "Has enviado un mensaje desde uno de tus dispositivos que no se puede procesar ni mostrar aquí porque usa una función nueva de Signal.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_FROM_LINKED_DEVICE" = "Has enviado un mensaje desde uno de tus dispositivos que no se puede procesar ni mostrar aquí porque usa una función nueva de Yoush.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "%1$@ te ha enviado un mensaje que no se puede procesar ni mostrar porque usa una función nueva de Signal.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITH_NAME_FORMAT" = "%1$@ te ha enviado un mensaje que no se puede procesar ni mostrar porque usa una función nueva de Yoush.";
 
 /* Info message recorded in conversation history when local user receives an unknown message and needs to upgrade. */
-"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "Has recibido un mensaje que no se puede procesar ni mostrar porque usa una función nueva de Signal.";
+"UNKNOWN_PROTOCOL_VERSION_NEED_TO_UPGRADE_WITHOUT_NAME" = "Has recibido un mensaje que no se puede procesar ni mostrar porque usa una función nueva de Yoush.";
 
 /* Label for button that lets users upgrade the app. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "Actualizar Signal ahora";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_BUTTON" = "Actualizar Yoush ahora";
 
 /* Info message recorded in conversation history when local user has received an unknown unknown message from a linked device and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "Has actualizado a la última versión de Signal. Ahora puedes recibir este tipo de mensaje en tu dispositivo.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_FROM_LINKED_DEVICE" = "Has actualizado a la última versión de Yoush. Ahora puedes recibir este tipo de mensaje en tu dispositivo.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. Embeds {{user's name or phone number}}. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "Puedes pedirle a %1$@ que te vuelva a enviar el mensaje ahora que ya tienes una versión actualizada de Signal.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITH_NAME_FORMAT" = "Puedes pedirle a %1$@ que te vuelva a enviar el mensaje ahora que ya tienes una versión actualizada de Yoush.";
 
 /* Info message recorded in conversation history when local user has received an unknown message and has upgraded. */
-"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "Puedes pedirle a esta persona que te vuelva a enviar el mensaje ahora que ya tienes una versión actualizada de Signal.";
+"UNKNOWN_PROTOCOL_VERSION_UPGRADE_COMPLETE_WITHOUT_NAME" = "Puedes pedirle a esta persona que te vuelva a enviar el mensaje ahora que ya tienes una versión actualizada de Yoush.";
 
 /* Label indicating an unknown user. */
 "UNKNOWN_USER" = "Desconocido";
@@ -8585,13 +8585,13 @@
 "UNLINK_CONFIRMATION_ALERT_TITLE" = "¿Desvincular \"%1$@\"?";
 
 /* Label warning the user that they have been unlinked from their primary device. */
-"UNLINKED_WARNING" = "Este dispositivo ya no está vinculado. Vuelve a vincular Signal con tu teléfono para poder seguir chateando.";
+"UNLINKED_WARNING" = "Este dispositivo ya no está vinculado. Vuelve a vincular Yoush con tu teléfono para poder seguir chateando.";
 
 /* If this device has become unlinked from their primary device, they'll see a warning. This is the call to action on that warning. */
 "UNLINKED_WARNING_ACTION_TITLE" = "Volver a vincular dispositivo";
 
 /* Alert title when unlinking device fails */
-"UNLINKING_FAILED_ALERT_TITLE" = "Signal no ha podido desvincular tu dispositivo.";
+"UNLINKING_FAILED_ALERT_TITLE" = "Yoush no ha podido desvincular tu dispositivo.";
 
 /* Text for a toast confirming that the mic has been unmuted for a call. */
 "UNMUTE_CONFIRMATION_TOAST_LABEL" = "Micrófono activado";
@@ -8608,11 +8608,11 @@
 /* No comment provided by engineer. */
 "UNSUPPORTED_ATTACHMENT" = "Se ha recibido un archivo con formato no compatible.";
 
-/* When inviting contacts to use Signal, this error is shown if the device doesn't support SMS or if there aren't any registered email accounts. */
+/* When inviting contacts to use Yoush, this error is shown if the device doesn't support SMS or if there aren't any registered email accounts. */
 "UNSUPPORTED_FEATURE_ERROR" = "Tu dispositivo no admite esta función.";
 
 /* Description for the unverified safety number change. Embeds {name of contact with identity change} */
-"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "Tu número de seguridad con %1$@ ha cambiado probablemente porque ha reinstalado Signal o cambiado de dispositivo. Toca \"Verificar\" para confirmar el nuevo número de seguridad. Esta verificación es opcional.";
+"UNVERIFIED_SAFETY_NUMBER_CHANGE_DESCRIPTION_FORMAT" = "Tu número de seguridad con %1$@ ha cambiado probablemente porque ha reinstalado Yoush o cambiado de dispositivo. Toca \"Verificar\" para confirmar el nuevo número de seguridad. Esta verificación es opcional.";
 
 /* Action to verify a safety number after it has changed */
 "UNVERIFIED_SAFETY_NUMBER_VERIFY_ACTION" = "Verificar";
@@ -8630,7 +8630,7 @@
 "USE_PROXY_BUTTON" = "Usar proxy";
 
 /* Explanation of when you should use a signal proxy */
-"USE_PROXY_EXPLANATION" = "Usa un servidor proxy únicamente cuando Signal no se pueda conectar por Wi-Fi o red móvil.";
+"USE_PROXY_EXPLANATION" = "Usa un servidor proxy únicamente cuando Yoush no se pueda conectar por Wi-Fi o red móvil.";
 
 /* Description of username links and QR codes on the username education sheet */
 "USERNAME_EDUCATION_LINK_DESCRIPTION" = "Los alias tienen un código QR único que puedes compartir con otras personas para que inicien un chat contigo.";
@@ -8722,14 +8722,14 @@
 /* A message indicating that a username link the user attempted to query is no longer valid. */
 "USERNAME_LOOKUP_LINK_NO_LONGER_VALID_MESSAGE" = "El enlace a este alias ya no es válido.";
 
-/* A message indicating that the given username is not associated with a registered Signal account. Embeds {{ a username }}. */
-"USERNAME_LOOKUP_NOT_FOUND_MESSAGE_FORMAT" = "%1$@ no usa Signal. Asegúrate de haber introducido el alias completo.";
+/* A message indicating that the given username is not associated with a registered Yoush account. Embeds {{ a username }}. */
+"USERNAME_LOOKUP_NOT_FOUND_MESSAGE_FORMAT" = "%1$@ no usa Yoush. Asegúrate de haber introducido el alias completo.";
 
-/* Title for an action sheet indicating that the given username is not associated with a registered Signal account. */
+/* Title for an action sheet indicating that the given username is not associated with a registered Yoush account. */
 "USERNAME_LOOKUP_NOT_FOUND_TITLE" = "No se ha encontrado a esta persona";
 
 /* Instructions that appear below the username QR code on a sharable exported image. */
-"USERNAME_QR_CODE_EXPORT_INSTRUCTIONS" = "Escanea este código QR con tu teléfono para chatear conmigo en Signal.";
+"USERNAME_QR_CODE_EXPORT_INSTRUCTIONS" = "Escanea este código QR con tu teléfono para chatear conmigo en Yoush.";
 
 /* A message in a toast informing the user their username, link, and QR code have successfully been reset. Embeds {{ the user's new username }}. */
 "USERNAME_RESET_SUCCESSFUL_TOAST" = "Tu código QR y enlace se han restablecido y tu alias es %1$@";
